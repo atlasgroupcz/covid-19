@@ -3,6 +3,14 @@
   <channel>
     <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
     <item>
+    <title>Koronavirus: nejdůležitější právní otázky a odpovědi</title>
+      <description><![CDATA[Článek poskytující odpovědi na aktuální otázky]]></description>
+      <pubDate>Thu, 13 Mar 2020 12:00:00 +0100</pubDate>
+      <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/koronavirus-nejdulezitejsi-pravni-otazky-a-odpovedi</link>
+      <author>Frank Bold</author>
+      <enclosure type="image/png" url="https://www.pravniprostor.cz/files/c/b/c/cbc6b7e746d721104d5000775d442aea1ae6a733/covid-19_375x236.png"/>          
+    </item>
+    <item>
     <title>Ministerstvo financí slibuje promíjení pokut</title>
       <description><![CDATA[Tisková zpráva ministerstva financí informující o parametrech připravovaného liberačního balíčku pro podnikatele a fyzické osoby]]></description>
       <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
