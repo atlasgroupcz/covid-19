@@ -11,6 +11,14 @@
       <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
     </item>
     <item>
+    <title>Pracovněprávní dopady rozhodnutí Vlády ČR uzavřít školy</title>
+      <description><![CDATA[Článek popisující některé pracovněprávní dopady uzavření škol]]></description>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
+      <link>https://www.pravniprostor.cz/aktuality/aktuality/pracovnepravni-dopady-rozhodnuti-vlady-cr-uzavrit-skoly2</link>
+      <author>advokátní kancelář bpv Braun</author>
+      <enclosure type="image/png" url="https://www.pravniprostor.cz/files/c/b/c/cbc6b7e746d721104d5000775d442aea1ae6a733/covid-19_375x236.png"/>          
+    </item>
+    <item>
     <title>Uzavření škol</title>
       <description><![CDATA[Usnesení vlády, které nahrazuje a rozšiřuje mimořádné opatření ministerstva zdravotnictví uzavírající školská zařízení]]></description>
       <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
@@ -28,7 +36,7 @@
     </item>  
     <item>
     <title>Zákaz společenských akcí a omezení provozů</title>
-      <description><![CDATA[Usnesení vlády, kterým se zakazují kulturní, sportovní a jiné akce s účastí více než 30 osob, uzavírají některé služby jako koupaliště či knihovny a omezují otevírací doby restaurací]]></description>
+      <description><![CDATA[Usnesení vlády, kterým se zakazují kulturní, sportovní a jiné akce s účastí více než 30 osob, a uzavírají koupaliště, knihovny a jiné služby]]></description>
       <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vl%C3%A1dy%20-%20Z%C3%A1kaz%20spole%C4%8Densk%C3%BDch%20akc%C3%AD%20a%20omezen%C3%AD%20provoz%C5%AF.pdf</link>
       <author>Ministerstvo vnitra</author>
@@ -76,7 +84,7 @@
     </item>
     <item>   
       <title>Hraniční kontroly</title>
-      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nařízuje kontrola příznaků osob přijíždějících z míst s vysokým rizikem nákazy a povinné testování nemocných]]></description>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nařízuje hraniční kontrola příznaků a povinné testování nemocných]]></description>
       <pubDate>Sun, 10 Mar 2020 12:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_hrani%C4%8Dn%C3%AD_kontroly_p%C5%99%C3%ADznak%C5%AF_infek%C4%8Dn%C3%ADho_onemocn%C4%9Bn%C3%AD.pdf</link>
       <author>Ministerstvo zdravotnictví</author>
@@ -99,6 +107,14 @@
       <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
     </item>
     <item>   
+      <title>Koronavirus z pohledu pracovního a závazkového práva</title>
+      <description><![CDATA[Článek shrnující podstatné dopady koronaviru z pohledu pracovního a závazkového práva]]></description>
+      <pubDate>Sun, 9 Mar 2020 12:00:00 +0100</pubDate>
+      <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/koronavirus-z-pohledu-pracovniho-a-zavazkoveho-prava</link>
+      <author>Mgr. Natálie Ivanovská</author>
+      <enclosure type="image/png" url="https://www.pravniprostor.cz/files/e/2/2/e22ad4a6665ab582032938af0da7c6d6b001b907/Odskodnovani-imaterialnich-ujem.png"/>          
+    </item>
+    <item>   
       <title>Zákaz návštěv v nemocnicích</title>
       <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zakazují návštěvy ve zdravotnických zařízeních poskytujících lůžkovou péči]]></description>
       <pubDate>Sun, 9 Mar 2020 12:00:00 +0100</pubDate>
@@ -108,7 +124,7 @@
     </item>
     <item>   
       <title>Nařízení karantény pro osoby blízké</title>
-      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nařízuje karanténa všem osobám, které byly v kontaktu s pacientem u kterého byla potvrzena nákaza koronavirem]]></description>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nařízuje karanténa všem osobám, které byly v kontaktu s pacientem nákaženým koronavirem]]></description>
       <pubDate>Sun, 8 Mar 2020 12:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_karant%C3%A9ny_pro_osoby_bl%C3%ADzk%C3%A9.pdf</link>
       <author>Ministerstvo zdravotnictví</author>
@@ -116,7 +132,7 @@
     </item>
     <item>   
       <title>Zastavení příjmu žádostí o víza z Íránu</title>
-      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zastupitelskému úřadu v Teheránu přikazuje nezahajovat a zastavit probíhající vízová řízení]]></description>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se přikazuje nezahajovat a zastavit probíhající vízová řízení v Teheránu]]></description>
       <pubDate>Sat, 7 Mar 2020 12:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_OOP_-_zastaven%C3%AD_p%C5%99%C3%ADjmu_%C5%BE%C3%A1dost%C3%AD_o_v%C3%ADza_Ir%C3%A1n.pdf</link>
       <author>Ministerstvo zdravotnictví</author>
@@ -132,7 +148,7 @@
     </item>
     <item>   
       <title>Omezení karanténního opatření pro osoby pracující v dopravě</title>
-      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se některým řidičům a pilotům stanoví výjimka z automatické karantény po návratu z Itálie, aby nedošlo k paralýze dopravy]]></description>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se některým řidičům a pilotům stanoví výjimka z automatické karantény po návratu z Itálie]]></description>
       <pubDate>Sat, 7 Mar 2020 12:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Ukon%C4%8Den%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_OOP_-_v%C3%BDjimka_pro_pracuj%C3%ADc%C3%AD_v_doprav%C4%9B.pdf</link>
       <author>Ministerstvo zdravotnictví</author>
@@ -172,15 +188,22 @@
     </item>
     <item>   
       <title>Zákaz vývozu všech respirátorů třídy FFP3</title>
-      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zakazuje prodej ochranných prostředků třídy FFP3 jiným osobám, než jsou poskytovatelé zdravotních a sociálních služeb]]></description>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se povoluje prodej ochranných prostředků třídy FFP3 jen některým subjektům]]></description>
       <pubDate>Tue, 3 Mar 2020 12:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_OOP_-_z%C3%A1kaz_v%C3%BDvozu_v%C5%A1ech_respir%C3%A1tor%C5%AF_t%C5%99%C3%ADdy_FFP3_mimo_%C4%8CR.pdf</link>
       <author>Ministerstvo zdravotnictví</author>
       <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
     </item>
     <item>
+    <title>Dopady šíření koronaviru (COVID-19) na zaměstnavatele</title>
+      <description><![CDATA[Cílem článku je nastínit, co mohou čeští zaměstnavatelé dělat pro to, aby minimalizovali rizika zavlečení viru na své pracoviště]]></description>
+      <pubDate>Tue, 2 Mar 2020 12:00:00 +0100</pubDate>
+      <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/dopady-sireni-koronaviru-covid-19-na-zamestnavatele</link>
+      <author>Mgr. Jakub Málek</author>
+      <enclosure type="image/png" url="https://www.pravniprostor.cz/files/3/2/8/328e9a5fab39d094e8e0076e5c22467342bd7d13/zdravotnictv-pyramida-lkask-sluby.png"/>          
+    </item>
     <title>Pandemický plán České republiky</title>
-      <description><![CDATA[Pandemický plán České republiky z roku 2011 připravený pro případ chřipkové pandemie. Pandemií se rozumí epidemie velkého rozsahu zasahující celé kontinenty]]></description>
+      <description><![CDATA[Pandemický plán České republiky z roku 2011 připravený pro případ chřipkové pandemie]]></description>
       <pubDate>Wed, 9 Nov 2011 00:00:00 +0100</pubDate>
       <link>http://data.s3.atlascloud.cz/COVID/Pandemicky_plan_CR.pdf</link>
       <author>Ministerstvo zdravotnictví</author>
