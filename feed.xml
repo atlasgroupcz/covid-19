@@ -3,12 +3,110 @@
   <channel>
     <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
     <item>
-      <title>Koncepce a metodiky v oblasti ochrany obyvatelstva a krizového řízení</title>
-      <description><![CDATA[Koncepce obsahují záměr nebo návrh dalšího vývoje oblastí krizového řízení a ochrany obyvatelstva. Metodiky jsou metodické pokyny nebo postupy, které slouží jako základní návody k řešení dalších úkolů a činností v oblasti krizového řízení a ochrany obyvatelstva.]]></description>
-      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
-      <link>http://mesto-pisek.cz/koncepce-a-metodiky-v-oblasti-ochrany-obyvatelstva-a-krizoveho-rizeni/ds-1423</link>
-      <author>Město Písek</author>
+    <title>Pandemický plán České republiky</title>
+      <description><![CDATA[Pandemický plán České republiky z roku 2011 připravený pro případ chřipkové pandemie. Pandemií se rozumí epidemie velkého rozsahu zasahující celé kontinenty.]]></description>
+      <pubDate>Wed, 9 Nov 2011 00:00:00 +0100</pubDate>
+      <link>https://www.mzcr.cz/verejne/dokumenty/pandemicky-plan-ceske-republiky_5520_5.html</link>
+      <author>Ministerstvo zdravotnictví</author>
       <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
-    </item>    
+    </item>
+    <item>   
+      <title>Zákaz vývozu všech respirátorů třídy FFP3</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zakazuje prodej ochranných prostředků třídy FFP3 jiným osobám, než jsou poskytovatelé zdravotních a sociálních služeb]]></description>
+      <pubDate>Tue, 3 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40441&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>   
+      <title>Povinnost hlásit konání akcí s účastí nad 5000 osob</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se stanoví povinnost pořadatelů větších akcí oznámit je krajským hygienickým stanicím]]></description>
+      <pubDate>Wed, 4 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40451&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>   
+      <title>Zákaz vývozu dezinfekce rukou</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zakazuje vyvážet všechny přípravky osobní hygieny určené na dezinfekci rukou]]></description>
+      <pubDate>Thu, 5 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40469&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>   
+      <title>Karanténní opatření pro občany vracející se z Itálie</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nařizuje karanténa pro všechny osoby vracející se z Itálie]]></description>
+      <pubDate>Fri, 6 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40487&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item> 
+    <item>   
+      <title>Zákaz prodeje ochranných prostředků třídy FFP3</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zakazuje prodej všech osobních ochranných prostředků třídy FFP3]]></description>
+      <pubDate>Fri, 6 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40492&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>   
+      <title>Omezení karanténního opatření pro osoby pracující v dopravě</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se některým řidičům a pilotům stanoví výjimka z automatické karantény po návratu z Itálie, aby nedošlo k paralýze dopravy]]></description>
+      <pubDate>Sat, 7 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40494&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>   
+      <title>Nová karanténní a zdravotní opatření</title>
+      <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nahrazuje starší karanténní opatření a ukládají nové povinnosti řidičům]]></description>
+      <pubDate>Sat, 7 Mar 2020 12:00:00 +0100</pubDate>
+      <link>http://www.mzcr.cz/Soubor.ashx?souborID=40498&typ=application/pdf</link>
+      <author>Ministerstvo zdravotnictví</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>      
+    
+    
+    <item>   
+      <title>Vyhlášení nouzového stavu</title>
+      <description><![CDATA[Vláda vyhlásila nouzový stav]]></description>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
+      <link>https://www.vlada.cz/assets/media-centrum/aktualne/Usneseni-vlady-k-vyhlaseni-nouzoveho-stavu.pdf</link>
+      <author>Vláda</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>   
+    <title>Znovuzavedení ochrany hranic ČR</title>
+      <description><![CDATA[Ministerstvo vnitra uzavřelo hranice s výjimkou stanovených hraničních přechodů]]></description>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
+      <link>https://www.mvcr.cz/soubor/znovuzavedeni-pdf.aspx</link>
+      <author>Ministerstvo vnitra</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>
+    <title>Zákaz vstupu cizinců</title>
+      <description><![CDATA[Usnesením vlády, kterým se zakazuje vstup cizinců z rizikových oblastí, vstup občanů do riziových oblastí a pozastavují vízová řízení]]></description>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
+      <link></link>
+      <author>Ministerstvo vnitra</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>
+    <title>Zákaz společenských akcí a omezení provozů</title>
+      <description><![CDATA[Usnesení vlády, kterým se zakazují kulturní, sportovní a jiné akce s účastí více než 30 osob, uzavírají některé služby jako jsou koupaliště či knihovny a omezují otevírací doby restaurací]]></description>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
+      <link></link>
+      <author>Ministerstvo vnitra</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
+    <item>
+    <title>Omezení mezinárodní dopravy</title>
+      <description><![CDATA[Vláda svým usnesením stanoví omezení dopravcům mezinárodní silniční, drážní, lodní i letecké dopravy]]></description>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
+      <link></link>
+      <author>Ministerstvo vnitra</author>
+      <enclosure type="image/png" url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>          
+    </item>
   </channel>
 </rss>
