@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Dopady epidemie koronaviru na naše podnikání</title>
+            <description><![CDATA[Článek o tom, jak postupovat, když nám ve splnění závazku brání překážka způsobená vyšší mocí]]></description>
+            <pubDate>Mon, 16 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/dopady-epidemie-koronaviru-na-nase-podnikani-vyssi-moc</link>
+            <author>Mgr. Jan Veselý</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/4/9/f/49f59dabb7e6c4abbd6300fe82a1b01268bd762d/oteviraci-doba.png"/>
+        </item>
+        <item>
             <title>Zákaz vycházení</title>
             <description><![CDATA[Usnesení vlády, kterým se zakazuje volný pohyb osob a stanoví výjimky]]></description>
             <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
