@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>České soudy jsou při trestání lidí, kteří šíří nebezpečnou nákazu, nekompromisní</title>
+            <description><![CDATA[Článek o trestních aspektech šíření koronaviru]]></description>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/aktuality/aktuality/ceske-soudy-jsou-pri-trestani-lidi-kteri-siri-nebezpecnou-nakazu-nekompromisni-trestaji-i-nedbalost-pri-prevenci</link>
+            <author>JUDr. Ing. Petra Gříbková a Mgr. Eva Kijonková</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/a/f/0/af0da5ccef3b58fa2fdd549ec4202d8b254623fa/covid19-2_375x236.png"/>
+        </item>
+        <item>
+            <title>Doporučení k fungování soudů</title>
+            <description><![CDATA[Doporučení ministerstva spravedlnosti stanovící pravidla předcházení šíření koronaviru v soudních budovách]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%AD%20pro%20soudy.pdf</link>
+            <author>Ministerstvo spravedlnosti</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Jak si mají firmy poradit s karanténou</title>
             <description><![CDATA[Článek o povinnostech zaměstnavatelů v důsledku zákazu volného pohybu]]></description>
             <pubDate>Mon, 16 Mar 2020 8:00:00 +0100</pubDate>
