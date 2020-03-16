@@ -3,6 +3,79 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zákaz vycházení</title>
+            <description><![CDATA[Usnesení vlády, kterým se zakazuje volný pohyb osob a stanoví výjimky]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2085-2020%20-%20zakaz%20vychazeni.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další balík krizových opatření</title>
+            <description><![CDATA[Usnesení vlády, kterým se zavírají další provozy a stanoví výjimky ze stávajícího zákazu]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2084-2020%20-%20krizova%20opatreni.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení provozu orgánů veřejné moci</title>
+            <description><![CDATA[Usnesení vlády, kterým se omezují úřední hodiny, rozsah agend a chod úřadů]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2087-2020%20-%20omezeni%20provozu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+
+        <item>
+            <title>Pracovní povinnost žáků a studentů</title>
+            <description><![CDATA[Usnesení vlády, ukládající žákům a studentům lékařských profesí nastoupit k poskytování zdravotních služeb]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2090-2020%20-%20pracovni%20povinnost%20zaku%20a%20studentu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zajištění péče o děti určitých rodičů</title>
+            <description><![CDATA[Usnesení vlády, kterým se ukládá určit školy, které budou pečovat o děti od 3 do 10 let policistů, lékařů aj.]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2089-2020%20-%20zajisteni%20pece%20o%20deti.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Odklad voleb</title>
+            <description><![CDATA[Usnesení vlády, kterým se odkládají doplňovací volby do Senátu]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2088-2020%20-%20odklad%20voleb.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz dovolených lékařů</title>
+            <description><![CDATA[Usnesení vlády, kterým se zakazuje zdravotníkům čerpat dovolenou v průběhu nouzového stavu]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2086-2020%20-%20zakaz%20dovolenych.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Aktivace vojáků</title>
+            <description><![CDATA[Nařízení vlády, kterým se k zajišťování vnitřního pořádku a bezpečnosti povolává 2096 vojáků a 432 celníků]]></description>
+            <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Narizeni%20vlady%2083-2020.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zákaz maloobchodního prodeje</title>
             <description><![CDATA[Usnesení vlády, kterým se uzavírají maloobchodní provozovny a stanoví výjimky]]></description>
             <pubDate>Sat, 14 Mar 2020 12:00:00 +0100</pubDate>
