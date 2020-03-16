@@ -3,6 +3,60 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Další karanténní opatření</title>
+            <description><![CDATA[Usnesení vlády ukládající mj. ohlašovací povinnost všem osobám s příznaky chřipkového onemocnění]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.codexisuno.cz/8XU</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uzavření tržišť a sportovišť</title>
+            <description><![CDATA[Usnesení vlády, kterým se uzavírají bazény, sportoviště a tržnice]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.codexisuno.cz/8XT</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Výpomoc studentů</title>
+            <description><![CDATA[Usnesení vlády zajišťující poskytování péče v zařízeních sociálních služeb pomocí studentů vyšších odborných a vysokých škol]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.codexisuno.cz/8XS</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz návštěv věznic</title>
+            <description><![CDATA[Usnesení vlády zakazující návštěvy obviněných, odsouzených a chovanců v detenci]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.codexisuno.cz/8XR</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další uzavírání hranic</title>
+            <description><![CDATA[Usnesení vlády rozšiřující stávající uzavření hranic]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.codexisuno.cz/8XQ</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Šíření koronaviru je trestné</title>
+            <description><![CDATA[Nařízení vlády přidávající koronavirus COVID-19 na seznam nemocí, jejichž šíření je trestné]]></description>
+            <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.codexisuno.cz/8XP</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Koronavirus: nejdůležitější právní otázky a odpovědi</title>
             <description><![CDATA[Článek poskytující odpovědi na aktuální otázky]]></description>
             <pubDate>Fri, 13 Mar 2020 12:00:00 +0100</pubDate>
@@ -43,7 +97,7 @@
             <link>
                 http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vl%C3%A1dy%20-%20Uzav%C5%99en%C3%AD%20%C5%A1kol.pdf
             </link>
-            <author>Ministerstvo vnitra</author>
+            <author>Vláda</author>
             <enclosure type="image/png"
                 url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
@@ -55,7 +109,7 @@
             <link>
                 http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vl%C3%A1dy%20-%20Omezen%C3%AD%20mezin%C3%A1rodn%C3%AD%20dopravy.pdf
             </link>
-            <author>Ministerstvo vnitra</author>
+            <author>Vláda</author>
             <enclosure type="image/png"
                 url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
@@ -67,7 +121,7 @@
             <link>
                 http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vl%C3%A1dy%20-%20Z%C3%A1kaz%20spole%C4%8Densk%C3%BDch%20akc%C3%AD%20a%20omezen%C3%AD%20provoz%C5%AF.pdf
             </link>
-            <author>Ministerstvo vnitra</author>
+            <author>Vláda</author>
             <enclosure type="image/png"
                 url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
@@ -79,7 +133,7 @@
             <link>
                 http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vl%C3%A1dy%20-%20Z%C3%A1kaz%20vstupu%20cizinc%C5%AF.pdf
             </link>
-            <author>Ministerstvo vnitra</author>
+            <author>Vláda</author>
             <enclosure type="image/png"
                 url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
