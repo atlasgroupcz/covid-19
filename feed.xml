@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Daňový liberační balíček</title>
+            <description><![CDATA[Rozhodnutí ministyně financí o prominutí pokut a úroků v souvislosti s pandemií za účelem zmírnění jejího dopadu na daňové subjekty]]></description>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Financni-zpravodaj_2020-c-04%20-%20promijeni%20sankci.pdf</link>
+            <author>Ministerstvo financí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Ubytovací služby cizincům</title>
             <description><![CDATA[Usnesení vlády, kterým se povoluje prodej ubytovacích služeb cizincům]]></description>
             <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
