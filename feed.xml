@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Praktická příručka zaměstnavatele ke koronaviru</title>
+            <description><![CDATA[Seznam všech krizových opatření a praktická doporučení a rady od advokátů]]></description>
+            <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/koronavirus-prakticka-prirucka-zamestnavatele</link>
+            <author>Tomáš Procházka a Peter Perniš</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/0/7/2/07240c70796264108308ff02ce2535498e008ed4/covid-19-koronavirus-virus-mikroskop-375x236.png"/>
+        </item>
+        <item>
             <title>Daňový liberační balíček</title>
             <description><![CDATA[Rozhodnutí ministryně financí o prominutí pokut a úroků v souvislosti s pandemií za účelem zmírnění jejího dopadu na daňové subjekty]]></description>
             <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
