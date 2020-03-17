@@ -3,8 +3,35 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Omezení zdravotních výkonů</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví nařizující omezení plánovaných zdravotních výkonů na míru nezbytně nutnou]]></description>
+            <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Opat%C5%99en%C3%AD_obecn%C3%A9_povahy_-_omezen%C3%AD_prov%C3%A1d%C4%9Bn%C3%AD_zdravotn%C3%ADch_v%C3%BDkon%C5%AF_v_r%C3%A1mci_pl%C3%A1novan%C3%A9_p%C3%A9%C4%8De.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+        <title>Hlášení pozitivních nálezů</title>
+        <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví nařizující hlášení všech pacientů s onemocněním COVID-19 do informačního systému infekčních nemocí]]></description>
+        <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
+        <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1znam_o_hospitalizovan%C3%A9m_pozitivn%C3%ADm_n%C3%A1lezu_v_ISIN.pdf</link>
+        <author>Ministerstvo zdravotnictví</author>
+        <enclosure type="image/png"
+                   url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+    </item>
+        <item>
+            <title>Úprava žádanek pro laboratorní vyšetření</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se upravuje obsah žádanek pro laboratorní vyšetření na koronavirus]]></description>
+            <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_%C5%BE%C3%A1danky_pro_laboratorn%C3%AD_vy%C5%A1et%C5%99en%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Jednání zastupitelstev za nouzového stavu</title>
-            <description><![CDATA[Pokyn ministerstva vnitra pro obce omezující jednání zastupitelstev]]></description>
+            <description><![CDATA[Pokyn Ministerstva vnitra, omezující jednání zastupitelstev obcí]]></description>
             <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Pokyn%20k%20jednani%20zastupitelstev.pdf</link>
             <author>Ministerstvo vnitra</author>
@@ -13,7 +40,7 @@
         </item>
         <item>
             <title>Stavení lhůty k prokázání odborné způsobilosti</title>
-            <description><![CDATA[Stanovisko ministerstva vnitra, podle kterého se po dobu nouzového stavu pozastavuje běh 18 měsíční lhůty k prokázání zvláštní odborné způsobilosti úředníka]]></description>
+            <description><![CDATA[Stanovisko Ministerstva vnitra, podle kterého se po dobu nouzového stavu pozastavuje běh 18 měsíční lhůty k prokázání zvláštní odborné způsobilosti]]></description>
             <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Stanovisko_k_b%C4%9Bhu_18m%C4%9Bs%C3%AD%C4%8Dn%C3%AD_lh%C5%AFty_k_prok%C3%A1z%C3%A1n%C3%AD_zvl%C3%A1%C5%A1tn%C3%AD_odborn%C3%A9_zp%C5%AFsobilosti_v_dob%C4%9B_nouzov%C3%A9ho_stavu.pdf</link>
             <author>Ministerstvo vnitra</author>
@@ -22,7 +49,7 @@
         </item>
         <item>
             <title>Zákaz svateb</title>
-            <description><![CDATA[Pokyn ministerstva vnitra zakazující konání svatebních obřadů]]></description>
+            <description><![CDATA[Pokyn Ministerstva vnitra zakazující konání svatebních obřadů]]></description>
             <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Pokyn%20zakazujici%20svatby.pdf</link>
             <author>Ministerstvo vnitra</author>
@@ -94,7 +121,7 @@
         </item>
         <item>
             <title>Doporučení k fungování soudů</title>
-            <description><![CDATA[Doporučení ministerstva spravedlnosti stanovící pravidla předcházení šíření koronaviru v soudních budovách]]></description>
+            <description><![CDATA[Doporučení Ministerstva spravedlnosti stanovící pravidla předcházení šíření koronaviru v soudních budovách]]></description>
             <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%AD%20pro%20soudy.pdf</link>
             <author>Ministerstvo spravedlnosti</author>
@@ -278,7 +305,7 @@
         <item>
             <title>Ministerstvo financí slibuje promíjení pokut</title>
             <description>
-                <![CDATA[Tisková zpráva ministerstva financí informující o parametrech připravovaného liberačního balíčku pro podnikatele a fyzické osoby]]></description>
+                <![CDATA[Tisková zpráva Ministerstva financí informující o parametrech připravovaného liberačního balíčku pro podnikatele a fyzické osoby]]></description>
             <pubDate>Thu, 12 Mar 2020 12:00:00 +0100</pubDate>
             <link>https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/ministerstvo-financi-v-radu-dnu-predstav-37832
             </link>
