@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zákaz přivýdělku</title>
+            <description><![CDATA[Usnesení vlády, kterým se příslušníkům bezpečnostních sborů zakazuje vykonávat jinou výdělečnou činnost]]></description>
+            <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20105-2020%20-%20zakaz%20vydelecne%20cinnosti%20policistu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nařízení o zákazu distribuce léčiv</title>
+            <description><![CDATA[Nařízení vlády, kterým se zakazuje vývoz všech registrovaných léčivých přípravků určených pro náš trh]]></description>
+            <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Narizeni%20vlady%20104-2020%20-%20zakaz%20distribuce%20leciv.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Odklad zbraňových úkonů</title>
             <description><![CDATA[Podle ministerstva vnitra až na výjimky nelze úkony podle zákona o zbraních považovat za neodkladné úřední záležitosti]]></description>
             <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
