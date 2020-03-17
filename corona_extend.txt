@@ -12,6 +12,6 @@ karanténa
 nouzový stav
 stav nouze
 smrtící epidemie
-zombie outbreak
+outbreak
 apokalypsa
 konec světa
