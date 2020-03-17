@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ubytovací služby cizincům</title>
+            <description><![CDATA[Usnesení vlády, kterým se povoluje prodej ubytovacích služeb cizincům]]></description>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2099-2020%20-%20ubytovaci%20sluzby%20cizincum.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Doporučení nevycházet</title>
+            <description><![CDATA[Usnesení vlády, kterým se doporučuje osobám nad 70 let vůbec nevvcházet]]></description>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2098-2020%20-%20doporuceni%20nevychazet.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení sociálních služeb</title>
+            <description><![CDATA[Usnesení vlády, kterým se ukončují některé sociální služby a stanoví zákaz vycházení u domovů důchodců apod.]]></description>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2097-2020%20-%20omezeni%20socialnich%20sluzeb.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další uvolnění zákazu maloobchodu a služeb</title>
+            <description><![CDATA[Usnesení vlády, kterým se povoluje prodej textilu a servis elektroniky]]></description>
+            <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2096-2020%20-%20dalsi%20uvolneni%20zakazu%20maloobchodu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>České soudy jsou při trestání lidí, kteří šíří nebezpečnou nákazu, nekompromisní</title>
             <description><![CDATA[Článek o trestních aspektech šíření koronaviru]]></description>
             <pubDate>Mon, 16 Mar 2020 12:00:00 +0100</pubDate>
