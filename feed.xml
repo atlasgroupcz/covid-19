@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Monitor COVID-19</title>
+            <description><![CDATA[Nový doplněk od společnosti ATLAS Group usnadňující uživatelům Codexis Green orientaci v dané problematice]]></description>
+            <pubDate>Tue, 17 Mar 2020 18:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/aktuality/aktuality/novinka-v-codexis-green-monitor-covid-19</link>
+            <author>ATLAS Group</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zákaz přivýdělku</title>
             <description><![CDATA[Usnesení vlády, kterým se příslušníkům bezpečnostních sborů zakazuje vykonávat jinou výdělečnou činnost]]></description>
             <pubDate>Tue, 17 Mar 2020 12:00:00 +0100</pubDate>
