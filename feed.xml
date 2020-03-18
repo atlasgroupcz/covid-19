@@ -2,7 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
-<item>
+        <item>
+            <title>Doporučení provádět dezinfekci</title>
+            <description><![CDATA[Usnesení vlády, kterým se doporučuje dezinfikovat nákupní košíky a vozíky, jakož i vozdila veřejné dopravy]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%20251%20-%20doporu%C4%8Den%C3%AD%20prov%C3%A1d%C4%9Bt%20dezinfekci.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Trasování obyvatel</title>
+            <description><![CDATA[Usnesení vlády, kterým se schvaluje právní rámec pro orientační trasování polohy osob, u kterých byla potvrzena nákaza]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%20250%20-%20trasov%C3%A1n%C3%AD%20obyvatel.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uzavření lázní</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se lázním zakazuje přijímat nové pacienty]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_uzav%C5%99en%C3%AD%20l%C3%A1zn%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Obchody pro seniory</title>
+            <description><![CDATA[Usnesení vlády, podle něhož mohou v prodejnách potravin mezi 10 - 12 hodinou nakupovat pouze osoby starší 65 let]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%20249%20-%20obchody%20pro%20seniory.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Úprava prodlužování víz</title>
+            <description><![CDATA[Usnesení vlády, kterým se upravují podmínky prodlužování krátkodobých schengenských víz]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%20248%20-%20prodlou%C5%BEen%C3%AD%20v%C3%ADz.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Česká diplomacie slibuje pomoc</title>
+            <description><![CDATA[Ministerstvo zahraničních věcí připravilo nouzový balíček naléhavé pomoci pro české vývozce na zahraničních trzích]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Balicek%20ceske%20diplomacie.pdf</link>
+            <author>Ministerstvo zahraničních věcí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Krizová opatření a náhrada škody</title>
             <description><![CDATA[Článek o náhradě škody za krizová opatření podle krizového zákona]]></description>
             <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
