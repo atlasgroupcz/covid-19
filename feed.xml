@@ -2,6 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+<item>
+            <title>Krizová opatření a náhrada škody</title>
+            <description><![CDATA[Článek o náhradě škody za krizová opatření podle krizového zákona]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/krizova-opatreni-a-nahrada-skody-opatrny-vyklad</link>
+            <author>Dominik Fojtů</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/4/6/0/460eb48b0d4f2114e8f6f0e1951ebdd43b77e466/korona.jpg"/>
+        </item>
+        <item>
+            <title>Dopady liberačního daňového balíčku</title>
+            <description><![CDATA[Článek shrující jednotlivé dopady liberačního balíčku na různé daně a poplatky]]></description>
+            <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/financni-pravo/jake-dopady-ma-schvaleni-liberacniho-danoveho-balicku</link>
+            <author>Josef Žaloudek a spol.</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/e/a/1/ea185a14c738c01fc4ccf9cc233ee2622af2a0e9/Koronovavirus-COVID-penze-finance-dan-Pspvek.jpg"/>
+        </item>
         <item>
             <title>Koronavirus a dodavatelsko odběratelské vztahy</title>
             <description><![CDATA[Článek o právních dopadech krizových opatření na smluvní vztahy]]></description>
