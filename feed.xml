@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Koronavirus a dodavatelsko odběratelské vztahy</title>
+            <description><![CDATA[Článek o právních dopadech krizových opatření na smluvní vztahy]]></description>
+            <pubDate>Tue, 18 Mar 2020 18:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/koronavirus-a-dodavatelsko-odberatelske-vztahy-v-otazkach-a-odpovedich</link>
+            <author>Robert Nešpůrek a Štěpán Štarha</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/a/3/b/a3b557b7df4031c7d1be4c579e210c3cf16d56da/SICAV-ve-svetle-novely_bnt.png"/>
+        </item>
+        <item>
+            <title>Stanovisko k právním profesím</title>
+            <description><![CDATA[Stanovisko Ministerstva spravedlnosti, podle něhož se zákaz poskytování služeb nevztahuje na notáře, advokáty, exekutory a insolvenční správce]]></description>
+            <pubDate>Tue, 18 Mar 2020 18:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Stanovisko%20k%20pr%C3%A1vn%C3%ADm%20profes%C3%ADm.pdf</link>
+            <author>Ministerstvo spravedlnosti</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Postupy pro poskytovatele sociální péče</title>
+            <description><![CDATA[Doporučené postupy Ministerstva práce a sociálních věcí odpovídající na aktuální otázky poskytovatelů sociální péče]]></description>
+            <pubDate>Tue, 18 Mar 2020 18:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%A9%20postupy%20pro%20poskytovatele%20soci%C3%A1ln%C3%ADch%20slu%C5%BEeb.pdf</link>
+            <author>Ministerstvo práce a sociálních věcí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Monitor COVID-19</title>
             <description><![CDATA[Nový doplněk od společnosti ATLAS Group usnadňující uživatelům Codexis Green orientaci v dané problematice]]></description>
             <pubDate>Tue, 17 Mar 2020 18:00:00 +0100</pubDate>
