@@ -17,3 +17,8 @@ smrtící epidemie
 outbreak
 apokalypsa
 konec světa
+SARS
+SARS-nCOV-2019
+2019-nCoV
+SARS-cov-2
+COVID-19
