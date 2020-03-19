@@ -4,7 +4,7 @@
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
             <title>Další obchody pro seniory</title>
-            <description><![Mimořádné opatření Ministerstva zdravotnictví, kterým se režim pro seniory (10-12 hod) rozšiřuje i na drogerie, lékárny a podobné provozy]]></description>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se režim pro seniory (10-12 hod) rozšiřuje i na drogerie, lékárny a podobné provozy]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1kaz_p%C5%99%C3%ADtomnosti_ve_vybran%C3%BDch_maloobchodn%C3%ADch_prodejn%C3%A1ch_s_v%C3%BDjimkou_osob_star%C5%A1%C3%ADch_65_let.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
@@ -13,7 +13,7 @@
         </item>
         <item>
             <title>Zákaz otců při porodu</title>
-            <description><![Mimořádné opatření Ministerstva zdravotnictví, kterým se zákaz návštěv rozšiřuje i na přítomnost otce u porodu]]></description>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zákaz návštěv rozšiřuje i na přítomnost otce u porodu]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1kaz_n%C3%A1v%C5%A1t%C4%9Bv_pacient%C5%AF_v_zdravotnick%C3%BDch_za%C5%99%C3%ADzen%C3%ADch_v_v%C3%BDjimkami.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title>Pracovněprávní dopady COVID-19</title>
-            <description><![Článek o některých pracovněprávních dopadech přijatých krizových opatření]]></description>
+            <description><![CDATA[Článek o některých pracovněprávních dopadech přijatých krizových opatření]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/pracovnepravni-dopady-covid-19</link>
             <author>Adam Felix</author>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title>K ústavnosti a zákonnosti krizových opatření</title>
-            <description><![Rozhovor s ústavním právníkem Janem Wintrem o souladu krizových postupů s ústavním pořádkem]]></description>
+            <description><![CDATA[Rozhovor s ústavním právníkem Janem Wintrem o souladu krizových postupů s ústavním pořádkem]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/files/c/6/7/c675efc4d0dfff365c554587315eca35ef427209/Winter.png</link>
             <author>Anna Matoušková</author>
@@ -40,7 +40,7 @@
         </item>
         <item>
             <title>Náhrada škody podle krizového zákona</title>
-            <description><![Další článek na téma odškodňování krizových opatření]]></description>
+            <description><![CDATA[Další článek na téma odškodňování krizových opatření]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/nahrada-skody-podle-krizoveho-zakona</link>
             <author>Štěpán Ciprýn</author>
