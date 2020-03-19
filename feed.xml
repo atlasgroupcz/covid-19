@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Další obchody pro seniory</title>
+            <description><![Mimořádné opatření Ministerstva zdravotnictví, kterým se režim pro seniory (10-12 hod) rozšiřuje i na drogerie, lékárny a podobné provozy]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1kaz_p%C5%99%C3%ADtomnosti_ve_vybran%C3%BDch_maloobchodn%C3%ADch_prodejn%C3%A1ch_s_v%C3%BDjimkou_osob_star%C5%A1%C3%ADch_65_let.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                   url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz otců při porodu</title>
+            <description><![Mimořádné opatření Ministerstva zdravotnictví, kterým se zákaz návštěv rozšiřuje i na přítomnost otce u porodu]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1kaz_n%C3%A1v%C5%A1t%C4%9Bv_pacient%C5%AF_v_zdravotnick%C3%BDch_za%C5%99%C3%ADzen%C3%ADch_v_v%C3%BDjimkami.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Povinné roušky</title>
             <description><![CDATA[Usnesení vlády přikazující mimo bydliště nosit ochranné prostředky (respirátor, rouška, ústenka, šátek, šál) bránící šíření kapének]]></description>
             <pubDate>Wed, 18 Mar 2020 8:00:00 +0100</pubDate>
