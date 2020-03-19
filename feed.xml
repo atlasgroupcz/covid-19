@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nouzový stav a rodinně právní vztahy</title>
+            <description><![CDATA[Odpovědi z Unie rodinných advokátů na praktické otázky v související s rodičovstvím v současné situaci]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/jak-covid-19-ovlivni-rodinne-pravni-vztahy-v-otazkach-a-odpovedich</link>
+            <author>Daniela Kovářová</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/2/b/9/2b965d01b9ff9cbd9e73c5e0c835c287bd6bfec4/rodi-dt-opatrovnk-pe-375-236.jpg"/>
+        </item>
+        <item>
             <title>Trasování obyvatel</title>
             <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví nařizující mobilním operátorům a bankám spolupracovat při epidemiologickém trasování osob s COVID-19]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
