@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Trasování obyvatel</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví nařizující mobilním operátorům a bankám spolupracovat při epidemiologickém trasování osob s COVID-19]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_pro_oper%C3%A1tory_ve%C5%99ejn%C3%BDch_mobiln%C3%ADch_komunika%C4%8Dn%C3%ADch_s%C3%ADt%C3%AD_a_banky.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Doporučená opatření velkým podnikům</title>
             <description><![CDATA[Doporučení Svazu průmyslu a dopravy pro velké průmyslové podniky proti šíření koronaviru]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
