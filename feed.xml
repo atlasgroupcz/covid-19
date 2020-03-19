@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Doporučená opatření velkých podniků</title>
+            <description><![CDATA[Doporučení Svazu průmyslu a dopravy pro velké průmyslové pondiky proti šíření koronaviru]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://www.foodnet.cz/polozka/?jmeno=+Doporu%C4%8Den%C3%A1+opat%C5%99en%C3%AD+velk%C3%BDch+podnik%C5%AF+proti+%C5%A1%C3%AD%C5%99en%C3%AD+koronaviru&id=39291</link>
+            <author>Svaz průmyslu a dopravy</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Doporučení pro provozovatele potravinářských podniků</title>
+            <description><![CDATA[Doporučení pražské hygienické stanice v souvislosti s pandemií koronaviru]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://www.hygpraha.cz/Soubor.ashx?souborID=3731&typ=application/pdf&nazev=HSHMP_Doporu%C4%8Den%C3%AD%20pro%20provozovatele%20potravin%C3%A1%C5%99sk%C3%BDch%20podnik%C5%AF.pdf</link>
+            <author>Hygienická stanice hlavního města Prahy</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Myslivost, rybářství a včelařství</title>
+            <description><![CDATA[Informace Ministerstva zemědělství, podle něhož zákazu podléhají toliko společné lovy a jiné shromažďování, pokud nejsou nezbytné k péči o zvířata]]></description>
+            <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://eagri.cz/public/web/mze/tiskovy-servis/aktuality/koronavirus/vykon-prava-myslivosti-rybarskeho-prava.html</link>
+            <author>Ministerstvo zemědělství</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Další obchody pro seniory</title>
             <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se režim pro seniory (10-12 hod) rozšiřuje i na drogerie, lékárny a podobné provozy]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
