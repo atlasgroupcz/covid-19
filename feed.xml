@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Právní ochrana před koronavirem</title>
+            <description><![CDATA[Článek o právních institutech, které mohou podnikatelé využít k obraně svého podnikání]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/pravni-ochrana-podniku-pred-negativnimi-dopady-koronaviru</link>
+            <author>Jan Jakl a Juraj Grman</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/e/a/1/ea185a14c738c01fc4ccf9cc233ee2622af2a0e9/Koronovavirus-COVID-penze-finance-dan-Pspvek.jpg"/>
+        </item>
+        <item>
             <title>Oprávnění policie</title>
             <description><![CDATA[Stanovisko odboru bezpečnostní politiky Ministerstva vnitra k oprávněním obecní policie ve vztahu k dodržování krizových opatření]]></description>
             <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
