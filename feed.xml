@@ -3,6 +3,60 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Závěti v době apokalyptické</title>
+            <description><![CDATA[Článek o právní úpravě pořizování závětí v situacích ohrožení života či zdraví]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/zaveti-v-dobe-apokalypticke</link>
+            <author>Karolina Drachovská</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/5/6/4/564248cd2d10ff6b9b6c91160019a24819c4594d/zv.jpg"/>
+        </item>
+        <item>
+            <title>Karanténa - část I.</title>
+            <description><![CDATA[První část článku, který podrobně rozebírá právní aspekty karantény]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/karantena-cast-i</link>
+            <author>Tereza Landwehrmann</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/2/3/5/23549490a23544ccc6bc5d29cf3fbe7f72af88d1/korona-zem-karantna.jpg"/>
+        </item>
+        <item>
+            <title>Propouštění uzdravených</title>
+            <description><![CDATA[Kritéria, kdy je bezpečné propustit pacienty s COVID-19 z nemocnice nebo ukončit domácí izolaci]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/kriteria-pro-propusteni-potvrzenych-pripadu-covid-19.pdf</link>
+            <author>Státní zdravotní ústav</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Očkování a koronavirus</title>
+            <description><![CDATA[Stanovisko České vakcinologické společnosti ČLS JEP, podle něhož lze provádět očkování bez omezení i v současné situaci]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/stanovisko%20cvs%20k%20covid-19.pdf</link>
+            <author>Česká vakcinologická společnost</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Doporučení pro ordinace dětských lékařů</title>
+            <description><![CDATA[Doporučení Státního zdravotního ústavu k chodu ordinací praktických lékařů pro děti a dorost, případně pohotovostní službu]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%AD-pro-ordinace-praktick%C3%BDch-l%C3%A9ka%C5%99%C5%AF-pro-d%C4%9Bti-a-dorost.pdf</link>
+            <author>Státní zdravotní ústav</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Doporučení pro čekárny dětských lékařů</title>
+            <description><![CDATA[Doporučení Státního zdravotního ústavu pro návštěvníky čekáren lékařů pro děti a dorost]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%AD-pro-%C4%8Dek%C3%A1rny-praktick%C3%BDch-l%C3%A9ka%C5%99%C5%AF-pro-d%C4%9Bti-a-dorost.pdf</link>
+            <author>Státní zdravotní ústav</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Příkaz k vyčlenění lůžek</title>
             <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, které poskytovatelům akutní lůžkové péče přikazuje mj. vyčlenit lůžka pro akutní případy COVID-19]]></description>
             <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
