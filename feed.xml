@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Příkaz k vyčlenění lůžek</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, které poskytovatelům akutní lůžkové péče přikazuje mj. vyčlenit lůžka pro akutní případy COVID-19]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_p%C5%99%C3%ADkaz_poskytovatel%C5%AFm_akutn%C3%AD_l%C5%AF%C5%BEkov%C3%A9_p%C3%A9%C4%8De.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová nákupní doba</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, které posouvá dobu určenou pro seniory na 7-9 hod a povoluje jejich doprovod]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_nov%C3%A1_n%C3%A1kupn%C3%AD_doba_pro_seniory.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Knížka přeshraničního pracovníka</title>
+            <description><![CDATA[Usnesení vlády, kterým se ukládá přeshraničním pracovníkům na hranicích předkládat knížku přeshraničního pracovníka a uvolňují některá pravidla pracujícím cizincům]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20112-2020%20-%20knizka%20preshranicniho%20pracovnika.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další uvolnění zákazu služeb</title>
+            <description><![CDATA[Usnesení vlády, kterým se povoluje realitní zprostředkování, účetní poradenství, vedení účetnictví a daňové evidence]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20110-2020%20-%20rozsireni%20sluzeb.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Ošetřovné pro OSVČ</title>
+            <description><![CDATA[Usnesení vlády, kterým se osobám samostatně výdělečně činným schvaluje finanční příspěvek na ošetřovné]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20109-2020%20-%20osetrovne%20pro%20OSVC.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Nouzový stav a rodinně právní vztahy</title>
             <description><![CDATA[Odpovědi z Unie rodinných advokátů na praktické otázky v související s rodičovstvím v současné situaci]]></description>
             <pubDate>Thu, 19 Mar 2020 8:00:00 +0100</pubDate>
