@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Plaquenil</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se omezuje používání potenciálně účinného léku proti COVID-19 na jiné nemoci]]></description>
+            <pubDate>Sun, 22 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_p%C5%99edepisov%C3%A1n%C3%AD_l%C3%A9%C4%8Div%C3%A9ho_p%C5%99%C3%ADpravku_Plaquenil.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Karanténa zdravotnických pracovníků</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se upravují opatření vůči zdravotnickým pracovníkům, kteří přišli do styku s COVID-19 bez ochranných prostředků]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_organizace_a_prov%C3%A1d%C4%9Bn%C3%AD_karant%C3%A9ny_u_zdravotnick%C3%BDch_pracovn%C3%ADk%C5%AF.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Občanské a řidičské průkazy</title>
+            <description><![CDATA[Stanovisko Ministerstva vnitra, podle něhož není třeba po dobu trvání nouzového stavu obnovovat doklady k prokazování totožnosti (pasy, občanky, řidičáky)]]></description>
+            <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mvcr.cz/clanek/stanovisko-ministerstva-vnitra-k-posuzovani-prokazovani-totoznosti-obcanskym-prukazem-cestovnim-pasem-a-ridicskym-prukazem.aspx</link>
+            <author>Ministerstvo vnitra</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Právní ochrana před koronavirem</title>
             <description><![CDATA[Článek o právních institutech, které mohou podnikatelé využít k obraně svého podnikání]]></description>
             <pubDate>Fri, 20 Mar 2020 8:00:00 +0100</pubDate>
