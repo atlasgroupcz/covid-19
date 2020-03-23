@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
-                <item>
+        <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>      
+        <item>
+            <title>Podpory malým a středním podnikatelům a živnostníkům</title>
+            <description><![CDATA[Českomoravská záruční a rozvojová banka připravuje program COVID II, který bude podnikatelům poskytovat záruky za úvěry komerčních bank a přispívat na úhradu úroků]]></description>
+            <pubDate>Mon, 23 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.cmzrb.cz/cmzrb-rozdeli-dalsich-5-miliard-na-covid-ii/</link>
+            <author>ČMZRB</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Legislativní nouze</title>
+            <description><![CDATA[Vláda navrhuje vyhlásit stav legislativní nouze]]></description>
+            <pubDate>Mon, 23 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%20254%20-%20legislativni%20nouze.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Koronavirus a předávání dítěte mezi rodiči</title>
             <description><![CDATA[Článek podrobně rozebírající otázky spojené s péčí o děti, např. zda má docházet k předávání dětí a zda platí rozsudky i v době epidemie]]></description>
             <pubDate>Mon, 23 Mar 2020 8:00:00 +0100</pubDate>
