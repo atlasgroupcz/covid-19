@@ -3,11 +3,11 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>      
         <item>
-            <title>Nová úprava maloobchodu</title>
-            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví stanovící, které maloobchody jsou povoleny a za jakých podmínek]]></description>
+            <title>Nahrazení usnesení vlády opatřeními</title>
+            <description><![CDATA[Usnesení vlády, rušící usnesení o volném pohybu osob a omezeném provozu institucí; nahradila je mimořádná opatření Ministerstva zdravotnictví]]></description>
             <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
-            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_omezen%C3%AD_maloobchodn%C3%ADho_prodeje.pdf</link>
-            <author>Ministerstvo zdravotnictví</author>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20126-2020%20-%20uprava%20omezeni.pdf</link>
+            <author>Vláda</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
@@ -16,6 +16,33 @@
             <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví stanovící způsoby omezení činnosti orgánů veřejné moci]]></description>
             <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
             <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_prodlou%C5%BEen%C3%AD_omezen%C3%AD_%C4%8Dinnosti_OVM_a_SO.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava volného pohybu osob</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se pokračuje v zákazu volného pohybu osob po uplynutí platnosti usnesení vlády]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_voln%C3%BD_pohyb_osob_na_%C3%BAzem%C3%AD_%C4%8CR.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nahrazení usnesení vlády opatřeními</title>
+            <description><![CDATA[Usnesení vlády, rušící usnesení upravující zákazy provozů; nahradila je mimořádná opatření Ministerstva zdravotnictví]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20127-2020%20-%20uprava%20maloobchodu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava maloobchodu</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví stanovící, které maloobchody jsou povoleny a za jakých podmínek]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_omezen%C3%AD_maloobchodn%C3%ADho_prodeje.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
@@ -30,11 +57,47 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Nová úprava volného pohybu osob</title>
-            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se pokračuje v zákazu volného pohybu osob po uplynutí platnosti usnesení vlády]]></description>
+            <title>Datové schránky zdarma</title>
+            <description><![CDATA[Usnesení vlády, kterým se umožňuje posílání datových zpráv mezi soukromými osobami zdarma]]></description>
             <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
-            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_voln%C3%BD_pohyb_osob_na_%C3%BAzem%C3%AD_%C4%8CR.pdf</link>
-            <author>Ministerstvo zdravotnictví</author>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20123-2020%20-%20datove%20schranky%20zdarma.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Karanténa pro pracovníky vracející se z Rakouska a Německa</title>
+            <description><![CDATA[Usnesení vlády stanovící, že osoby, které vycestují na déle než 21 dní do Rakouska či Německa, čeká po návratu karanténa]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20128-2020%20-%20karantena%20Rakousko%20a%20Nemecko.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Dovolená v karanténě</title>
+            <description><![CDATA[Usnesení vlády, kterým se zdravotníkům povoluje čerpat dovolenou, pokud jim byla nařízena karanténa]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20125-2020%20-%20dovolena%20v%20karantene.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Školy i pro další veřejné zaměstnance</title>
+            <description><![CDATA[Usnesení vlády, kterým se zajišťuje péče o děti i zaměstnancům obcí a krajů provádějící sociální práce nebo služby]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20124-2020%20-%20zajisteni%20skol%20socialnim%20pracovnikum.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení zasedání zastupitelstev</title>
+            <description><![CDATA[Usnesení vlády, kterým se přikazuje konat zasedání zastupitelstva pouze, je-li to nezbytné, a to prosředky komunikace na dálku]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20122-2020%20-%20omezeni%20zasedani%20zastupitelstev.pdf</link>
+            <author>Vláda</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
