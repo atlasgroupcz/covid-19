@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>      
         <item>
+            <title>Nová úprava maloobchodu</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví stanovící, které maloobchody jsou povoleny a za jakých podmínek]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_omezen%C3%AD_maloobchodn%C3%ADho_prodeje.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava chodu veřejných institucí</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví stanovící způsoby omezení činnosti orgánů veřejné moci]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_prodlou%C5%BEen%C3%AD_omezen%C3%AD_%C4%8Dinnosti_OVM_a_SO.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava prodejní doby pro seniory</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se prodejní doba pro seniory omezuje na velké obchody a posouvá na 8-10 hodin]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_vy%C4%8Dlen%C4%9Bn%C3%AD_prodejn%C3%AD_doby_pro_seniory.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava volného pohybu osob</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se pokračuje v zákazu volného pohybu osob po uplynutí platnosti usnesení vlády]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_voln%C3%BD_pohyb_osob_na_%C3%BAzem%C3%AD_%C4%8CR.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz lůžkových rehabilitací</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se zakazuje přijímat pacienty za účelem poskytování následné lůžkové léčebně rehabilitační péče]]></description>
+            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <link>file:///L:/INTERNET%202020/CORONA/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_n%C3%A1sledn%C3%A1_l%C5%AF%C5%BEkov%C3%A1_l%C3%A9%C4%8Debn%C4%9B_rehabilita%C4%8Dn%C3%AD_p%C3%A9%C4%8De.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Podpory malým a středním podnikatelům a živnostníkům</title>
             <description><![CDATA[Českomoravská záruční a rozvojová banka připravuje program COVID II, který bude podnikatelům poskytovat záruky za úvěry komerčních bank a přispívat na úhradu úroků]]></description>
             <pubDate>Mon, 23 Mar 2020 8:00:00 +0100</pubDate>
