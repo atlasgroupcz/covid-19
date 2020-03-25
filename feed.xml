@@ -5,9 +5,36 @@
         <item>
             <title>Právo v roušce</title>
             <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění jejích ekonomických dopadů]]></description>
-            <pubDate>Tue, 24 Mar 2020 8:00:00 +0100</pubDate>
+            <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://www.pravovrousce.cz</link>
             <author>SEDLAKOVA LEGAL a další</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+                <item>
+            <title>Shromažďování</title>
+            <description><![CDATA[Návod Ministerstva vnitra jak má obecní úřad reagovat, je-li mu oznámeno konání shromáždění]]></description>
+            <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
+            <link>Ministerstvo vnitra</link>
+            <author>https://www.mvcr.cz/clanek/informace-ministerstva-vnitra-k-oznamovani-shromazdeni-v-dobe-trvani-omezeni-pohybu-osob-a-nouzoveho-stavu.aspx</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Promíjení poplatků</title>
+            <description><![CDATA[Návod Ministerstva vnitra pro obce, jak mohou promíjet místní poplatky a sankce za jejich neplacení]]></description>
+            <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mvcr.cz/clanek/informace-k-moznosti-obci-posunout-splatnost-mistnich-poplatku-ci-promijet-mistni-poplatky-v-obdobi-nouzoveho-stavu.aspx</link>
+            <author>Ministerstvo vnitra</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Hlášení nemocných</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nařizuje do hodiny hlásit všechny těžší výskyty COVID-19]]></description>
+            <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1znam_o_hospitalizovan%C3%A9m_pozitivn%C3%ADm_n%C3%A1lezu_v_ISIN2.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
