@@ -11,7 +11,16 @@
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
-                <item>
+        <item>
+            <title>Práva pacientů v nouzovém stavu</title>
+            <description><![CDATA[Článek o právech pacientů, kteří nemají COVID, ale potřebují zdravotní péči]]></description>
+            <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/prava-pacientu-v-nouzovem-stavu-nemam-covid-potrebuji-peci</link>
+            <author>Ondřej Dostál</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/2/0/4/204c267caca5aa15873bfacc7f96a617b1e3b594/Untitled.jpg"/>
+        </item>
+        <item>
             <title>Shromažďování</title>
             <description><![CDATA[Návod Ministerstva vnitra jak má obecní úřad reagovat, je-li mu oznámeno konání shromáždění]]></description>
             <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
