@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>      
         <item>
+            <title>Trestněprávní aspekty COVID-19</title>
+            <description><![CDATA[Článek shrnující trestněprávní aspekty, které se pojí s přijatými opatřeními vlády a nouzovým stavem]]></description>
+            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/trestni-pravo/covid-19-trestnepravni-aspekty</link>
+            <author>Adam Felix a Ondřej Ambrož</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/2/4/2/242715398efe7e80193e3e8439b8f6763100e486/Untitled.jpg"/>
+        </item>
+        <item>
+            <title>Náhrada mzdy zaměstnancům</title>
+            <description><![CDATA[Článek o náhradách mzdy podle méně používaných norem zákoníku práce]]></description>
+            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/nahrada-mzdy-zamestnancum-podle-mene-pouzivanych-norem-pracovniho-zakoniku</link>
+            <author>Štěpán Ciprýn</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/4/7/1/47153039e09e253cd8aed75a2ea5bc2f5dd976dc/Dusledky-neplatneho-sjednani-pracovniho-pomeru_Nahlikova-Pisek.png"/>
+        </item>
+        <item>
             <title>Právo v roušce</title>
             <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
             <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
