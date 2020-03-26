@@ -5,9 +5,27 @@
         <item>
             <title>Právo v roušce</title>
             <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
-            <pubDate>Wed, 25 Mar 2020 8:00:00 +0100</pubDate>
+            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://www.pravovrousce.cz</link>
             <author>SEDLAKOVA LEGAL a další</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Hygienicko-epidemiologická opatření</title>
+            <description><![CDATA[Poskytovatelům akutní lůžkové péče se nařizuje oddělovat pacienty s COVID-19 již na vstupu a vyčlenit jim prostory]]></description>
+            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_poskytovatel%C5%AFm_akutn%C3%AD_l%C5%AF%C5%BEkov%C3%A9_p%C3%A9%C4%8De.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Povolení lůžkových rehabilitací</title>
+            <description><![CDATA[Zrušení zákazu přijímat pacienty k následné lůžkové léčebně rehabilitační péči; zákaz pro lázeňskou léčebně rehabilitační péči trvá]]></description>
+            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_l%C3%A1ze%C5%88sk%C3%A1_l%C3%A9%C4%8Debn%C4%9B_rehabilita%C4%8Dn%C3%AD_p%C3%A9%C4%8De.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
