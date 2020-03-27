@@ -5,7 +5,7 @@
         <item>
             <title>Právo v roušce</title>
             <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
-            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
+            <pubDate>Fri, 27 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://www.pravovrousce.cz</link>
             <author>SEDLAKOVA LEGAL a další</author>
             <enclosure type="image/png"
@@ -14,11 +14,29 @@
         <item>
             <title>Nejčastější otázky v souvislosti s pandemií</title>
             <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
-            <pubDate>Thu, 26 Mar 2020 8:00:00 +0100</pubDate>
+            <pubDate>Fri, 27 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
             <author>Deloitte Legal</author>
             <enclosure type="image/png"
                        url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
+        </item>
+        <item>
+            <title>Zjednodušení u sociálních dávek</title>
+            <description><![CDATA[Usnesení vlády, kterým se zjednodušují řízení ve věcech dávek státní sociální podory a dalších příspěvků]]></description>
+            <pubDate>Fri, 27 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20130-2020%20-%20socialni%20davky.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zvláštní úprava některých pendlerů</title>
+            <description><![CDATA[Usnesení vlády, kterým se přeshraničním pracovníkům ve zdravotnictví, sociálních službách a integrovaném záchranném systému ruší některé povinnosti]]></description>
+            <pubDate>Fri, 27 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20132-2020%20-%20uprava%20pendleru.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
             <title>Otevřené prodejny a služby</title>
