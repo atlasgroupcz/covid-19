@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>      
+        <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        <item>
+            <title>Povinné vyšetření při přijetí</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví pro přijímání klientů domovů pro zdravotně postižené, seniory či se zvláštním režimem]]></description>
+            <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_v%C5%A1em_poskytovatel%C5%AFm_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_k_p%C5%99ij%C3%ADm%C3%A1n%C3%AD_nov%C3%BDch_klient%C5%AF_a_jejich_testov%C3%A1n%C3%AD_na_COVID-19.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další hygienicko-epidemiologická opatření</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se poskytovatelům zdravotních a sociálních služeb přikazuje vyčlenit zvláštní prostor pro pacienty a klienty s COVID-19]]></description>
+            <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_poskytovatel%C5%AFm_zdravotn%C3%ADch_slu%C5%BEeb_n%C3%A1sledn%C3%A9_a_dlouhodob%C3%A9_l%C5%AF%C5%BEkov%C3%A9_p%C3%A9%C4%8De_a_poskytovatel%C5%AFm_soci%C3%A1ln%C3%ADch_slu%C5%BEeb.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Žádanky o vyšetření</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, které upravuje způsob žádosti o odběr vzorku či provedení vyšetření pacientů na COVID-19]]></description>
+            <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_elektronick%C3%A9_%C5%BE%C3%A1danky_v_prost%C5%99ed%C3%AD_NZIS.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Přítomnost osob u porodů</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nahrazuje opatření zakazující návštěvy pacientů, nově upravuje také podmínky přítomnosti u porodů]]></description>
+            <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_z%C3%A1kaz_n%C3%A1v%C5%A1t%C4%9Bv_pacient%C5%AF_ve_zdravotnick%C3%BDch_za%C5%99%C3%ADzen%C3%ADch_a_za%C5%99%C3%ADzen%C3%AD_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_s_v%C3%BDjimkami.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
         <item>
             <title>Právo v roušce</title>
             <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
