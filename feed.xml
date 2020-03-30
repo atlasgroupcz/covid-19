@@ -21,6 +21,15 @@
                        url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
         </item>
         <item>
+            <title>Půlroční úvěrové moratorium</title>
+            <description><![CDATA[Tisková zpráva Ministerstva financí o připravované regulaci úroků hypoték, spotřebitelských i podnikatelských úvěrů]]></description>
+            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/mf-predlozi-navrh-na-pulrocni-uverove-mo-38024</link>
+            <author>Ministerstvo financí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Cestování, mzdy, platy, stravování, pracovněprávní úsporná opatření</title>
             <description><![CDATA[Článek o některých dalších pracovněprávních aspektech krizových opatření]]></description>
             <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
@@ -30,7 +39,7 @@
                        url="https://www.pravniprostor.cz/files/6/8/7/6870cf6091cfe747963bf69ccee423175acd8898/rouka-ena-nemoc-koronavirus-COVID-19-375x236.png"/>
         </item>
         <item>
-            <title>Povinné vyšetření při přijetí</title>
+            <title>Povinné vyšetření a karanténa při přijetí</title>
             <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví pro přijímání klientů domovů pro zdravotně postižené, seniory či se zvláštním režimem]]></description>
             <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_v%C5%A1em_poskytovatel%C5%AFm_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_k_p%C5%99ij%C3%ADm%C3%A1n%C3%AD_nov%C3%BDch_klient%C5%AF_a_jejich_testov%C3%A1n%C3%AD_na_COVID-19.pdf</link>
