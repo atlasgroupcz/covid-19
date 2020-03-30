@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Právo v roušce</title>
+            <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
+            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://www.pravovrousce.cz</link>
+            <author>SEDLAKOVA LEGAL a další</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nejčastější otázky v souvislosti s pandemií</title>
+            <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
+            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
+            <author>Deloitte Legal</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
+        </item>
+        <item>
             <title>Povinné vyšetření při přijetí</title>
             <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví pro přijímání klientů domovů pro zdravotně postižené, seniory či se zvláštním režimem]]></description>
             <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
@@ -39,22 +57,13 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Právo v roušce</title>
-            <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
-            <pubDate>Fri, 27 Mar 2020 8:00:00 +0100</pubDate>
-            <link>http://www.pravovrousce.cz</link>
-            <author>SEDLAKOVA LEGAL a další</author>
+            <title>Doporučené třídy ochrany pro vybrané profese</title>
+            <description><![CDATA[Doporučení Ministerstva zdravotnictví, pro které profese je třeba používat nejvyšší ochranu a kdy stačí rouška]]></description>
+            <pubDate>Sat, 28 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Doporuceni_ohledne_respiratoru_a_rousek_final.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
-            <title>Nejčastější otázky v souvislosti s pandemií</title>
-            <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
-            <pubDate>Fri, 27 Mar 2020 8:00:00 +0100</pubDate>
-            <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
-            <author>Deloitte Legal</author>
-            <enclosure type="image/png"
-                       url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
         </item>
         <item>
             <title>Program Antivirus - opatření k zamezení propouštění</title>
