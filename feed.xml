@@ -3,24 +3,6 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Právo v roušce</title>
-            <description><![CDATA[Vzory smluv a dokumentů, které se mohou hodit v současné krizi, zdarma od týmu právníků a daňařů ke zmírnění ekonomických dopadů této krize]]></description>
-            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
-            <link>http://www.pravovrousce.cz</link>
-            <author>SEDLAKOVA LEGAL a další</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
-            <title>Nejčastější otázky v souvislosti s pandemií</title>
-            <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
-            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
-            <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
-            <author>Deloitte Legal</author>
-            <enclosure type="image/png"
-                       url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
-        </item>
-        <item>
             <title>Elektronická kontraktace a komunikace s úřady</title>
             <description><![CDATA[Článek nabízející odpovědi na otázky spojené s elektronickým uzavíráním smluv a komunikací na dálku]]></description>
             <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
@@ -53,6 +35,42 @@
             <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20142-2020%20-%20hranice.pdf</link>
             <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Výjimky z povinných roušek</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví stanovící dětem do 2 let a samotným řidičům výjimku z povinnosti nosit ochranné prostředky]]></description>
+            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení omezení maloobchodu</title>
+            <description><![CDATA[Stávající omezení maloobchodu a služeb byla prodloužena do 11. dubna; došlo k povolení dalších např. ubytovacích služeb]]></description>
+            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_prodlou%C5%BEen%C3%AD_omezen%C3%AD_pohybu_osob.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení omezení provozu veřejných institucí</title>
+            <description><![CDATA[Stávající omezení chodu orgánů veřejné moci a správních orgánů bylo prodlouženo do 11. dubna]]></description>
+            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_prodlou%C5%BEen%C3%AD_na%C5%99%C3%ADzen%C3%AD_omezen%C3%A9ho_provozu_OVM_a_SO.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení omezení pohybu</title>
+            <description><![CDATA[Stávající omezení volného pohybu osob byl prodloužen do 11. dubna]]></description>
+            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_prodlou%C5%BEen%C3%AD_omezen%C3%AD_pohybu_osob.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
