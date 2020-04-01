@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Portál Spojujeme Česko</title>
+            <description><![CDATA[Ministerstvo vnitra rozjelo platformu pro projekty spojující stát, firmy a podnikatele]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.spojujemecesko.cz</link>
+            <author>Ministerstvo vnitra</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pravidla pro vycestování z ČR</title>
+            <description><![CDATA[Sdělení ministerstva vnitra obsahující podmínky a náležitosti vyžadované pro překročení hranic za účelem vycestování]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Sdeleni_MV_k_vyjimkam_VYCESTOVANI-CZ_-_20200330.pdf</link>
+            <author>Ministerstvo vnitra</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pravidla pro vstup do ČR</title>
+            <description><![CDATA[Sdělení ministerstva vnitra obsahující podmínky a náležitosti vyžadované pro překročení hranic za účelem vstupu]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Sdeleni_MV_k_vyjimkam_VSTUP-CZ_-_20200330.pdf</link>
+            <author>Ministerstvo vnitra</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz zpoplatnění místních komunikací</title>
+            <description><![CDATA[Usnesení vlády, kterým se po dobu nouzového stavu pozastavují nařízení obcí, zpoplatňující místní komunikace]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20143-2020%20-%20zpoplatnene%20komunikace.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Neprojednání závěrečného účtu včas</title>
+            <description><![CDATA[Stanovisko ministerstev vnitra a financí k neprojednání závěrečného účtu ve lhůtě stanovené v § 43 zákona o obcích]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mvcr.cz/clanek/stanovisko-ministerstva-vnitra-a-ministerstva-financi-k-neprojednani-zaverecneho-uctu-ve-lhute-stanovene-v-43-zakona-o-obcich.aspx</link>
+            <author>Ministerstva vnitra a financí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zvláštní režim některých kontrol</title>
             <description><![CDATA[Nařízení o opatřeních k usnadnění potravinových, veterinárních a rostlinolékařských kontrol ve stavu nouze]]></description>
             <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
@@ -25,7 +70,7 @@
             <description><![CDATA[Stanovisko ministerstev vnitra a financí k právní povaze a správnému postupu obce při rozdávání roušek občanům]]></description>
             <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www.mvcr.cz/clanek/stanovisko-ministerstva-vnitra-a-ministerstva-financi-k-rozdavani-ochrannych-rousek-obcanum-obce-z-hlediska-zakona-o-obcich-a-predpisu-v-oblasti-ucetnictvi.aspx</link>
-            <author>Ministerstvo vnitra a financí</author>
+            <author>Ministerstva vnitra a financí</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
