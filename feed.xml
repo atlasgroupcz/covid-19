@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Liberační balíček II</title>
+            <description><![CDATA[Tisková zpráva Ministerstva financí obsahující přehled připravovaných a realizovaných daňových úlev]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mfcr.cz/cs/aktualne/tiskove-zpravy/2020/ulevy-v-danove-oblasti-se-rozsiri-37943</link>
+            <author>Ministerstvo financí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Záruka COVID II</title>
             <description><![CDATA[Českomoravská záruční a rozvojová banka vyhlásila záruční program COVID II, žádosti začne přijímat od zítřka]]></description>
             <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
