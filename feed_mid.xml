@@ -21,6 +21,15 @@
                        url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
         </item>
         <item>
+            <title>Spojujeme česko</title>
+            <description><![CDATA[Platforma pro projekty spolupráce státu, firem a podnikatelů]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://spojujemecesko.cz/</link>
+            <author>Ministerstvo vnita</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Odpovědi Ministerstva financí</title>
             <description><![CDATA[Odpovědi na nejčastější otázky veřejnosti na stránkách Ministerstva financí]]></description>
             <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
