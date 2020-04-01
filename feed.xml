@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Insolvence a exekuce v nouzovém stavu</title>
+            <description><![CDATA[Návod Ministerstva spravedlnosti jak dosáhnout odkladu exekuce či snížení splátek v souvislosti s vládními opatřeními]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.justice.cz/?clanek=jak-za-soucasne-situace-resit-exekuce-a-insolvenc-1</link>
+            <author>Ministerstvo spravedlnosti</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>COVID-19 jako nemoc z povolání</title>
+            <description><![CDATA[Stanovisko České lékařské společnosti k podmínkám uznání nemoci COVID-19 za nemoc z povolání]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Stanovisko-v%C3%BDboru-Spole%C4%8Dnosti-pracovn%C3%ADho-l%C3%A9ka%C5%99stv%C3%AD-%C4%8CLS-JEP_CoVID-19-jako-NzP_ke-dni-25.-3.-2020-003.pdf</link>
+            <author>ČLS JEP</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Liberační balíček II</title>
             <description><![CDATA[Tisková zpráva Ministerstva financí obsahující přehled připravovaných a realizovaných daňových úlev]]></description>
             <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
@@ -53,6 +71,15 @@
             <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20143-2020%20-%20zpoplatnene%20komunikace.pdf</link>
             <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nakládání s těly zesnulých</title>
+            <description><![CDATA[Informace Ministerstva zdravotnictví o specificích manipulace s těly osob s COVID-19, jejich pitev a pohřbů]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://koronavirus.mzcr.cz/nakladani-s-tely-zesnulych-osob-s-potvrzenou-nakazou-covid-19</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
