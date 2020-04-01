@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Částečná nezaměstnanost</title>
+            <description><![CDATA[Článek jak na situaci, kdy zaměstnavatel nemůže zaměstnanci přidělovat práci z důvodu krizových opatření]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/financni-pravo/castecna-nezamestnanost-aneb-jak-na-kurzarbeit-v-dobe-koronaviru</link>
+            <author>David Borovec</author>
+            <enclosure type="image/png"
+                       url="ghttps://www.pravniprostor.cz/files/6/4/2/642f23efbf61be61a8db8eb9f0e2cb91cdef288e/rouka-s-eskou-vlajkou_375x236.png"/>
+        </item>
+        <item>
+            <title>Karanténa a nemocenské pojištění</title>
+            <description><![CDATA[Článek o nárocích osob v karanténě podle zákona o nemocenském pojištění]]></description>
+            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/karantena-a-nemocenske-pojisteni</link>
+            <author>Marta Ženíšková</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/6/2/6/6265d877f6bb86df984d6de41885e1c49d515a0d/korona.jpg"/>
+        </item>
+        <item>
             <title>Insolvence a exekuce v nouzovém stavu</title>
             <description><![CDATA[Návod Ministerstva spravedlnosti jak dosáhnout odkladu exekuce či snížení splátek v souvislosti s vládními opatřeními]]></description>
             <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
