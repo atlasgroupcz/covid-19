@@ -3,15 +3,6 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Antivirus</title>
-            <description><![CDATA[Manuál MPSV pro zaměstnavatele jak žádat o podporu z programu Antivirus]]></description>
-            <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://www.mpsv.cz/documents/20142/1443715/Manual_Program_Antivirus.pdf/eacabb67-657a-42d3-2279-82ae3280b1fa</link>
-            <author>Ministerstvo práce a sociálních věcí</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
             <title>Stát pomůže zaměstnavatelům s náhradami mezd</title>
             <description><![CDATA[Článek o programu Antivirus]]></description>
             <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
@@ -19,6 +10,15 @@
             <author>Jáchym Stolička a další</author>
             <enclosure type="image/png"
                        url="https://www.pravniprostor.cz/files/a/b/3/ab3d02657a31b24caec5d811100272ce4ed7fae0/financni-krize-covid_375x236.png"/>
+        </item>
+        <item>
+            <title>Antivirus - manuál</title>
+            <description><![CDATA[Manuál MPSV pro zaměstnavatele jak žádat o podporu z programu Antivirus]]></description>
+            <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mpsv.cz/documents/20142/1443715/Manual_Program_Antivirus.pdf/eacabb67-657a-42d3-2279-82ae3280b1fa</link>
+            <author>Ministerstvo práce a sociálních věcí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
             <title>Jak se nedostat do střetu s trestním zákoníkem</title>
