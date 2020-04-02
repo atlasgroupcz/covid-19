@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nová úprava maloobchodu</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se nahrazuje stávající úprava; změny se týkají domácích potřeb a ubytování]]></description>
+            <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_maloobchodn%C3%AD_prodej_a_prodej_slu%C5%BEeb_v_provozovn%C3%A1ch.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>60 lůžek na 100 tisíc obyvatel</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se přikazuje krajům zajistit daný rozsah lůžek pro léčbu osob s COVID-19]]></description>
+            <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_vy%C4%8Dlen%C4%9Bn%C3%AD_l%C5%AF%C5%BEek_v_kraj%C3%ADch_a_hl._m._Praze.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Povinné zásobování</title>
+            <description><![CDATA[Usnesení vlády, kterým se šesti českým výrobcům přikazuje přednostně zásobovat Ministerstvo vnitra]]></description>
+            <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20144-2020%20-%20p%C5%99ednostn%C3%AD%20z%C3%A1sobov%C3%A1n%C3%AD.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Kritičtí zaměstnanci</title>
+            <description><![CDATA[Usnesení vlády, kterým se zaměstnavatelům z kritické infrastruktury dává pravomoc určit kritické zaměstnance]]></description>
+            <pubDate>Thu, 2 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20145-2020%20-%20kriticti%20zamestnavatele.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Pokyny pro zrychlení veřejných zakázek</title>
             <description><![CDATA[Pokyny Evropské komise jak zadávat zakázky v případech krajní naléhavosti]]></description>
             <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
