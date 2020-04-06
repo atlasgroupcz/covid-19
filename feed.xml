@@ -3,8 +3,17 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Antivirus spuštěn</title>
+            <description><![CDATA[Příjem žádostí o podporu zaměstnanosti z programu Antivirus bude zahájen 6. 4. 2020]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mpsv.cz/antivirus</link>
+            <author>Ministerstvo práce a sociálních věcí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Nárok na náhradu škody - spása, nebo planá naděje?</title>
-            <description><![CDATA[Čláenk o změně režimu vydávání opatření vlády na opatření ministerstva zdravotnictví]]></description>
+            <description><![CDATA[Článek o změně režimu vydávání opatření vlády na opatření Ministerstva zdravotnictví]]></description>
             <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/narok-na-nahradu-skody-spasa-nebo-plana-nadeje</link>
             <author>Martin Sadílek</author>
