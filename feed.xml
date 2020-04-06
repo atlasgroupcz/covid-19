@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nárok na náhradu škody - spása, nebo planá naděje?</title>
+            <description><![CDATA[Čláenk o změně režimu vydávání opatření vlády na opatření ministerstva zdravotnictví]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/narok-na-nahradu-skody-spasa-nebo-plana-nadeje</link>
+            <author>Martin Sadílek</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/d/5/9/d599cdbb871da2086dafc4aa259df3f017a6007d/Untitled.jpg"/>
+        </item>
+        <item>
+            <title>Rovnost stran za časů CV 19</title>
+            <description><![CDATA[Úvaha předsedy Městského soudu v Praze nad přístupem státních zástupců ke krizovým opatřením]]></description>
+            <pubDate>Sun, 5 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/procesni-pravo/rovnost-stran-za-casu-cv-19</link>
+            <author>Libor Vávra</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/8/f/1/8f16e7bf65e33829939124be4f864fe82714542c/rouka-lky-nemoc-koronavirus-COVID-19-375x236.png"/>
+        </item>
+        <item>
+            <title>Nedostatky návrhu zákona o kompenzačním bonusu pro OSVČ</title>
+            <description><![CDATA[Článek kritizující návrh zákona podle usnesení vlády č. 351]]></description>
+            <pubDate>Sun, 5 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/nedostatky-navrhu-zakona-o-kompenzacnim-bonusu-pro-osvc</link>
+            <author>Adam Ptašnik</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/9/2/2/92204ce74b0c12f085670a7b092ef529edc66f63/rouka-penze_375x236.png"/>
+        </item>
+        <item>
+            <title>Infromace pro Centrální řídící tým COVID-19</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se odběrovým místům a laboratořím stanoví informační povinnosti vůči vládnímu týmu]]></description>
+            <pubDate>Fri, 3 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_poskytovatel%C5%AFm_zdravotn%C3%ADch_slu%C5%BEeb_zaji%C5%A1%C5%A5uj%C3%ADc%C3%ADm_odb%C4%9Br_vzork%C5%AF_na_vy%C5%A1et%C5%99en%C3%AD_nov%C3%A9ho_koronaviru_SARS-CoV-2.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava pro Plaquenil</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se rozvolňuje zákaz předepisovat léčivý přípravek Plaquenil]]></description>
+            <pubDate>Fri, 3 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_p%C5%99edepisov%C3%A1n%C3%AD_l%C3%A9%C4%8Div%C3%A9ho_p%C5%99%C3%ADpravku_Plaquenil2.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Řešení sporů v době COVID-19</title>
             <description><![CDATA[Článek o řešení obchodních sporů pomocí mediace]]></description>
             <pubDate>Fri, 3 Apr 2020 8:00:00 +0100</pubDate>
