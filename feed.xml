@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nová úprava překračování hranic</title>
+            <description><![CDATA[Usnsení vlády, kterým se od 14. dubna stanoví pravidla překračování hranic]]></description>
+            <pubDate>Tue, 7 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20150-2020%20-%20prekracovani%20hranic.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Rozestupy zastupitelů</title>
+            <description><![CDATA[Usnsení vlády nařizující dodržovat 2m rozestupy při jednání zastuptelů samospráv; další opatření jen doporučuje]]></description>
+            <pubDate>Tue, 7 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20151-2020%20-%20rozestupy%20zastupi.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Přednostní zásobování</title>
+            <description><![CDATA[Usnsení vlády, kterým se 4 společnostem nařizuje přednostně zásobovat Ministerstvo vnitra ochrannými prostředky FFP3]]></description>
+            <pubDate>Tue, 7 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20152-2020%20-%20prednostni%20zasobovani.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Nová úprava maloobchodu</title>
             <description><![CDATA[Opatření MZd, kterým se stanoví pravidla pro povolené provozovny; také povoluje hobbymarkety, železářství, cykloservisy a výkupny surovin]]></description>
             <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
