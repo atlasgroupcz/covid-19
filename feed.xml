@@ -3,8 +3,44 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nová úprava maloobchodu</title>
+            <description><![CDATA[Opatření MZd, kterým se stanoví pravidla pro povolené provozovny; také povoluje hobbymarkety, železářství, cykloservisy a výkupny surovin]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_maloobchodn%C3%AD_prodej_a_prodej_slu%C5%BEeb_v_provozovn%C3%A1ch2.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nové omezení volného pohybu</title>
+            <description><![CDATA[Opatření MZd nahrazující stávající opatření omezující volný pohyb osob; nově povoluje sport na venkovních sportovištích]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_omezen%C3%AD_pohybu_osob_s_v%C3%BDjimkami.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Otevření Czech POINTů</title>
+            <description><![CDATA[Opatření MZd o omezení veřejných služeb se výslovně nevztahuje na kontaktní místa Czech POINT]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ukon%C4%8Den%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_30._3._2020_ke_kontaktn%C3%ADm_m%C3%ADst%C5%AFm_ve%C5%99ejn%C3%A9_spr%C3%A1vy_Czech_POINT.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodej ochranných prostředků FFP3</title>
+            <description><![CDATA[Zrušení mimořádného opatření Ministerstva zdravotnictví, kterým se nařizovalo tyto prostředky prodávat pouze státu; nahrazeno přednostním zásobováním]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_6._3._2020_k_prodeji_OOP_t%C5%99%C3%ADdy_FFP3.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Antivirus spuštěn</title>
-            <description><![CDATA[Příjem žádostí o podporu zaměstnanosti z programu Antivirus bude zahájen 6. 4. 2020 ve 12:00]]></description>
+            <description><![CDATA[Příjem žádostí o podporu zaměstnanosti z programu Antivirus byl dnes zahájen]]></description>
             <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.mpsv.cz/antivirus</link>
             <author>Ministerstvo práce a sociálních věcí</author>
