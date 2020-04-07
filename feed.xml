@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Podmínky žádosti o příspěvek z programu Antivirus</title>
+            <description><![CDATA[Článek podávající ucelený přehled, kteří zaměstnavatelé a jak mohou o příspěvek zažádat]]></description>
+            <pubDate>Tue, 7 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/konkretni-podminky-zadosti-o-prispevek-z-programu-antivirus</link>
+            <author>Romana Szuťányi a Kateřina Randlová</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/c/9/d/c9d8b120ef9545fef044f1bd92e451bb9ae05fb0/Predcasny-navrat-z-RD_Nahlikova.png"/>
+        </item>
+        <item>
+            <title>Novela insolvenčního zákona</title>
+            <description><![CDATA[Článek o připravované změně zákona, aby se kvůli nouzovému stavu značná část podnikatelů nedostala do úpadku]]></description>
+            <pubDate>Tue, 7 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/covid-19-novela-insolvencniho-zakona</link>
+            <author>Jan Jakl a Juraj Grman</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/e/6/d/e6db3452310f3f06fd55c86888216fbb79df324a/dopad-koronaviru-na-trh_375x236.png"/>
+        </item>
+        <item>
             <title>Nová úprava překračování hranic</title>
             <description><![CDATA[Usnesení vlády, kterým se od 14. dubna stanoví pravidla překračování hranic]]></description>
             <pubDate>Tue, 7 Apr 2020 8:00:00 +0100</pubDate>
