@@ -2,6 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        
+        <item>
+            <title>Překračování hranic po Velikonocích</title>
+            <description><![CDATA[Sdělení Ministerstva vnitra, kterým se stanovují od 14. dubna podmínky a náležitosti pro překročení státní hranice ČR]]></description>
+            <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Sdeleni_MV_k_vyjimkam_VSTUP_II-CZ_-_20200409.pdf</link>
+            <author>Ministerstvo vnitra</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Přehled doporučení pro zdravotníky</title>
+            <description><![CDATA[Státní zdravotní ústav na svých webových stránkách zveřejnil přehled doporučení odborných společností ve vztahu ke COVID-19]]></description>
+            <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://www.szu.cz/tema/prevence/covid-19-a-odborne-spolecnosti</link>
+            <author>Státní zdravotní ústav</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
         <item>
             <title>Jednání kolektivních orgánů</title>
             <description><![CDATA[Informace Ministerstva vnitra k zasedáním zastupitelstev a jiných kolektivních orgánů samospráv po dobu nouzového stavu]]></description>
