@@ -2,7 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
-        
+        <item>
+            <title>Kompenzační bonus pro OSVČ</title>
+            <description><![CDATA[Článek navazující na předchozí kritiku původního návrhu zákona a hodnotí dosavadní legislativní proces]]></description>
+            <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/nedostatky-navrhu-zakona-o-kompenzacnim-bonusu-pro-osvc-podruhe</link>
+            <author>Adam Ptašnik</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/a/b/3/ab3d02657a31b24caec5d811100272ce4ed7fae0/financni-krize-covid_375x236.png"/>
+        </item>
         <item>
             <title>Překračování hranic po Velikonocích</title>
             <description><![CDATA[Sdělení Ministerstva vnitra, kterým se stanovují od 14. dubna podmínky a náležitosti pro překročení státní hranice ČR]]></description>
