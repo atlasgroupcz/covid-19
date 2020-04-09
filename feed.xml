@@ -4,6 +4,33 @@
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
             <title>Kompenzační bonus pro OSVČ</title>
+            <description><![CDATA[Senát schválil zákon, který přiznává OSVČ postiženým současnou krizí kompenzační bonus ve výši 500 Kč denně]]></description>
+            <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/ST_227%20-%20N%C3%A1vrh%20z%C3%A1kona%20o%20kompenza%C4%8Dn%C3%ADm%20bonusu%20v%20souvislosti%20s%20krizov%C3%BDmi%20opat%C5%99en%C3%ADmi.pdf</link>
+            <author>Senát</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Dávky na děti, bydlení a péči</title>
+            <description><![CDATA[Senát schválil zákon, který snižuje administrativu osobám pobírajícím přídavky na děti, příspěvky na bydlení a na péči]]></description>
+            <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/ST_226%20-%20N%C3%A1vrh%20z%C3%A1kona%20o%20n%C4%9Bkter%C3%BDch%20%C3%BAprav%C3%A1ch%20v%20oblasti%20d%C3%A1vek%20st%C3%A1tn%C3%AD%20soci%C3%A1ln%C3%AD%20podpory.pdf</link>
+            <author>Senát</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Administrativní zjednodušení u úřadů práce</title>
+            <description><![CDATA[Senát schválil zákon, který snižuje administrativu uchazečům o práci a osobám zaměstnávávajícím osoby se zdravotním postižením]]></description>
+            <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/ST_228%20-%20N%C3%A1vrh%20z%C3%A1kona%20o%20n%C4%9Bkter%C3%BDch%20%C3%BAprav%C3%A1ch%20v%20oblasti%20zam%C4%9Bstnanosti.pdf</link>
+            <author>Senát</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Kompenzační bonus pro OSVČ</title>
             <description><![CDATA[Článek navazující na předchozí kritiku původního návrhu zákona, hodnotící dosavadní legislativní proces]]></description>
             <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/nedostatky-navrhu-zakona-o-kompenzacnim-bonusu-pro-osvc-podruhe</link>
