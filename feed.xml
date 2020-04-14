@@ -3,6 +3,60 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konzumace potravin</title>
+            <description><![CDATA[Opatření MZd nahrazující stávající opatření omezující volný pohyb osob; nově stanoví podmínky konzumace potravin a nápojů na veřejnosti]]></description>
+            <pubDate>Sat, 11 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimořádné_opatření_-_zákaz_volného_pohybu_osob,_s_vyjimkami.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Obnovení státní služby</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se od 20. dubna zmírňují omezení provozu veřejných orgánů]]></description>
+            <pubDate>Sat, 11 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_spr%C3%A1vn%C3%ADm_%C3%BA%C5%99ad%C5%AFm_I..pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení státní služby</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví prodlužující do 19. dubna omezení provozu orgánů veřejné moci a správních orgánů]]></description>
+            <pubDate>Sat, 11 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_spr%C3%A1vn%C3%ADm_%C3%BA%C5%99ad%C5%AFm_II..pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další výjimky pro roušky</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, kterým se rozšiřuje seznam výjimek z povinnosti nosit ochranné prostředky mimo bydliště]]></description>
+            <pubDate>Fri, 10 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest_s_v%C3%BDjimkami.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pravidelné testování</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví ukládající pravidelné testování všem zaměstnancům domovů pro zdravotně postižené, seniory aj.]]></description>
+            <pubDate>Fri, 10 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_poskytovatel%C5%AFm_soci%C3%A1ln%C3%ADch_slu%C5%BEeb.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Ukončování karantény</title>
+            <description><![CDATA[Mimořádné opatření Ministerstva zdravotnictví, které stanoví pravidla pro ukončování domácí karantény osob s rizikem onemocnění COVID-19]]></description>
+            <pubDate>Fri, 10 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_ukon%C4%8Dov%C3%A1n%C3%AD_karant%C3%A9ny.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Kompenzační bonus pro OSVČ</title>
             <description><![CDATA[Senát schválil zákon, který přiznává OSVČ postiženým současnou krizí kompenzační bonus ve výši 500 Kč denně]]></description>
             <pubDate>Thu, 9 Apr 2020 8:00:00 +0100</pubDate>
