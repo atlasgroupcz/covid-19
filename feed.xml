@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Dovolené zdravotníků</title>
+            <description><![CDATA[Usnesení vlády, které odvolává zákaz čerpání dovolené lékařům aj.]]></description>
+            <pubDate>Tue, 14 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20157-2020%20-%20dovolene.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava pracovní povinnosti</title>
+            <description><![CDATA[Usnesení vlády, kterým se nahrazuje předchozí usnesení ukládající studentům pracovní povinnosti]]></description>
+            <pubDate>Tue, 14 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20158-2020%20-%20pracovni%20povinnost.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení nouzového stavu</title>
+            <description><![CDATA[Nouzový stav byl prodloužen do 30. dubna]]></description>
+            <pubDate>Tue, 14 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20156-2020%20-%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Konzumace potravin</title>
             <description><![CDATA[Opatření MZd nahrazující stávající opatření omezující volný pohyb osob; nově stanoví podmínky konzumace potravin a nápojů na veřejnosti]]></description>
             <pubDate>Sat, 11 Apr 2020 8:00:00 +0100</pubDate>
