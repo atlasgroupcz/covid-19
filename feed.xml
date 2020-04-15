@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+       <item>
+            <title>HARMONOGRAM UVOLNĚNÍ PODNIKATELSKÝCH A DALŠÍCH ČINNOSTÍ</title>
+            <description><![CDATA[Ostatní činnosti budou povoleny během června podle aktuální epidemiologické situace.]]></description>
+            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mpo.cz/assets/cz/rozcestnik/pro-media/tiskove-zpravy/2020/4/A4-data-vlny-fin6_02_3.pdf</link>
+            <author>MPO</author>
+            <enclosure type="image/jpeg"
+                       url="https://d15-a.sdn.cz/d_15/c_img_QI_C/NzNfn.jpeg?fl=cro,0,0,1280,839%7Cres,1280,,1%7Cwebp,75"/>
+        </item>
         <item>
             <title>Rozšíření nezbytné péče o děti</title>
             <description><![CDATA[Povinnost zajistit nezbytnou péči o děti ve věku od 3 do 10 let se vztahuje i na děti zaměstnanců Úřadu práce ČR a správy sociálního zabezpečení]]></description>
