@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Rozšíření nezbytné péče o děti</title>
+            <description><![CDATA[Povinnost zajistit nezbytnou péči o děti ve věku od 3 do 10 let se vztahuje i na děti zaměstnanců Úřadu práce ČR a správy sociálního zabezpečení]]></description>
+            <pubDate>Wed, 15 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20174-2020%20-%20nezbytna%20pece%20o%20deti.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Povolání vojáků k sociálním službám</title>
+            <description><![CDATA[Nařízení vlády, kterým se k pomocným pracím v zařízeních sociálních služeb povolává 360 vojáků]]></description>
+            <pubDate>Wed, 15 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Narizeni%20172-2020%20-%20povolani%20vojaku.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Obnovení otevírací doby Czech POINT</title>
             <description><![CDATA[Mimořádné opatření, kterým se ruší omezení úředních hodin ve vztahu ke kontaktním místům veřejné správy Czech POINT]]></description>
             <pubDate>Wed, 15 Apr 2020 8:00:00 +0100</pubDate>
