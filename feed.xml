@@ -3,15 +3,6 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title></title>
-            <description><![CDATA[]]></description>
-            <pubDate>Thu, 16 Apr 2020 8:00:00 +0100</pubDate>
-            <link></link>
-            <author>Ministerstvo zdravotnictví</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
             <title>Přítomnost osob u porodu</title>
             <description><![CDATA[Opatření MZd nahrazující opatření zakazující návštěvý ve zdravotnických zařízeních; upravuje přítomnost otců aj. u porodu]]></description>
             <pubDate>Thu, 16 Apr 2020 8:00:00 +0100</pubDate>
