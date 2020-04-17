@@ -3,13 +3,22 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>HARMONOGRAM UVOLNĚNÍ PODNIKATELSKÝCH A DALŠÍCH ČINNOSTÍ</title>
-            <description><![CDATA[Ostatní činnosti budou povoleny během června podle aktuální epidemiologické situace.]]></description>
-            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
+            <title>Harmonogram uvolnění podnikatelských a dalších činností</title>
+            <description><![CDATA[Leták ministerstva o plánovaných uvolněních; další činnosti budou povoleny během června, podle aktuální epidemiologické situace]]></description>
+            <pubDate>Wed, 15 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.mpo.cz/assets/cz/rozcestnik/pro-media/tiskove-zpravy/2020/4/A4-data-vlny-fin6_02_3.pdf</link>
-            <author>MPO</author>
+            <author>Ministerstvo průmyslu a obchodu</author>
             <enclosure type="image/jpeg"
                        url="https://d15-a.sdn.cz/d_15/c_img_QI_C/NzNfn.jpeg?fl=cro,0,0,1280,839%7Cres,1280,,1%7Cwebp,75"/>
+        </item>
+        <item>
+            <title>Program MPSV Antivirus</title>
+            <description><![CDATA[Program na podporu zaměstnavatelů]]></description>
+            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mpsv.cz/antivirus</link>
+            <author>Ministerstvo práce a sociálních věcí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
             <title>Právo v roušce</title>
@@ -75,11 +84,20 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Program MPSV Antivirus</title>
-            <description><![CDATA[Program na podporu zaměstnavatelů]]></description>
-            <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://www.mpsv.cz/antivirus</link>
-            <author>Ministerstvo práce a sociálních věcí</author>
+            <title>Rozcestník ÚOHS ke koronavirové krizi</title>
+            <description><![CDATA[Odkazy na opatření v oblastech veřejných zakázek, veřejných podpor a hospodářské soutěže]]></description>
+            <pubDate>Fri, 17 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.uohs.cz/cs/hospodarska-soutez/aktuality-z-hospodarske-souteze/2757-rozcestnik-uohs-ke-koronavirove-krizi.html</link>
+            <author>Úřad pro ochranu hospodářské soutěže</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Rozcestník MMR k opatřením a pomoci</title>
+            <description><![CDATA[Odkazy na všechna opatření a pomoc MMR při pandemii COVID-19]]></description>
+            <pubDate>Fri, 17 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mmr.cz/cs/ministerstvo/vsechna-opatreni-a-pomoc-mmr-pri-pandemii-covid-19</link>
+            <author>Ministerstvo pro místní rozvoj</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
