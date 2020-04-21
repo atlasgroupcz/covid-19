@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zrušení zákazu vývozu dezinfekce rukou</title>
+            <description><![CDATA[Ministerstvo zdravotnictví zrušilo opatření, které zakazovalo vývoz přípravků určených k dezinfekci rukou]]></description>
+            <pubDate>Tue, 21 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_5._3._2020_o_z%C3%A1kazu_v%C3%BDvozu_desinfekce_rukou.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Obnovení víz z Íránu</title>
+            <description><![CDATA[Ministerstvo zdravotnictví zrušilo opatření, které zakazovalo udělování víz v Íránu]]></description>
+            <pubDate>Tue, 21 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_7._3._2020_o_zastaven%C3%AD_p%C5%99%C3%ADjmu_%C5%BE%C3%A1dost%C3%AD_o_v%C3%ADza_v_Teher%C3%A1nu.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Obnovení letů z Číny</title>
+            <description><![CDATA[Ministerstvo zdravotnictví zrušilo opatření, které zakazovalo lety z Číny]]></description>
+            <pubDate>Tue, 21 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_ochrann%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_3._2._2020_k_z%C3%A1kazu_let%C5%AF_z_%C4%8C%C3%ADnsk%C3%A9_lidov%C3%A9_republiky.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Obnovení víz z Číny</title>
+            <description><![CDATA[Ministerstvo zdravotnictví zrušilo opatření, které zakazovalo udělování víz v Číně a Hongkongu]]></description>
+            <pubDate>Tue, 21 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_ochrann%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_10._2._2020_o_zastaven%C3%AD_p%C5%99%C3%ADjmu_%C5%BE%C3%A1dost%C3%AD_o_v%C3%ADza_v_%C4%8CLR_a_Hongkongu.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zákon o splácení úvěrů</title>
             <description><![CDATA[Zákon o tzv. úvěrovém moratioriu, který umožňuje odklad splátek některých úvěrů]]></description>
             <pubDate>Mon, 20 Apr 2020 8:00:00 +0100</pubDate>
