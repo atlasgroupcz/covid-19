@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Studie promořenosti</title>
+            <description><![CDATA[Mimořádé opatření Ministerstva zdravotnictví, kterým se poskytovatelům zdravotních služeb nařizuje spolupracovat při realizaci studie]]></description>
+            <pubDate>Thu, 23 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_realizace_Studie_kolektivn%C3%AD_imunity.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zrušení zákazu vývozu dezinfekce rukou</title>
             <description><![CDATA[Ministerstvo zdravotnictví zrušilo opatření, které zakazovalo vývoz přípravků určených k dezinfekci rukou]]></description>
             <pubDate>Tue, 21 Apr 2020 8:00:00 +0100</pubDate>
