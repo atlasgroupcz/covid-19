@@ -3,6 +3,60 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nová úprava volného pohybu</title>
+            <description><![CDATA[Usnesení vlády nahrazující zrušené opatření MZd; stanoví mj. podmínky sportování, svateb a bohoslužeb]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20194-2020%20-%20volny%20pohyb.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava maloobchodu a služeb od 27.4.</title>
+            <description><![CDATA[Usnesení vlády stanovící které provozovny mohou být otevřeny a za jakých podmínek; nově stanoví podmínky provozu tělocvičen, knihoven, zoo a autoškol]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20195-2020%20-%20provozovny%20od%2027.4..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Úprava maloobchodu a služeb do 26.4.</title>
+            <description><![CDATA[Usnesení vlády stanovící které provozovny mohou být otevřeny a za jakých podmínek; platí od 24. do 26. dubna]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20196-2020%20-%20provozovny%20do%2026.4..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava vstupu do ČR</title>
+            <description><![CDATA[Usnesení vlády stanovící podmínky vstupu na území České republiky]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20193-2020%20-%20vstup%20do%20%C4%8CR.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová úprava uzavření škol od 27.4.</title>
+            <description><![CDATA[Usnesení vlády upravující přítomnost žáků ve výuce; otevírá vysoké školy všem studentům, nejen posledních ročníků]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20197-2020%20-%20skoly%20od%2027.4..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Úprava uzavření škol do 26.4.</title>
+            <description><![CDATA[Usnesení vlády upravující přítomnost žáků ve výuce; platí od 24. do 26. dubna]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20198-2020%20-%20skoly%20do%2026.4..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Společný evropský plán rušení opatření proti šíření COVID-19</title>
             <description><![CDATA[Sdělení Evropské komise o strategii pro koordinované postupné ukončování mimořádných opatření]]></description>
             <pubDate>Thu, 23 Apr 2020 8:00:00 +0100</pubDate>
