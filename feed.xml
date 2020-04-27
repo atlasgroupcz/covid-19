@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Kompenzančí bonus OSVČ s přerušenou činností</title>
+            <description><![CDATA[Článek o vlivu přerušení činnosti na kompenzaci podle zákona č. 159/2020 Sb., o kompenzačním bonusu]]></description>
+            <pubDate>Mon, 27 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/narok-na-kompenzacni-bonus-osoby-samostatne-vydelecne-cinne-s-prerusenou-cinnosti-covid-19</link>
+            <author>Jaroslav Macháček</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/a/b/3/ab3d02657a31b24caec5d811100272ce4ed7fae0/financni-krize-covid_375x236.png"/>
+        </item>
+        <item>
+            <title>Zmírnění dopadů epidemie na podnikající nájemce</title>
+            <description><![CDATA[Otázky a odpovědi k novému zákonu o některých opatřeních ke zmínění dopadů epidemie koronaviru na nájemce prostor sloužících podníkání]]></description>
+            <pubDate>Mon, 27 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/zakon-o-nekterych-opatrenich-ke-zmirneni-dopadu-epidemie-koronaviru-na-najemce-prostor-slouzicich-podnikani</link>
+            <author>Deloitte Legal</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/b/a/a/baa84e8556229129c614c537ba460500cba3117d/bl-cihlov-kavrna_375x236.png"/>
+        </item>
+        <item>
             <title>Cenové moratorium nájemného z bytů</title>
             <description><![CDATA[Nařízení vlády, kterým se zakazuje zvyšovat nájemné po dobu trvání krizových a mimořádných opatření]]></description>
             <pubDate>Mon, 27 Apr 2020 8:00:00 +0100</pubDate>
@@ -26,6 +44,33 @@
             <pubDate>Mon, 27 Apr 2020 8:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_provozu_l%C3%A1ze%C5%88sk%C3%A9_l%C3%A9%C4%8Debn%C4%9B_rehabilita%C4%8Dn%C3%AD_p%C3%A9%C4%8De.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zrušení opatření Ministerstva zdravotnictví a náhrada škody</title>
+            <description><![CDATA[Článek o tom, na co mají poškozené osoby nárok, v souvislosti s nedávným soudním rozhodnutím]]></description>
+            <pubDate>Mon, 25 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/spravni-pravo/zrusenim-opatreni-vydanych-ministerstvem-zdravotnictvi-soud-potvrdil-pravo-na-nahradu-skody</link>
+            <author>Štěpán Ciprýn</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/c/f/9/cf9ff8a07c337b0351482da4989c555d37de3751/Solil-doznn.png"/>
+        </item>
+        <item>
+            <title>Legislativní změny nájmů v reakci na nouzový stav</title>
+            <description><![CDATA[Článek o novelách, které schválila Poslanecká sněmovna, týkající se změn v nájemních vztazích]]></description>
+            <pubDate>Mon, 25 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/legislativni-zmeny-najmu-v-reakci-na-nouzovy-stav</link>
+            <author>Matěj Kučera</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/e/4/2/e4202de3554b44828e4645a127ed351121207ab4/skonceni-najmu."/>
+        </item>
+        <item>
+            <title>Legislativní změny nájmů v reakci na nouzový stav</title>
+            <description><![CDATA[Článek o novelách, které schválila Poslanecká sněmovna, týkající se změn v nájemních vztazích]]></description>
+            <pubDate>Mon, 25 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/legislativni-zmeny-najmu-v-reakci-na-nouzovy-stav</link>
+            <author>Matěj Kučera</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
