@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ústavní soud zamítl stížnosti na nouzový stav</title>
+            <description><![CDATA[Ústavní soud odmítl ústavní stížnost směřující proti usnesení vlády o vyhlášení nouzového stavu, o přijetí krizového opatření a několika opatřením MZd]]></description>
+            <pubDate>Tue, 28 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.usoud.cz/aktualne/ustavni-soud-odmitl-ustavni-stiznost-smerujici-proti-usneseni-vlady-o-vyhlaseni-nouz/</link>
+            <author>Ústavní soud</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Posunutí lhůt pro zemědělské dotace</title>
             <description><![CDATA[Nařízení vlády, kterým se mění některá nařízení vlády v oblasti zemědělství v souvislosti s mimořádnou epidemií v roce 2020]]></description>
             <pubDate>Tue, 28 Apr 2020 8:00:00 +0100</pubDate>
