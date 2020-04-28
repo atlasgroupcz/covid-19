@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Posunutí lhůt pro zemědělské dotace</title>
+            <description><![CDATA[Nařízení vlády, kterým se mění některá nařízení vlády v oblasti zemědělství v souvislosti s mimořádnou epidemií v roce 2020]]></description>
+            <pubDate>Tue, 28 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb079-20.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zmírnění dopadů epidemie na podnikatele v nájmu</title>
             <description><![CDATA[Zákon o některých opatřeních ke zmírnění dopadů epidemie koronaviru na nájemce prostor sloužících k podnikání]]></description>
             <pubDate>Mon, 27 Apr 2020 8:00:00 +0100</pubDate>
