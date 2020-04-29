@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Dopady krizové legislativy na činnost obchodních korporací</title>
+            <description><![CDATA[Článek o dopadech zákona č. 191/2020 Sb. do sféry obchodních korporací]]></description>
+            <pubDate>Tue, 29 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/dopad-krizove-legislativy-na-cinnost-obchodnich-korporaci</link>
+            <author>Adam Polánský</author>
+            <enclosure type="image/png"
+                       url=""/>
+        </item>
+        <item>
+            <title>Výkon rozhodnutí a Lex Covid</title>
+            <description><![CDATA[Článek o změnách ve vymáhacích řízeních podle zákona č. 191/2020 Sb.]]></description>
+            <pubDate>Tue, 29 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/vykon-rozhodnuti-exekuce-pohledem-lex-covid</link>
+            <author>Martin Štika</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/c/c/8/cc865c4cfa105d2dc5f63d946a62e3a93ad10077/Vymahani-pohledavek-dle-NOZ_Kobeda-bnt.png"/>
+        </item>
+        <item>
+            <title>Mimořádná opatření a nouzový stav</title>
+            <description><![CDATA[Článek prezentující právní názor, že stávající mimořádná opatření vyžadují k platnosti pokračující nouzový stav]]></description>
+            <pubDate>Tue, 29 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/spravni-pravo/k-nemoznosti-zachovani-aktualnich-mimoradnych-opatreni-bez-nouzoveho-stavu</link>
+            <author>Michal Sniehotta a Barbora Blahutová</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/c/c/8/cc865c4cfa105d2dc5f63d946a62e3a93ad10077/Vymahani-pohledavek-dle-NOZ_Kobeda-bnt.png"/>
+        </item>
+        <item>
             <title>Ústavní soud zamítl stížnosti na nouzový stav</title>
             <description><![CDATA[Ústavní soud odmítl ústavní stížnost směřující proti usnesení vlády o vyhlášení nouzového stavu, o přijetí krizového opatření a několika opatřením MZd]]></description>
             <pubDate>Tue, 28 Apr 2020 8:00:00 +0100</pubDate>
