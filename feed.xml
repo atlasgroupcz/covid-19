@@ -3,9 +3,36 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Jak rychle zajistit nutné služby a dodávky</title>
+            <description><![CDATA[Článek odpovídající na otázky zadavatelů, jak lze rychle zajistit i jiné nutné služby a dodávky než jsou ochranné prostředky]]></description>
+            <pubDate>Thu, 30 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/spravni-pravo/lze-v-soucasne-situaci-rychle-zajistit-i-jine-nutne-sluzby-nebo-dodavky-nez-jsou-ochranne-prostredky</link>
+            <author>Anna Francová a Lucie Benešová</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/6/d/8/6d8d9ca85959f3fb7643cffc71fc1071b299a886/doktoi-v-ochrannch-oblecch_375x236.png"/>
+        </item>
+        <item>
+            <title>Hromadné propouštění má speciální pravidla</title>
+            <description><![CDATA[Článek o pravidlech hromadného propouštění a o rizicích jejich porušení od advokátní kanceláře]]></description>
+            <pubDate>Thu, 30 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/pracovni-pravo/hromadne-propousteni-ma-specialni-pravidla-jejich-poruseni-prinasi-znacna-rizika</link>
+            <author>GHS Legal</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/0/0/e/00ee8fad6e65bc51f0887d843c1bbdfd73a6fc11/vpov-odchod-rozvzn-pracovnho-pomru-375-236.png"/>
+        </item>
+        <item>
+            <title>Další změna pravidel pro cestování v době nouzového stavu</title>
+            <description><![CDATA[Článek poskytující shrnutí a přehled nových pravidel pro vstup na území ČR od 27. dubna]]></description>
+            <pubDate>Thu, 30 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/dalsi-zmena-pravidel-pro-cestovani-v-dobe-nouzoveho-stavu</link>
+            <author>Stephan Heidenhain</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/b/4/9/b491d01522ce4a91383528e1663ff392b63dac6b/zjezd-cestovn-cestovn-kancel-letadlo-leteck-pobyt-375-236.png"/>
+        </item>
+        <item>
             <title>Dopady krizové legislativy na činnost obchodních korporací</title>
             <description><![CDATA[Článek o dopadech zákona č. 191/2020 Sb. do sféry obchodních korporací]]></description>
-            <pubDate>Tue, 29 Apr 2020 8:00:00 +0100</pubDate>
+            <pubDate>Wed, 29 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/dopad-krizove-legislativy-na-cinnost-obchodnich-korporaci</link>
             <author>Adam Polánský</author>
             <enclosure type="image/png"
@@ -14,7 +41,7 @@
         <item>
             <title>Výkon rozhodnutí a Lex Covid</title>
             <description><![CDATA[Článek o změnách ve vymáhacích řízeních podle zákona č. 191/2020 Sb.]]></description>
-            <pubDate>Tue, 29 Apr 2020 8:00:00 +0100</pubDate>
+            <pubDate>Wed, 29 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/obcanske-pravo/vykon-rozhodnuti-exekuce-pohledem-lex-covid</link>
             <author>Martin Štika</author>
             <enclosure type="image/png"
@@ -23,7 +50,7 @@
         <item>
             <title>Mimořádná opatření a nouzový stav</title>
             <description><![CDATA[Článek prezentující právní názor, že stávající mimořádná opatření vyžadují k platnosti pokračující nouzový stav]]></description>
-            <pubDate>Tue, 29 Apr 2020 8:00:00 +0100</pubDate>
+            <pubDate>Wed, 29 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/clanky/spravni-pravo/k-nemoznosti-zachovani-aktualnich-mimoradnych-opatreni-bez-nouzoveho-stavu</link>
             <author>Michal Sniehotta a Barbora Blahutová</author>
             <enclosure type="image/png"
