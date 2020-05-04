@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Otevření dalších provozů od 11.5.</title>
+            <description><![CDATA[Usnesení vlády uvolňující zákaz některých provozoven; mj. stanoví pravidla otevření holičství]]></description>
+            <pubDate>Mon, 4 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20224-2020%20-%20provozovny%20od%2011.5..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uvolnění pravidel volného pohybu od 11.5.</title>
+            <description><![CDATA[Usnesení vlády uvolňující pravidla pro volný pohyb osob; např. počet účastníků akcí bude zvýšen na 100 osob]]></description>
+            <pubDate>Mon, 4 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20223-2020%20-%20volny%20pohyb%20od%2011.5..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uvolnění pravidel volného pohybu od 11.5.</title>
+            <description><![CDATA[Usnesení vlády uvolňující pravidla pro volný pohyb osob; např. počet účastníků akcí bude zvýšen na 100 osob]]></description>
+            <pubDate>Mon, 4 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20223-2020%20-%20volny%20pohyb%20od%2011.5..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Otevření některých škol od 11.5.</title>
+            <description><![CDATA[Usnesení vlády umožňující výuku posledním ročníkům základních škol, vyšších odborných škol a konzervatoří]]></description>
+            <pubDate>Mon, 4 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20220-2020%20-%20skoly%20od%2011.5..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Otevření některých škol</title>
+            <description><![CDATA[Usnesení vlády umožňující od 11.5. výuku posledním ročníkům základních škol, vyšších odborných škol a konzervatoří]]></description>
+            <pubDate>Mon, 4 Apr 2020 8:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20220-2020%20-%20skoly%20od%2011.5..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Vstup do ČR od 1. května</title>
             <description><![CDATA[Usnesení vlády upravující májová pravidla pro testování a karantény osob vstupujících do ČR]]></description>
             <pubDate>Fri, 1 Apr 2020 8:00:00 +0100</pubDate>
