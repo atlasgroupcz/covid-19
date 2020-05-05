@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Vstup do ČR od 11.5.</title>
+            <description><![CDATA[Usnesení vlády upravující vstupování do ČR od 11. května]]></description>
+            <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20226-2020%20-%20vstup%20do%20CR%20od%2011.5..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Konec dopravních omezení</title>
+            <description><![CDATA[Usnesení vlády, kterým se k 11.5. ruší omezení mezinárodní dopravy; pouze mezinárodní letecká doprava bude omezena]]></description>
+            <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20225-2020%20-%20zruseni%20dopravnich%20omezeni.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Konec pracovní povinnosti studentů</title>
+            <description><![CDATA[Usnesení vlády, kterým se k 11.5. ruší usnesení povinnost studentů vypomáhat ve zdravotních zařízeních]]></description>
+            <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20227-2020%20-%20konec%20pracovni%20povinnosti%20studentu.pdff</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Otevření dalších provozů od 11.5.</title>
             <description><![CDATA[Usnesení vlády uvolňující zákaz některých provozoven; mj. stanoví pravidla otevření holičství, divadel, obchodních center aj.]]></description>
             <pubDate>Mon, 4 May 2020 08:00:00 +0100</pubDate>                 
