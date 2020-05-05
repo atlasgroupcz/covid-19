@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Mimořádné moratorium pro podnikatele postižené protiepidemickými opatřeními</title>
+            <description><![CDATA[Článek o nové dočasné ochraně před věřiteli podle lex covid]]></description>
+            <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
+            <link>https://www.pravniprostor.cz/clanky/obchodni-pravo/mimoradne-moratorium-pro-podnikatele-postizene-protiepidemickymi-opatrenimi</link>
+            <author>Karel Kotrba</author>
+            <enclosure type="image/png"
+                       url="https://www.pravniprostor.cz/files/9/8/3/983abb0e44cac80f21ad2a88917944ce2fb6a7bc/Novela-insolvencniho-zakona.png"/>
+        </item>
+        <item>
             <title>Nošení roušek ve školských zařízeních</title>
             <description><![CDATA[Opatření MZd, kterým se do seznamu výjimek přidávají také pedagogové a studenti při výuce]]></description>
             <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
