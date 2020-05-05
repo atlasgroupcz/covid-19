@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nošení roušek ve školských zařízeních</title>
+            <description><![CDATA[Opatření MZd, kterým se do seznamu výjimek přidávají také pedagogové a studenti při výuce]]></description>
+            <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest%2C_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_5._5._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Vstup do ČR od 11.5.</title>
             <description><![CDATA[Usnesení vlády upravující vstupování do ČR od 11. května]]></description>
             <pubDate>Tue, 5 May 2020 08:00:00 +0100</pubDate>                 
