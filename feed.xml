@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Úprava maturit apod.</title>
+            <description><![CDATA[Vyhlášky Ministerstva školství upravující zvláštní pravidla pro letošní rok (přijímací řízení, maturity, absolutoria aj.)]]></description>
+            <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/sb084-20.pdf</link>
+            <author>Ministerstvo školství</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zvýšení ošetřovného na 80%</title>
             <description><![CDATA[Novela zákona č. 133/2020 Sb., jíž se od dubna do června přechodně zvedá ošetřovné]]></description>
             <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
