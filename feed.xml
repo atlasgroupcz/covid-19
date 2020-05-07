@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zvýšení ošetřovného na 80%</title>
+            <description><![CDATA[Novela zákona č. 133/2020 Sb., jíž se od dubna do června přechodně zvedá ošetřovné]]></description>
+            <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20230-2020%20-%20novela%20socialniho%20zabezpeceni.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení lhůt u spotřebních daní</title>
+            <description><![CDATA[Novela zákona o spotřebních daní, která z důvodů aktuálních komplikací daňovým subjektům prodlužuje některé lhůty]]></description>
+            <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20229-2020%20-%20novela%20spotrebnich%20dani.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zdravotní pojištění hrazené státem se zvýší</title>
+            <description><![CDATA[Novela zákona o pojistném na veřejné zdravotní pojištění zvyšující vyměřovací základ pro státem hrazené zdravotní pojištění]]></description>
+            <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20231-2020%20-%20zvyseni%20zdravotniho%20pojisteni.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Státní záruka za ČMZRB</title>
+            <description><![CDATA[Státní záruka za záruky poskytnuté Českomoravskou záruční a rozvojovou bankou ve výši 150 mld. Kč]]></description>
+            <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20228-2020%20-%20statni%20zaruka%20za%20CMZRB.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Svatby příští týden</title>
             <description><![CDATA[Doporučení Ministerstva vnitra k postupu při konání sňatečných obřadů od 11. května 2020]]></description>
             <pubDate>Thu, 7 May 2020 08:00:00 +0100</pubDate>                 
