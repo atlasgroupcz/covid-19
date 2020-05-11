@@ -3,15 +3,6 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Harmonogram uvolnění podnikatelských a dalších činností</title>
-            <description><![CDATA[Leták ministerstva o plánovaných uvolněních; další činnosti budou povoleny během června, podle aktuální epidemiologické situace]]></description>
-            <pubDate>Thu, 23 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://www.mpo.cz/assets/cz/rozcestnik/pro-media/tiskove-zpravy/2020/4/harmo-COVID--8.pdf</link>
-            <author>Ministerstvo průmyslu a obchodu</author>
-            <enclosure type="image/jpeg"
-                       url="https://d15-a.sdn.cz/d_15/c_img_QI_C/NzNfn.jpeg?fl=cro,0,0,1280,839%7Cres,1280,,1%7Cwebp,75"/>
-        </item>
-        <item>
             <title>Program MPSV Antivirus</title>
             <description><![CDATA[Program na podporu zaměstnavatelů]]></description>
             <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
@@ -118,6 +109,15 @@
             <author>Ministerstvo spravedlnosti</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Harmonogram uvolnění podnikatelských a dalších činností</title>
+            <description><![CDATA[Leták ministerstva o plánovaných uvolněních; další činnosti budou povoleny během června, podle aktuální epidemiologické situace]]></description>
+            <pubDate>Thu, 23 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://www.mpo.cz/assets/cz/rozcestnik/pro-media/tiskove-zpravy/2020/4/harmo-COVID--8.pdf</link>
+            <author>Ministerstvo průmyslu a obchodu</author>
+            <enclosure type="image/jpeg"
+                       url="https://d15-a.sdn.cz/d_15/c_img_QI_C/NzNfn.jpeg?fl=cro,0,0,1280,839%7Cres,1280,,1%7Cwebp,75"/>
         </item>
     </channel>
 </rss>
