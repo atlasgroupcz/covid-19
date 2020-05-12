@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Další výjimky z nošení roušek</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví, podle něhož roušky netřeba ani při přijímačkách a zkouškách u vysokých škol]]></description>
+            <pubDate>Tue, 12 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest%2C_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_12._5._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví/author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pracovnělékařské prohlídky</title>
+            <description><![CDATA[Usnesení vlády, kterým se nepotřebnost pracovnělékařských prohlídek nahrazuje prodloužením jejich platnosti po dobu nouzového stavu]]></description>
+            <pubDate>Tue, 12 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/sb087-20.pdf</link>
+            <author>Vláda/author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Prodloužení kompenzace OSVČ</title>
             <description><![CDATA[Novela, kterou se období, za které se OSVČ přiznává kompenzační bonus, prodlužuje do 8. června]]></description>
             <pubDate>Mon, 11 May 2020 08:00:00 +0100</pubDate>                 
