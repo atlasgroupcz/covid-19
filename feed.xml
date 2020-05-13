@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Pravidla pro nošení roušek</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví, kterým se stanoví pravidla pro nošení ochranných prostředků dýchacích cest od 25. května]]></description>
+            <pubDate>Wed, 13 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/MO%20MZd%20-%20rousky%20do%2025%20kvetna.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pravidla pro provozovny</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví, kterým se stanoví pravidla pro provozovny v týdnu od 18. do 25. května]]></description>
+            <pubDate>Wed, 13 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/MO%20MZd%20-%20provozy%20od%2018%20do%2025%20kvetna.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Volný pohyb příští týden</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví, kterým se stanoví pravidla pro volný pohyb osob v týdnu od 18. do 25. května]]></description>
+            <pubDate>Wed, 13 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/MO%20MZd%20-%20volny%20pohyb%20od%2018%20do%2025%20kvetna.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Školství příští týden</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví, kterým se stanoví opatření pro školy v týdnu od 18. do 25. května]]></description>
+            <pubDate>Wed, 13 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/MO%20MZd%20-%20skoly%20od%2018%20do%2025%20kvetna.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení zdravotní způsobilosti</title>
+            <description><![CDATA[Opatření Ministerstva zdravotnictví, kterým se prodlužuje platnost prohlášení a posudků o zdravotní způsobilosti o 30 či 90 dní po skončení nouzového stavu]]></description>
+            <pubDate>Wed, 13 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_pracovn%C4%9Bl%C3%A9ka%C5%99sk%C3%A9_slu%C5%BEby.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Další výjimky z nošení roušek</title>
             <description><![CDATA[Opatření Ministerstva zdravotnictví, podle něhož roušky netřeba ani při přijímačkách a zkouškách u vysokých škol]]></description>
             <pubDate>Tue, 12 May 2020 08:00:00 +0100</pubDate>                 
