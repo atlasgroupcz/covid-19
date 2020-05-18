@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Koordinace odstraňování omezení</title>
+            <description><![CDATA[Sdělení Komise obsahující kritéria a zásady koordinovaného přístupu k odstraňování omezení volného pohybu a rušení kontrol na vnitřních hranicích]]></description>
+            <pubDate>Mon, 18 May 2020 08:00:00 +0100</pubDate>                 
+            <link>https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:52020XC0515(05)</link>
+            <author>Evropská komise</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pokyny k obnově dopravy</title>
+            <description><![CDATA[Sdělení Komise obsahující pokyny k postupné obnově dopravních služeb a konektivity]]></description>
+            <pubDate>Mon, 18 May 2020 08:00:00 +0100</pubDate>                 
+            <link>https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:52020XC0515(04)</link>
+            <author>Evropská komise</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pokyny k obnově cestovního ruchu</title>
+            <description><![CDATA[Sdělení Komise obsahující pokyny k postupnému obnovování služeb cestoního ruchu]]></description>
+            <pubDate>Mon, 18 May 2020 08:00:00 +0100</pubDate>                 
+            <link>https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:52020XC0515(03)</link>
+            <author>Evropská komise</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Opatření pro osoby přijíždějící ze zahraničí</title>
             <description><![CDATA[Opatření ukládající karanténní a jiná opatření osobám, které přijíždějí do České republiky nebo se do ní vrací od 18. května]]></description>
             <pubDate>Mon, 18 May 2020 08:00:00 +0100</pubDate>                 
