@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ochrana kulturních akcí</title>
+            <description><![CDATA[Zákon nahrazující povinnost vrátit vstupné za zrušenou akci povinností vydat poukaz na kulturní akci]]></description>
+            <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20247-2020%20-%20COVID%20a%20kulturni%20akce.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Platební neschopnost zaměstnavatelů</title>
+            <description><![CDATA[Zákon upravující definici platební neschopnosti pro účely zákona o ochraně zaměstnanců při platební neschopnosti zaměstnavatele]]></description>
+            <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20248-2020%20-%20COVID%20a%20platebni%20neschopnost%20zamestnavatele.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Pobytové sociální služby příští týden</title>
             <description><![CDATA[Opatření, kterým se v domovech seniorů, zdravotně postižených apod. ruší povinnost karantény nových klientů]]></description>
             <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
