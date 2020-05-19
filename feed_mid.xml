@@ -21,15 +21,6 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Odpovědi AK Deloitte</title>
-            <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
-            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
-            <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
-            <author>Deloitte Legal</author>
-            <enclosure type="image/jpeg"
-                       url="https://www.pravniprostor.cz/obrazky/Deloitte.jpeg"/>
-        </item>
-        <item>
             <title>JakNaCOVID.cz</title>
             <description><![CDATA[Pomocník pro orientaci v systému všech dostupných kompenzačních opatření; "kalkulačka" toho, na co máte nárok]]></description>
             <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
@@ -37,6 +28,15 @@
             <author>v4 Legal</author>
             <enclosure type="image/jpeg"
                        url="https://jaknacovid.cz/images/logo.png"/>
+        </item>
+        <item>
+            <title>Odpovědi AK Deloitte</title>
+            <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
+            <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
+            <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
+            <author>Deloitte Legal</author>
+            <enclosure type="image/jpeg"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
             <title>Právo v roušce</title>
