@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Pobytové sociální služby příští týden</title>
+            <description><![CDATA[Opatření, kterým se v domovech seniorů, zdravotně postižených apod. ruší povinnost karantény nových klientů]]></description>
+            <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/MO%20MZd%20-%20domovy%20od%2025%20kvetna.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pobytové sociální služby příští týden</title>
+            <description><![CDATA[Opatření, kterým se v domovech seniorů, zdravotně postižených apod. ruší povinnost karantény nových klientů]]></description>
+            <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/MO%20MZd%20-%20domovy%20od%2025%20kvetna.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Roušky v kancelářích</title>
+            <description><![CDATA[Seznam výjimek z nošení roušek byl rozšířen na zaměstnance v kancelářích a na pracovištích zatížených teplem]]></description>
+            <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest%2C_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_19._5._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Roušky v kancelářích</title>
             <description><![CDATA[Seznam výjimek z nošení roušek byl rozšířen na zaměstnance v kancelářích a na pracovištích zatížených teplem]]></description>
             <pubDate>Tue, 19 May 2020 08:00:00 +0100</pubDate>                 
@@ -324,7 +351,7 @@
             <link>https://www.pravniprostor.cz/clanky/spravni-pravo/lze-v-soucasne-situaci-rychle-zajistit-i-jine-nutne-sluzby-nebo-dodavky-nez-jsou-ochranne-prostredky</link>
             <author>Anna Francová a Lucie Benešová</author>
             <enclosure type="image/png"
-                       url="https://www.pravniprostor.cz/files/6/d/8/6d8d9ca85959f3fb7643cffc71fc1071b299a886/doktoi-v-ochrannch-oblecch_375x236.png"/>
+                       url="https://www.pravniprostor.cz/storage/app/media/posts/doktorivochrannchoblecich-cc95d5e3.png"/>
         </item>
         <item>
             <title>Hromadné propouštění má speciální pravidla</title>
