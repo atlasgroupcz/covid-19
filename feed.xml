@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zrušení obchodní doby pro seniory</title>
+            <description><![CDATA[Mimořádné opatření, které zavádělo obchodní dobu pro seniory, bylo zrušeno]]></description>
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>                 
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_23._3._2020_k_vy%C4%8Dlen%C4%9Bn%C3%AD_prodejn%C3%AD_doby_pro_seniory.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Ochrana osobních údajů a koronavirus</title>
             <description><![CDATA[Pokyny k používání lokalizačních údajů a údajů o zdravotním stavu v souvislosti s rozšířením onemocnění COVID-19]]></description>
             <pubDate>Mon, 25 May 2020 08:00:00 +0100</pubDate>                 
