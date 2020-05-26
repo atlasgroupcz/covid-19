@@ -3,9 +3,54 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nošení roušek</title>
+            <description><![CDATA[Povinnost nosit ochranné prostředky dýchacích cest se omezuje pouze na vnitřní prostory, veřejnou dopravu a místa kde se lidé vyskytují blíže než 2m]]></description>
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest%2C_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_26._5._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Překračování hranic</title>
+            <description><![CDATA[Rozšíření výjímek pro překračování státních hranic ČR; týká se zejm. studentů a příbuzných občanů EU]]></description>
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_p%C5%99ekro%C4%8Den%C3%AD_st%C3%A1tn%C3%AD_hranice_%C4%8CR_od_26._5._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Otevírání škol</title>
+            <description><![CDATA[Střední školy a konzervatoře se za účelem praktického vyučování nebo konzultací otevírají již od června]]></description>
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_omezen%C3%AD_provozu_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD_s_%C3%BA%C4%8Dinnost%C3%AD_od_1._6._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Ukončování karantény v červnu</title>
+            <description><![CDATA[Změna požadovaných testů, které je třeba provést před ukončením karantény]]></description>
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_ukon%C4%8Dov%C3%A1n%C3%AD_karant%C3%A9ny_osob%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_1._6._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová pravidla pro elektronické žádanky</title>
+            <description><![CDATA[Mimořádné opatření, kterým se nově upravují pravidla pro elektronické žádanky na vyšetření COVID-19]]></description>
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_elektronick%C3%A9_%C5%BE%C3%A1danky_v_prost%C5%99ed%C3%AD_NZIS_s_%C3%BA%C4%8Dinnost%C3%AD_od_26._5._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zrušení obchodní doby pro seniory</title>
             <description><![CDATA[Mimořádné opatření, které zavádělo obchodní dobu pro seniory, bylo zrušeno]]></description>
-            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>                 
+            <pubDate>Tue, 26 May 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_23._3._2020_k_vy%C4%8Dlen%C4%9Bn%C3%AD_prodejn%C3%AD_doby_pro_seniory.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
