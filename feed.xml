@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Opatření v provozovnách</title>
+            <description><![CDATA[Ministerstvo zdravotnictví rozvádí své opatření určené provozovnám od 25. května a doplňuje jej sadou doporučení]]></description>
+            <pubDate>Tue, 2 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/specifikace_pokyny_2505.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Pootevření hranic se Slovenskem a Maďarskem</title>
             <description><![CDATA[Češi, Maďaři a Slováci mohou nyní překračovat hranici ČR i bez testů, pokud se vrátí do 48 hodin]]></description>
             <pubDate>Wed, 27 May 2020 08:00:00 +0100</pubDate>
