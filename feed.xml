@@ -3,6 +3,43 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Opatření pro provozovny</title>
+            <description><![CDATA[Aktualizace protiepidemiologických opatření pro různé provozovny, platí od 15. června]]></description>
+            <pubDate>Mon, 15 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_provozoven_a_provoz%C5%AF_slu%C5%BEeb_s_%C3%BA%C4%8Dinnost%C3%AD_od_15._6._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová verze rouškového opatření</title>
+            <description><![CDATA[Venkovní nošení roušek je povinné již pouze na hromadných akcích a přibyla výjimka pro svatební obřady a focení]]></description>
+            <pubDate>Mon, 15 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest%2C_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_15._6._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Seznam "zelených" států</title>
+            <description><![CDATA[Seznam států EU s nízkým rizikem nákazy je už teď velmi dlouhý]]></description>
+            <pubDate>Mon, 15 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Sd%C4%9Blen%C3%AD_Ministerstva_zdravotnictv%C3%AD%2C_kter%C3%BDm_se_vyd%C3%A1v%C3%A1_seznam_%C4%8Dlensk%C3%BDch_st%C3%A1t%C5%AF_Evropsk%C3%A9_unie_a_dal%C5%A1%C3%ADch_st%C3%A1t%C5%AF_schengensk%C3%A9ho_prostoru_s_n%C3%ADzk%C3%BDm_a_se_st%C5%99edn%C3%ADm_rizikem_n%C3%A1kazy_onemocn%C4%9Bn%C3%AD_covid-19.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        
+        <item>
+            <title>Překračování státních hranic</title>
+            <description><![CDATA[Aktualizovaná pravidla pro překračování státních hranic počítající s rozdělením členských státu EU podle rizikovosti]]></description>
+            <pubDate>Mon, 15 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_p%C5%99ekro%C4%8Den%C3%AD_st%C3%A1tn%C3%AD_hranice_%C4%8CR_od_15._6._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Liberační balíček III</title>
             <description><![CDATA[Tisková zpráva Ministerstva financí představující další promíjení daní a poplatků]]></description>
             <pubDate>Fri, 12 Jun 2020 08:00:00 +0100</pubDate>
