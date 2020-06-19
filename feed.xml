@@ -3,6 +3,69 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Hromadné akce až pro 1000 osob</title>
+            <description><![CDATA[Opatření pro hromadné akce od 22. června ruší povinné rozestupy a navyšuje limit účastníků na 1000 osob]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_z%C3%A1kaz_a_omezen%C3%AD_hromadn%C3%BDch_akc%C3%AD_nad_1000_osob_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_22._6._do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Opatření pro provozovny</title>
+            <description><![CDATA[Aktualizace protiepidemiologických opatření pro různé provozovny, platí od 22. června]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_provozoven_a_provoz%C5%AF_slu%C5%BEeb_s_%C3%BA%C4%8Dinnost%C3%AD_od_22._6._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nová verze rouškového opatření</title>
+            <description><![CDATA[Drobná úprava rozšiřující výjimku pro zaměstnance v kancelářích i na ústavní činitele a další nezaměstnance]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest%2C_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_22._6._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Aktualizace opatření pro hromadné akce</title>
+            <description><![CDATA[Nová úprava blíže specifikuje sektory členěných areálů a přidává výjimku pro přijímací zkoušky na vysoké školy]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_z%C3%A1kaz_a_omezen%C3%AD_hromadn%C3%BDch_akc%C3%AD_nad_500_osob_s_v%C3%BDjimkami%2C_s_%C3%BA%C4%8Dinnost%C3%AD_od_19._6._do_21._6._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uvolnění pro střediska volného času</title>
+            <description><![CDATA[Od 27. června nejsou akce ve střediscích volného času omezeny na 15 účastníků]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_provozu_%C5%A1kol_a_%C5%A1kolsk%C3%BDch_za%C5%99%C3%ADzen%C3%AD_s_%C3%BA%C4%8Dinnost%C3%AD_od_27._6._do_30._6._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uvolnění pro lázně</title>
+            <description><![CDATA[Od 22. června nejsou omezeny společné procedury a společené stravování při lázeňské léčebně rehabilitační péči]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_19._kv%C4%9Btna_2020_k_omezen%C3%AD_provozu_l%C3%A1ze%C5%88sk%C3%A9_l%C3%A9%C4%8Debn%C4%9B_rehabilita%C4%8Dn%C3%AD_p%C3%A9%C4%8De.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Dětské návštěvy ve věznicích</title>
+            <description><![CDATA[Od 22. června se mohou osoby mladší 15 let účastnit návštěvy s doprovodem]]></description>
+            <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_-_na%C5%99%C3%ADzen%C3%AD_V%C4%9Bze%C5%88sk%C3%A9_slu%C5%BEb%C4%9B_%C4%8CR_s_%C3%BA%C4%8Dinnost%C3%AD_od_22._6._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Opatření pro provozovny</title>
             <description><![CDATA[Aktualizace protiepidemiologických opatření pro různé provozovny, platí od 15. června]]></description>
             <pubDate>Mon, 15 Jun 2020 08:00:00 +0100</pubDate>
