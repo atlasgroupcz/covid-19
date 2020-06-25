@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Belgie je již bezpečná</title>
+            <description><![CDATA[Belgické království přibylo na seznamu států Schengenského prostoru s nízkým rizikem nákazy COVID-19]]></description>
+            <pubDate>Tue, 23 Jun 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Sd%C4%9Blen%C3%AD_Ministerstva_zdravotnictv%C3%AD%2C_kter%C3%BDm_se_vyd%C3%A1v%C3%A1_seznam_%C4%8Dlensk%C3%BDch_st%C3%A1t%C5%AF_Evropsk%C3%A9_unie_a_dal%C5%A1%C3%ADch_st%C3%A1t%C5%AF_schengensk%C3%A9ho_prostoru_s_n%C3%ADzk%C3%BDm_a_se_st%C5%99edn%C3%ADm_rizikem_n%C3%A1kazy_onemocn%C4%9Bn%C3%AD_covid-19%20%281%29.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Hromadné akce až pro 1000 osob</title>
             <description><![CDATA[Opatření pro hromadné akce od 22. června ruší povinné rozestupy a navyšuje limit účastníků na 1000 osob]]></description>
             <pubDate>Fri, 19 Jun 2020 08:00:00 +0100</pubDate>
