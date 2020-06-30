@@ -3,11 +3,11 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Prodloužení řidičáků a technických</title>
-            <description><![CDATA[Nařízení EU, kterým se v oblasti dopravy prodlužují různé licence, kvalifikace a způsobilosti; u řidičských oprávnění a STK o 7 měsíců]]></description>
+            <title>Konec povinných roušek!</title>
+            <description><![CDATA[Opatření plošně nařizující roušky se od července ruší; nebude třeba nosit ochranné prostředky ani v MHD či veřejných budovách]]></description>
             <pubDate>Tue, 30 Jun 2020 08:00:00 +0100</pubDate>
-            <link>doc/EU/176929</link>
-            <author>Evropský parlament</author>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_1._6._2020_k_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest_s_%C3%BA%C4%8Dinnost%C3%AD_od_1._7._2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
@@ -30,11 +30,11 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Konec povinných roušek</title>
-            <description><![CDATA[Opatření plošně nařizující roušky se od července ruší; nebude třeba nosit ochranné prostředky ani v MHD či veřejných budovách]]></description>
+            <title>Prodloužení řidičáků a technických</title>
+            <description><![CDATA[Nařízení EU, kterým se v oblasti dopravy prodlužují různé licence, kvalifikace a způsobilosti; u řidičských oprávnění a STK o 7 měsíců]]></description>
             <pubDate>Tue, 30 Jun 2020 08:00:00 +0100</pubDate>
-            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD_mimo%C5%99%C3%A1dn%C3%A9ho_opat%C5%99en%C3%AD_ze_dne_1._6._2020_k_no%C5%A1en%C3%AD_ochrann%C3%BDch_prost%C5%99edk%C5%AF_d%C3%BDchac%C3%ADch_cest_s_%C3%BA%C4%8Dinnost%C3%AD_od_1._7._2020.pdf</link>
-            <author>Ministerstvo zdravotnictví</author>
+            <link>doc/EU/176929</link>
+            <author>Evropský parlament</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
