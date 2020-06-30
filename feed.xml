@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Prodloužení řidičáků a technických</title>
+            <description><![CDATA[Nařízení EU, kterým se v oblasti dopravy prodlužují různé licence, kvalifikace a způsobilosti; u řidičských oprávnění a STK o 7 měsíců]]></description>
+            <pubDate>Tue, 30 Jun 2020 08:00:00 +0100</pubDate>
+            <link>doc/EU/176929</link>
+            <author>Evropský parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Aktualizace opatření v provozovnách</title>
             <description><![CDATA[Nová verze opatření pro provozovny ruší povinnost personálu nosit roušky a omezení otevírací doby restaurací a barů]]></description>
             <pubDate>Tue, 30 Jun 2020 08:00:00 +0100</pubDate>
