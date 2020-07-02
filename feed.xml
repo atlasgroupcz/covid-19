@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Překračování státní hranice od července</title>
+            <description><![CDATA[Nové mimořádné opatření uvolňuje cestování do a ze zemí s nízkým rizikem nákazy; seznam těchto zemí je zveřejňován zvlášť]]></description>
+            <pubDate>Wed, 1 Jul 2020 08:00:00 +0100</pubDate>
+            <link>http://www.mzcr.cz/dokumenty/ochranne-opatreni-omezeni-prekroceni-statni-hranice-cr-s-ucinnosti-od-1720_19486_4135_1.html</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Prominutí sociálního pojištění</title>
             <description><![CDATA[Zákon, kterým se malým zaměstnavatelům, kteří nesnížili zaměstnanost, promíjí pojistné na sociální zabezpečení za červen až srpen]]></description>
             <pubDate>Tue, 30 Jun 2020 08:00:00 +0100</pubDate>
