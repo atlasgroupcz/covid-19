@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Uvolnění pro hromadné akce</title>
+            <description><![CDATA[Aktualizované opatření pro hromadné akce již neobsahuje hygienické požadavky pro jednotlivé druhý hromadných akcí]]></description>
+            <pubDate>Fri, 3 Jul 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_z%C3%A1kaz_a_omezen%C3%AD_hromadn%C3%BDch_akc%C3%AD_nad_1000_osob_s_%C3%BA%C4%8Dinnost%C3%AD_od_4._7._do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Roušky ve zdravotnických zařízeních</title>
+            <description><![CDATA[Aktualizované opatření pro zdravotnická zařízení obsahuje výjimky pro nošení roušek a ruší povinné měření teplot návštěv]]></description>
+            <pubDate>Fri, 3 Jul 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_omezen%C3%AD_provozu_zdravotnick%C3%BDch_za%C5%99%C3%ADzen%C3%AD_l%C5%AF%C5%BEkov%C3%A9_p%C3%A9%C4%8De_a_za%C5%99%C3%ADzen%C3%AD_soci%C3%A1ln%C3%ADch_slu%C5%BEeb_s_%C3%BA%C4%8Dinnost%C3%AD_od_4._7._2020_do_odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Centrální řídící tým COVID</title>
+            <description><![CDATA[Vládní tým se ruší a jeho funkci nahradí tým pod ministerstvem zdravotnictví]]></description>
+            <pubDate>Fri, 3 Jul 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9_opat%C5%99en%C3%AD_%E2%80%93_na%C5%99%C3%ADzen%C3%AD_a_sjednocen%C3%AD_spolupr%C3%A1ce_v_r%C3%A1mci_Centr%C3%A1ln%C3%ADho_%C5%99%C3%ADd%C3%ADc%C3%ADho_t%C3%BDmu_COVID-19.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Překračování státní hranice od července</title>
             <description><![CDATA[Nové mimořádné opatření uvolňuje cestování do a ze zemí s nízkým rizikem nákazy; seznam těchto zemí je zveřejňován zvlášť]]></description>
             <pubDate>Wed, 1 Jul 2020 08:00:00 +0100</pubDate>
