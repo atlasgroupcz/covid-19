@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Systém pohotovostních stupňů</title>
+            <description><![CDATA[Metodika pro hygienické stanice a místní samosprávy jak postupovat s ohledem na epidemiologickou situaci v jejich regionu]]></description>
+            <pubDate>Mon, 27 Jul 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Stupn%C4%9B-pohotovosti-v-oblasti-ochrany-ve%C5%99ejn%C3%A9ho-zdrav%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Menší interiérové akce</title>
             <description><![CDATA[Druhá aktualizace opatření o hromadných akcích od 27. července omezuje maximální počet účastníků akcí ve vnitřních prostorech na 500]]></description>
             <pubDate>Fri, 24 Jul 2020 08:00:00 +0100</pubDate>
