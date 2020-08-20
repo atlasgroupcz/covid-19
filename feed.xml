@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nošení ochranných prostředků dýchacích cest</title>
+            <description><![CDATA[Mimořádné opatření nařizující s určitými výjimkami nošení ochranných prostředků dýchacích cest, a to s účinností od 1.9.2020 do odvolání]]></description>
+            <pubDate>Wed, 19 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne_opatreni_noseni_ochrannych_prostredku_dychacich_cest_01_09_2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákazy omezení hromadných akcí</title>
+            <description><![CDATA[Mimořádné opatření, jímž se zakazuje, případně omezuje konání hromadných akcí, a to s účinností od 1.9.2020 do odvolání]]></description>
+            <pubDate>Wed, 19 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne_opatreni_zakaz_a_omezeni_hromadnych_akci_01_09_2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení provozu zdravotnických zařízení</title>
+            <description><![CDATA[Mimořádné opatření, kterým se omezuje provoz zdravotnických zařízení lůžkové péče a zařízení sociálních služeb s účinností od 1.9.2020 do odvolání]]></description>
+            <pubDate>Wed, 19 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne_opatreni_omezeni_provozu_zdravotnickych_zarizeni_luzkove_pece_01_09_2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Manuál k provozu škol od září</title>
             <description><![CDATA[Ministerstvo školství spolu s Ministerstvem zdravotnictví připravilo manuál pro provoz škol a školských zařízení ve školním roce 2020/2021 vzhledem ke COVID-19.]]></description>
             <pubDate>Mon, 17 Aug 2020 08:00:00 +0100</pubDate>
