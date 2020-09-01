@@ -3,8 +3,44 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Hromadné akce v září</title>
+            <description><![CDATA[Třetí verze zářiového opatření pro hromadné akce ještě více zpřesňuje soubor pravidel pro hromadné akce v členěných areálech]]></description>
+            <pubDate>Wed, 31 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-zakaz-a-omezeni-hromadnych-akci-s-ucinnosti-od-1-9-2020-do-odvolani-1.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení opatření Vězeňské služby</title>
+            <description><![CDATA[Opatření pro Vezeňskou službu týkající se společného ubytovávání pracovně zařazených odsouzených trvá i po 31. srpnu]]></description>
+            <pubDate>Wed, 26 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-narizeni-Vezenske-sluzbe-CR-s-ucinnosti-od-31-8-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Karantény a izolace</title>
+            <description><![CDATA[Opatření o nařizování a ukončování karantény či izolace a o prokazování bezinfekčnosti; nahrazuje některá stávající opatření od 1.9.]]></description>
+            <pubDate>Wed, 24 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-izolace-a-karantena-s-ucinnosti-od-1-9-2020-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Úprava areálů pro hromadné akce</title>
+            <description><![CDATA[Aktualizace opatření upravujícího hromadné akce od 1.9. mění pravidla pro akce konané ve stavebně členěných areálech]]></description>
+            <pubDate>Wed, 24 Aug 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-zakaz-a-omezeni-hromadnych-akci-s-ucinnosti-od-1-9-2020-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Nošení ochranných prostředků dýchacích cest</title>
-            <description><![CDATA[Mimořádné opatření nařizující s určitými výjimkami nošení ochranných prostředků dýchacích cest, a to s účinností od 1.9.2020 do odvolání]]></description>
+            <description><![CDATA[Nové opatření ukládající povinnost nosit roušky v hromadné dopravě a ve vnitřních prostorách vybraných staveb; byl rozšířen seznam výjimek]]></description>
             <pubDate>Wed, 19 Aug 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimoradne_opatreni_noseni_ochrannych_prostredku_dychacich_cest_01_09_2020.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
@@ -12,8 +48,8 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Zákazy omezení hromadných akcí</title>
-            <description><![CDATA[Mimořádné opatření, jímž se zakazuje, případně omezuje konání hromadných akcí, a to s účinností od 1.9.2020 do odvolání]]></description>
+            <title>Úprava omezení hromadných akcí</title>
+            <description><![CDATA[Aktualizace opatření upravujícího hromadné akce; nová pravidla pro hlediště a povinné roušky od 1.9.]]></description>
             <pubDate>Wed, 19 Aug 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimoradne_opatreni_zakaz_a_omezeni_hromadnych_akci_01_09_2020.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
@@ -34,7 +70,7 @@
             <description><![CDATA[Ministerstvo školství spolu s Ministerstvem zdravotnictví připravilo manuál pro provoz škol a školských zařízení ve školním roce 2020/2021 vzhledem ke COVID-19.]]></description>
             <pubDate>Mon, 17 Aug 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Manual_k_provozu_skol_M%C5%A0MT_MZd.pdf</link>
-            <author>Ministerstvo školství, Ministerstvem zdravotnictví</author>
+            <author>Ministerstvo školství, Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
