@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Doporučení pro úřady</title>
+            <description><![CDATA[Vláda schválila doporučení pro úřady k přijímání opatření proti šíření onemocnění COVID-19]]></description>
+            <pubDate>Fri, 11 Sep 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%AD%20pro%20%C3%BA%C5%99ady%20k%20p%C5%99ij%C3%ADm%C3%A1ni%20opat%C5%99en%C3%AD%20proti%20%C5%A1%C3%AD%C5%99en%C3%AD%20onemocn%C4%9Bn%C3%AD%20COVID-19.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Roušky ve všech budovách</title>
             <description><![CDATA[Povinnost nosit ochranné prostředky dýchacích cest se rozšiřuje na všechny stavby; s tím se také prodlužuje seznam výjimek]]></description>
             <pubDate>Thu, 10 Sep 2020 08:00:00 +0100</pubDate>
