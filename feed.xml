@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Příjezdový formulář</title>
+            <description><![CDATA[Osoby přijíždějící ze států, které nemají pouze nízké riziko nákazy, musí před vstupem do ČR vyplnit elektronický formulář]]></description>
+            <pubDate>Mon, 21 Sep 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-omezeni-prekroceni-statni-hranice-CR-s-ucinnosti-od-21-9-2020-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zavíračka od půlnoci</title>
             <description><![CDATA[Provozovny stravovacích služeb se musejí od 0:00 do 6:00 uzavřít pro veřejnost; výdejová okénka mohou zůstat otevřená]]></description>
             <pubDate>Fri, 18 Sep 2020 08:00:00 +0100</pubDate>
