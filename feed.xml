@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Další zkrácení otevírací doby</title>
+            <description><![CDATA[Restaurace mohou být již otevřeny pouze do 22:00]]></description>
+            <pubDate>Thu, 24 Sep 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-provozoven-a-provoz%C5%AF-slu%C5%BEeb-s-%C3%BA%C4%8Dinnost%C3%AD-od-24.9.2020-do-7.10.2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Úprava hromadných akcí</title>
+            <description><![CDATA[Aktualizace opatření týkajícícho se hromadných akcí obsahuje jen drobné změny, např. umožňuje venkovní akce do 50 osob bez míst k sezení]]></description>
+            <pubDate>Thu, 24 Sep 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-z%C3%A1kaz-a-omezen%C3%AD-hromadn%C3%BDch-akc%C3%AD-s-%C3%BA%C4%8Dinnost%C3%AD-od-24.-9.-2020-do-7.10.2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Příjezdový formulář</title>
             <description><![CDATA[Osoby přijíždějící ze států, které nemají pouze nízké riziko nákazy, musí před vstupem do ČR vyplnit elektronický formulář]]></description>
             <pubDate>Mon, 21 Sep 2020 08:00:00 +0100</pubDate>
