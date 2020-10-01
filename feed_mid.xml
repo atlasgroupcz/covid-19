@@ -12,15 +12,6 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>JakNaCOVID.cz</title>
-            <description><![CDATA[Pomocník pro orientaci v systému všech dostupných kompenzačních opatření; "kalkulačka" toho, na co máte nárok]]></description>
-            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://jaknacovid.cz/</link>
-            <author>v4 Legal</author>
-            <enclosure type="image/jpeg"
-                       url="https://jaknacovid.cz/images/logo.png"/>
-        </item>
-        <item>
             <title>Rozcestník EU k pandemii</title>
             <description><![CDATA[Seznam důležitých dokumentů týkajících se společné reakce EU na pandemii COVID-19]]></description>
             <pubDate>Mon, 1 Jun 2020 8:00:00 +0100</pubDate>
@@ -28,6 +19,15 @@
             <author>Eur-lex</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>JakNaCOVID.cz</title>
+            <description><![CDATA[Pomocník pro orientaci v systému všech dostupných kompenzačních opatření; "kalkulačka" toho, na co máte nárok]]></description>
+            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
+            <link>https://jaknacovid.cz/</link>
+            <author>v4 Legal</author>
+            <enclosure type="image/jpeg"
+                       url="https://jaknacovid.cz/images/logo.png"/>
         </item>
         <item>
             <title>Odpovědi AK Deloitte</title>
