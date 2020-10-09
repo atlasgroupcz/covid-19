@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Pravidla pro hromadné akce a veřejné provozovny</title>
+            <description><![CDATA[Od 12. října se zakazují poutě, veletrhy a kongresy, uzavírají se muzea, galerie, planetária...]]></description>
+            <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20400-2020%20-%20hromadne%20akce%2012-25.10..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Víkendové omezení hromadných akcí</title>
+            <description><![CDATA[Omezení hromadných akcí a některých provozoven s platností od 9. do 11. října]]></description>
+            <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20399-2020%20-%20hromadne%20akce%20do%2011.10..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení činnosti úřadů</title>
+            <description><![CDATA[Zkrácení úředních hodin a omezení styku s veřejností]]></description>
+            <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20398-2020%20-%20omezeni%20uradu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Návštěvy v nemocnicích</title>
+            <description><![CDATA[Pravidla pro návštěvy v nemocnicích, domovech pro seniory a jiných zdravotnických a sociálních zařízeních]]></description>
+            <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20402-2020%20-%20n%C3%A1v%C5%A1t%C4%9Bvy%20v%20nemocnic%C3%ADch.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uzavření škol</title>
+            <description><![CDATA[Zákaz osobní přítomnosti žáků na středních a vysokých školách s výjimkami, omezení základních škol a další zákazy]]></description>
+            <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20401-2020%20-%20uzav%C5%99en%C3%AD%20%C5%A1kol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Opatření pro provozy bylo prodlouženo</title>
             <description><![CDATA[Opatření ministerstva určené pro provozovny mělo platit do 7. října, bylo však nahrazeno prakticky totožným opatřením, platícím neomezeně]]></description>
             <pubDate>Mon, 5 Oct 2020 08:00:00 +0100</pubDate>
