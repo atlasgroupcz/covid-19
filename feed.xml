@@ -12,6 +12,33 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
+            <title>Další uzavírání škol</title>
+            <description><![CDATA[Od 14. října platí nové opatření ještě více omezující přítomnost osob na vzdělávání]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20408-2020%20-%20%C5%A1koly%20od%2014.10..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pracovní povinnost studentů</title>
+            <description><![CDATA[Obodbně jako na jaře, studenti zdravotních škol mají pracovní povinnost k zajištění poskytování zdravotních služeb]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20409-2020%20-%20pracovni%20povinnost%20zaku%20a%20studentu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz vycházení</title>
+            <description><![CDATA[Zákaz vycházení se týká klientů domovů pro seniory a domovů se zvláštním režimem]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20413-2020%20-%20zakaz%20vychazeni.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Pravidla pro hromadné akce a veřejné provozovny</title>
             <description><![CDATA[Od 12. října se zakazují poutě, veletrhy a kongresy, uzavírají se muzea, galerie, planetária...]]></description>
             <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
