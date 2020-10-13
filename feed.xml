@@ -30,10 +30,37 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
+            <title>Zajištění péče o děti</title>
+            <description><![CDATA[Obodbně jako na jaře, pro děti vybraných zaměstnanců zajišťují kraje nezbytnou péči]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20414-2020%20-%20zajisteni%20nezbytne%20pece%20o%20deti.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Minimalizace poskytování sociálních služeb</title>
+            <description><![CDATA[Sociální služby se poskytují pouze v nezbytné míře s cílem zajištění ochrany života a zdraví osob]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20412-2020%20-%20socialni%20sluzby.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Zákaz vycházení</title>
             <description><![CDATA[Zákaz vycházení se týká klientů domovů pro seniory a domovů se zvláštním režimem]]></description>
             <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20413-2020%20-%20zakaz%20vychazeni.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zjednodušení administrace sociálních dávek</title>
+            <description><![CDATA[Zkracuje se řízení o nepojistných sociálních dávkách, předpokládá se nezaopatřenost dětí a o průkaz ZTP lze žádat elektronicky]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20410-2020%20-%20socialni%20davky.pdf</link>
             <author>Vláda</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
