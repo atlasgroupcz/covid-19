@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Uzavření provozů</title>
+            <description><![CDATA[Od 14. října se zavírají restaurace a lidé se mohou pohybovat pouze ve skupinách po 6]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20407-2020%20-%20verejnost%20od%2014.10..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Pravidla pro hromadné akce a veřejné provozovny</title>
             <description><![CDATA[Od 12. října se zakazují poutě, veletrhy a kongresy, uzavírají se muzea, galerie, planetária...]]></description>
             <pubDate>Fri, 9 Oct 2020 08:00:00 +0100</pubDate>
