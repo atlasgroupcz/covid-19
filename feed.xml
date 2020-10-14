@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link rel="self" type="application/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        <item>
+            <title>Roušky ve všech budovách</title>
+            <description><![CDATA[Povinnost nosit ochranné prostředky dýchacích cest platí ve všechn budovách mimo bydliště a ve veřejné dopravě včetně zastávek]]></description>
+            <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami-s-ucinnosti-od-13-10-2020-do-odvolani.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
         <item>
             <title>Uzavření provozů</title>
             <description><![CDATA[Od 14. října se zavírají restaurace a lidé se mohou pohybovat pouze ve skupinách po 6]]></description>
