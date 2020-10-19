@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Omezení pracovnělékařských prohlídek</title>
+            <description><![CDATA[Prodlužuje se platnost stávajících pracovnělékařských posudků a vstupní lékařskou prohlídku lze nahradit prohlášením]]></description>
+            <pubDate>Mon, 19 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20418-2020%20-%20pracovnelekarske%20prohlidky.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz návstěv ve věznicích</title>
+            <description><![CDATA[Až na zákonné výjimky se zakazují návštěvy ve vazebních věznicích, věznicích a v ústavech pro výkon zabezpečovací detence]]></description>
+            <pubDate>Mon, 19 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20420-2020%20-%20navstevy%20veznic.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Roušky ve všech budovách</title>
             <description><![CDATA[Povinnost nosit ochranné prostředky dýchacích cest platí ve všech budovách mimo bydliště a ve veřejné dopravě včetně zastávek]]></description>
             <pubDate>Tue, 13 Oct 2020 08:00:00 +0100</pubDate>
