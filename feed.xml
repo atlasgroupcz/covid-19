@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        
         <item>
             <title>Zákaz volného pohybu</title>
             <description><![CDATA[Nové opatření omezující pohyb osob zavádí dvojí režim, kdy od 21h do 5h je dovoleno prakticky jen venčení psů a výkon povolání]]></description>
@@ -26,6 +27,24 @@
             <pubDate>Tue, 27 Oct 2020 08:00:00 +0100</pubDate>
             <link>https://www.pravniprostor.cz/aktuality/antivirus-b-prodlouzen-do-konce-roku-vlada-schvalila-pokracovani-ochrany-pracovnich-mist</link>
             <author>Ministerstvo práce a sociálních věcí</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prominutí daňových záloh</title>
+            <description><![CDATA[Vláda uložila ministerstvu financí prominout úrok z prodlení u DPH a zálohy na daně z příjmů a silniční daně]]></description>
+            <pubDate>Tue, 27 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%201099%20-%20prominuti%20prislusenstvi%20dani.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Povinnost navyšovat kapacity nemocnic</title>
+            <description><![CDATA[Poskytovatelé lůžkové péče musí průběžně navyšovat kapacity, uvolňovat co nejrychleji lůžka a nepřijímat plánované pacienty]]></description>
+            <pubDate>Tue, 27 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-narizeni-poskytovatelum-akutni-luzkove-pece-a-nasledne-luzkove-pece-s-ucinnosti-od-28-10-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
