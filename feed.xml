@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nový balíček opatření</title>
+            <description><![CDATA[Spolu s prodloužením nouzového stavu bylo zaktualizováno a doplněno 8 krizových opatření]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb180-20.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení nouzového stavu</title>
+            <description><![CDATA[Nouzový stav byl prodloužen do 20. listopadu]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20439-2020%20-%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
+            <author>Vláda a Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Častější porušování zákoníku práce</title>
             <description><![CDATA[Článek o nezákonných praktikách zaměstnavatelů v době koronavirové epidemie i mimo ni]]></description>
             <pubDate>Fri, 30 Oct 2020 08:00:00 +0100</pubDate>
