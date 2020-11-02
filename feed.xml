@@ -3,8 +3,89 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Pokračuje omezení volného pohybu</title>
+            <description><![CDATA[Omezení volného pohybu pokračuje; mezi výjimky přibyla cesta za vzděláním]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20444-2020%20-%20zakaz%20volneho%20pohybu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pokračuje uzavření provozů a zákaz akcí</title>
+            <description><![CDATA[Omezení pokračují ve stejném režimu; navíc byly povoleny pouze vzdělávací akce zdravotníků]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20447-2020%20-%20omezeni%20provozoven.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pokračuje uzavření škol</title>
+            <description><![CDATA[Uzavírka škol se prodlužuje; nově se týká také praktických škol]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20443-2020%20-%20uzavreni%20skol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pokračuje omezení úřadů</title>
+            <description><![CDATA[Omezení chodu veřejné správy se prodlužuje; opatření zůstávají shodná]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20445-2020%20-%20omezeni%20uradu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz návštěv nemocnic</title>
+            <description><![CDATA[Zákaz návštěv pacientů ve zdravotnickýh zařízeních a klientů pobytových sociálních služeb se prodlužuje; výjiky zůstávají shodné]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20446-2020%20-%20navstevy%20nemocnic.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Datové schránky zdarma</title>
+            <description><![CDATA[Stejně jako na jaře je posílání datových zpráv mezi soukromými osobami zdarma]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20441-2020%20-%20datove%20schranky%20zdarma.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Povolení pietních provozů</title>
+            <description><![CDATA[Od 31. platí výjimka ze zákazu také pro kameníky a prodejny pietního zboží (věnce, svíčky...)]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20442-2020%20-%20vyjimka%20pro%20kameniky%20a%20prodejny%20pietniho%20zbozi.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Nezbytná péče o děti</title>
+            <description><![CDATA[Péče o děti, které zajišťují kraje, se rozšiřuje na další zaměstnance úřadů; kraje ji mohou dále rozšířit]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20440-2020%20-%20nezbytna%20pece%20o%20deti.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Pravidelné testování</title>
+            <description><![CDATA[Všichni pacienti lůžkové péče a uživatelé pobytových sociálních služeb se musí pravidelně testovat]]></description>
+            <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-antigenni-testovani-s-ucinnosti-od-4-11-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Nový balíček opatření</title>
-            <description><![CDATA[Spolu s prodloužením nouzového stavu bylo zaktualizováno a doplněno 8 krizových opatření]]></description>
+            <description><![CDATA[Spolu s prodloužením nouzového stavu bylo zaktualizováno a doplněno 8 krizových opatření (viz výše)]]></description>
             <pubDate>Sat, 31 Oct 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/sb180-20.pdf</link>
             <author>Vláda</author>
