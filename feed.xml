@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Sportovní soutěže</title>
+            <description><![CDATA[Ministerstvo zdravotnictví může povolit významná sportovní utkání nebo souteže]]></description>
+            <pubDate>Tue, 3 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20452-2020%20-%20sportovni%20akce%20a%20demonstrace.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Úprava zákona o investičních pobídkách</title>
+            <description><![CDATA[Zákon nově upravuje prodloužení lhůty splnění podmínek kvůli situaci okolo COVID]]></description>
+            <pubDate>Tue, 3 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20450-2020%20-%20investicni%20pobidky%20a%20covid.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Další odklad EET</title>
+            <description><![CDATA[Povinnost elektronické evidence tržeb se odkládá až do roku 2023]]></description>
+            <pubDate>Tue, 3 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20449-2020%20-%20odklad%20EET.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodlužuje se lex voucher pro kulturu</title>
+            <description><![CDATA[Zákon o poukazech na kulturní akce se prodlužuje do konce roku]]></description>
+            <pubDate>Tue, 3 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20448-2020%20-%20lex%20voucher%20kultura%20prodlouzeni.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Pokračuje omezení volného pohybu</title>
             <description><![CDATA[Omezení volného pohybu pokračuje; mezi výjimky přibyla cesta za vzděláním]]></description>
             <pubDate>Mon, 2 Nov 2020 08:00:00 +0100</pubDate>
