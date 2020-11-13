@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Kompenzační bonus</title>
+            <description><![CDATA[Zákon o kompenzačním bonusu po dobu nového nouzového stavu]]></description>
+            <pubDate>Fri, 13 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20461-2020%20-%20kompenzacni%20bonus.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Lex Covid Justice</title>
+            <description><![CDATA[Došlo k prodloužení účinnosti zákona Lex covid justice]]></description>
+            <pubDate>Fri, 13 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20460-2020%20-%20lex%20covid%20justice%20II.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Překračování hranic</title>
             <description><![CDATA[Více se omezují zastupitelské úřady a přibyla výjimka pro příjezdový formulář v případech krátkých a nezbytných návštěv]]></description>
             <pubDate>Wed, 4 Nov 2020 08:00:00 +0100</pubDate>
