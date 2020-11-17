@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Další omezení příjezdových formulářů</title>
+            <description><![CDATA[Výjimka pro naléhavost, kdy není třeba se testovat ani vyplňovat příjezdový formulář, platí pro návštěvy až 24 hodin dlouhé]]></description>
+            <pubDate>Mon, 16 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Rozsudek%20-%20zruseni%20rouskoveho%20opatreni.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Rouškové opatření do 20. listopadu</title>
+            <description><![CDATA[Soudem zrušené rouškové opatření bylo nahrazeno prakticky totožným opatřením; mění se pouze pokud jde o roušky ve školách]]></description>
+            <pubDate>Mon, 16 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Rozsudek%20-%20zruseni%20rouskoveho%20opatreni.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Rouškové opatření nebylo řádně zdůvodněno</title>
             <description><![CDATA[Soud zrušil pro nedostatek důvodů opatření ukládající nošení roušek ve venkovních prostorách; zrušení platí až od 21.11.]]></description>
             <pubDate>Fri, 13 Nov 2020 08:00:00 +0100</pubDate>
