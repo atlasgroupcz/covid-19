@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Omezení provozoven</title>
+            <description><![CDATA[V provozovnách může být maximálně 1 zákazník na 15 m2 prodejní plochy; otevírají se psí salony]]></description>
+            <pubDate>Tue, 17 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%20vlady%20465-2020%20-%20uzavreni%20provozu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Svatby pro 15 osob</title>
+            <description><![CDATA[Svatby, pohřby a bohoslužby konané od 18. do 20. listopadu mají povoleno o 5 účastníků více]]></description>
+            <pubDate>Tue, 17 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%20vlady%20463-2020%20-%20volny%20pohyb.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Základní školy</title>
+            <description><![CDATA[První a druhé ročníky základních škol, praktické školy a přípravné ročníky speciálních škol se opět otevírají]]></description>
+            <pubDate>Tue, 17 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%20vlady%20464-2020%20-%20uzavreni%20skol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Opatření pro kritickou infrastrukturu</title>
+            <description><![CDATA[Protiepidemiologická opatření pro subjekty kritické infrastruktury, jejich dodavatele a jejich zaměstnance]]></description>
+            <pubDate>Tue, 17 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%20vlady%20462-2020%20-%20kriticka%20infrastruktura.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Další omezení příjezdových formulářů</title>
             <description><![CDATA[Výjimka pro naléhavost, kdy není třeba se testovat ani vyplňovat příjezdový formulář, platí pro návštěvy až 24 hodin dlouhé]]></description>
             <pubDate>Mon, 16 Nov 2020 08:00:00 +0100</pubDate>
