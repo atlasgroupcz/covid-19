@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Prodloužení nouzového stavu</title>
+            <description><![CDATA[Nouzový stav byl prodloužen; avšak poslanci schválili prodloužení jen do 12.12.]]></description>
+            <pubDate>Thu, 19 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%201182-2020%20-%20zadost%20o%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Omezení provozoven</title>
             <description><![CDATA[V provozovnách může být maximálně 1 zákazník na 15 m2 prodejní plochy; otevírají se psí salony]]></description>
             <pubDate>Tue, 17 Nov 2020 08:00:00 +0100</pubDate>
