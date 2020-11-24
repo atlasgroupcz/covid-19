@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Přepracované rouškové opatření</title>
+            <description><![CDATA[Bylo přepracováno odůvodnění rouškového opatření (jak požadoval soud); povinnosti zůstávají stejné]]></description>
+            <pubDate>Tue, 24 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-no%C5%A1en%C3%AD-ochrann%C3%BDch-prost%C5%99edk%C5%AF-d%C3%BDchac%C3%ADch-cest-s-%C3%BA%C4%8Dinnost%C3%AD-od-24.-11.-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Lůžkové kapacity</title>
+            <description><![CDATA[Povinnost průběžného navyšování kapacit u poskytovatelů lůžkové péče byla nahrazena povinností udržovat nezbytnou kapacitu]]></description>
+            <pubDate>Tue, 24 Nov 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-narizeni-poskytovatelum-akutni-luzkove-pece-a-nasledne-luzkove-pece-s-ucinnosti-od-24-11-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Ukončování pracovní povinnosti</title>
             <description><![CDATA[Od 25.11. se mají přednostně ukončovat pracovní povinnosti posledním ročníkům středních a vyšších odborných škol]]></description>
             <pubDate>Mon, 23 Nov 2020 08:00:00 +0100</pubDate>
