@@ -21,6 +21,33 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
+            <title>Nové rouškové opatření</title>
+            <description><![CDATA[Kvůli drobné úpravě týkající se sportovců bylo opět vydáno nové opatření]]></description>
+            <pubDate>Tue, 1 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-ucinnosti-od-3-12-2020-do-odvolani.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Překračování státních hranic</title>
+            <description><![CDATA[Cesty do České republiky již nebudou od 3. prosince omezeny jen na cesty nezbytné]]></description>
+            <pubDate>Tue, 1 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-omezeni-prekroceni-statni-hranice-CR-s-ucinnosti-od-3-12-2020-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Testování pedagogů</title>
+            <description><![CDATA[Učitelé mají možnost se zdarma otestovat]]></description>
+            <pubDate>Tue, 1 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-antigenni-testovani-pedagogicti-pracovnici-s-ucinnosti-od-4-do-18-12-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Školy od příštího týdne</title>
             <description><![CDATA[Povinná distanční výuka se až na výjimky týká pouze vysokých škol]]></description>
             <pubDate>Tue, 1 Dec 2020 08:00:00 +0100</pubDate>
