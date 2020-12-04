@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Uvolnění opatření</title>
+            <description><![CDATA[Ministerské opatření pro provozovny bylo zrušeno, dál platí opatření 498/2020 Sb.]]></description>
+            <pubDate>Thu, 3 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-ze-dne-2.-10.-2020-%C4%8D.j.-205812020-12MINKAN-od-3.12.2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Hromadné akce</title>
             <description><![CDATA[Za dodržení určitých podmínek se od 3.12. otevírají kasína, zoologické zahrady, galerie, muzea, hrady, výstavy, vzdělávací akce...]]></description>
             <pubDate>Tue, 1 Dec 2020 08:00:00 +0100</pubDate>
