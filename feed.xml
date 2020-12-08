@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Dobrovolné testování</title>
+            <description><![CDATA[Od 18. prosince mají všichni možnost se nechat jednou za 5 dní otestovat na protilátky]]></description>
+            <pubDate>Tue, 8 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-antigenni-testovani-obyvatel-s-ucinnosti-od-18-12-2020-do-15-1-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Výjimky pro sportovce</title>
+            <description><![CDATA[Aktuální rouškové opatření obsahuje speciální systém výjimek pro osoby účastnící se sportovních činností]]></description>
+            <pubDate>Tue, 8 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-ucinnosti-od-8-12-2020-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Provozovny</title>
             <description><![CDATA[Ministerské opatření pro provozovny bylo zrušeno, fakticky jej nahrazuje vládní opatření č. 498/2020 Sb.]]></description>
             <pubDate>Thu, 3 Dec 2020 08:00:00 +0100</pubDate>
