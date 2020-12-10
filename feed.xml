@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        <item>
+            <title>Nouzový stav až do Vánoc</title>
+            <description><![CDATA[Vláda prodloužila nouzový stav do 23. prosince]]></description>
+            <pubDate>Thu, 10 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/UV%201294-2020%20-%20nouzovy%20stav%20do%2023.12..pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+         </item>
          <item>
             <title>Omezení alkoholu</title>
             <description><![CDATA[Zakazuje se konzumace na veřejnosti a hospody musí zavřít už v 20:00]]></description>
