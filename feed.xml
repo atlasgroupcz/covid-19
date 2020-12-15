@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Vánoční prázdniny</title>
+            <description><![CDATA[Ve dnech 21. až 23. mohou zůstat otevřené pouze vysoké školy]]></description>
+            <pubDate>Tue, 15 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20536-2020%20-%20uzavreni%20skol%2021-23.12.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Konec pracovní povinnosti</title>
+            <description><![CDATA[Od 16. prosince jsou zrušena opatření ukládající studentům pracovní povinnost]]></description>
+            <pubDate>Tue, 15 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20537-2020%20-%20zruseni%20pracovnich%20povinnosti.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Vycházky z domovů pro seniory</title>
+            <description><![CDATA[Zákaz vycházení klientů domovů pro seniory a se zvláštním režimem byl zmírněn stanovením podmínek takových vycházek]]></description>
+            <pubDate>Tue, 15 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20532-2020%20-%20vychazky%20senioru.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Nouzový stav až do Vánoc</title>
             <description><![CDATA[Vláda prodloužila nouzový stav do 23. prosince, zároveň prodloužila platnost stávajících opatření]]></description>
             <pubDate>Thu, 10 Dec 2020 08:00:00 +0100</pubDate>
