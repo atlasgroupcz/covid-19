@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Uzavření hranic</title>
+            <description><![CDATA[Od 18. prosince je pro vstup do ČR opět třeba nezbytný důvod]]></description>
+            <pubDate>Tue, 15 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8CR-s-%C3%BA%C4%8Dinnost%C3%AD-od-18.-12.-2020-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Uzavření provozoven</title>
             <description><![CDATA[Od 18. prosince se opět uzavírají některé provozovny, např. restaurace, muzea, herny...]]></description>
             <pubDate>Tue, 15 Dec 2020 08:00:00 +0100</pubDate>
@@ -76,9 +85,9 @@
         </item>
         <item>
             <title>Dobrovolné testování</title>
-            <description><![CDATA[Od 18. prosince mají všichni možnost se nechat jednou za 5 dní otestovat na protilátky]]></description>
+            <description><![CDATA[Od 16. prosince mají všichni možnost se nechat jednou za 5 dní otestovat na protilátky]]></description>
             <pubDate>Tue, 8 Dec 2020 08:00:00 +0100</pubDate>
-            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-antigenni-testovani-obyvatel-s-ucinnosti-od-18-12-2020-do-15-1-2021.pdf</link>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-antigenni-testovani-obyvatel-s-ucinnosti-od-16-12-2020-do-15-1-2021.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
