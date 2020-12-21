@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Očkování proti COVID-19</title>
+            <description><![CDATA[Ministerstvo zdravotnictví bude zajišťovat distribuci očkování prostřednictvím distributora; upravuje se odpovědnost za vedlejší účinky]]></description>
+            <pubDate>Mon, 21 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb234-20.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Cesty za nákupy</title>
             <description><![CDATA[Volný pohyb již nevyžaduje obstarávání základních životních potřeb, ale lze cestovat za jakýmikoliv nákupy a službami]]></description>
             <pubDate>Fri, 18 Dec 2020 08:00:00 +0100</pubDate>
