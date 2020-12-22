@@ -4,9 +4,27 @@
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
             <title>Vycházky seniorů</title>
-            <description><![CDATA[Od 22. prosince již neplatí zákaz vycházek delších než 6 hodin pro klienty domovů seniorů apod.]]></description>
-            <pubDate>Mon, 21 Dec 2020 08:00:00 +0100</pubDate>
+            <description><![CDATA[Již neplatí zákaz vycházek delších než 6 hodin pro klienty domovů seniorů apod.]]></description>
+            <pubDate>Tue, 22 Dec 2020 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20537-2020%20-%20vychazky.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zákaz letů z Anglie</title>
+            <description><![CDATA[Přímé lety z území Spojeného království Velké Británie a Severního Irska do ČR jsou do konce roku zakázány]]></description>
+            <pubDate>Mon, 21 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-z%C3%A1kaz-let%C5%AF-ze-Spojen%C3%A9ho-kr%C3%A1lovstv%C3%AD-Velk%C3%A9-Brit%C3%A1nie-a-Severn%C3%ADho-Irska-s-%C3%BA%C4%8Dinnost%C3%AD-od-21.-12.-2020-od-12-hodin.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Opatření pro Anglii</title>
+            <description><![CDATA[Omezuje se volný pohyb na území České republiky pro osoby, které přicestovaly z území Spojeného království Velké Británie a Severního Irska]]></description>
+            <pubDate>Mon, 21 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8CR-s-%C3%BA%C4%8Dinnost%C3%AD-od-20.-12.-2020-od-15.30-hodin-do-odvol%C3%A1n%C3%AD.pdf</link>
             <author>Vláda</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
