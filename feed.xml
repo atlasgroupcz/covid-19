@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Vycházky seniorů</title>
+            <description><![CDATA[Od 22. prosince již neplatí zákaz vycházek delších než 6 hodin pro klienty domovů seniorů apod.]]></description>
+            <pubDate>Mon, 21 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20537-2020%20-%20vychazky.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Očkování proti COVID-19</title>
             <description><![CDATA[Ministerstvo zdravotnictví bude zajišťovat distribuci očkování prostřednictvím distributora; upravuje se odpovědnost za vedlejší účinky]]></description>
             <pubDate>Mon, 21 Dec 2020 08:00:00 +0100</pubDate>
