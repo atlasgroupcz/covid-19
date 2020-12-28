@@ -3,10 +3,55 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Prodloužení nouzového stavu</title>
-            <description><![CDATA[Dle očekávání se nouzový stav a stávající opatření prodlužují do 22. ledna]]></description>
+            <title>Uzavření provozoven</title>
+            <description><![CDATA[Opět se uzavírají provozovny, pro které není stanovena výjimka]]></description>
             <pubDate>Wed, 23 Dec 2020 08:00:00 +0100</pubDate>
-            <link>http://data.s3.atlascloud.cz/COVID/1373%20-%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20596-2020%20-%20uzavreni%20provozu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení volného pohybu</title>
+            <description><![CDATA[Opět se zpřísňují podmínky pro volný pohyb osob]]></description>
+            <pubDate>Wed, 23 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20595-2020%20-%20omezeni%20volneho%20pohybu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Omezení úřadů</title>
+            <description><![CDATA[Opět se činnost úřadů omezuje pouze na nezbytnou agendu]]></description>
+            <pubDate>Wed, 23 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20599-2020%20-%20omezeni%20uradu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Uzavření škol</title>
+            <description><![CDATA[Opět se uzavírají školy s výjimkami (např. 1 a 2. ročník ZŠ)]]></description>
+            <pubDate>Wed, 23 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20597-2020%20-%20uzavreni%20skol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Zajištění nezbytné péče</title>
+            <description><![CDATA[Vzhledem k uzavření škol platí systém zajišťování nezbytné péče o děti do 10 let vybraných zaměstnanců]]></description>
+            <pubDate>Wed, 23 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20598-2020%20-%20zajisteni%20nezbytne%20pece.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Prodloužení nouzového stavu</title>
+            <description><![CDATA[Dle očekávání byl nouzový stav a stávající opatření prodloužena do 22. ledna]]></description>
+            <pubDate>Wed, 23 Dec 2020 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20593-2020%20-%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
             <author>Vláda</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
