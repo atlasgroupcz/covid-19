@@ -3,10 +3,19 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Prodloužení testování</title>
+            <description><![CDATA[Dobrovolné antigenní testování obyvatelstva, které mělo probíhat 1 měsíc se prodlužuje do odvolání]]></description>
+            <pubDate>Fri, 8 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-zmena-Mimoradneho-opatreni-k-antigennimu-testovani-obyvatel-s-platnosti-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Prodloužení opatření</title>
             <description><![CDATA[Pokračují opatření omezující volný pohyb, maloobchod a správní orgány a pokračuje zajišťování nezbytné péče o děti do 10 let]]></description>
             <pubDate>Fri, 8 Jan 2021 08:00:00 +0100</pubDate>
-            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2010-2021%20-%20uzavreni%20skol.pdf</link>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%209-2021%20-%20prodlouzeni%20opatreni.pdf</link>
             <author>Vláda</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
