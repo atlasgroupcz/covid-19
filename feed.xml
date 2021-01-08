@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Prodloužení opatření</title>
+            <description><![CDATA[Pokračují opatření omezující volný pohyb, maloobchod a správní orgány a pokračuje zajišťování nezbytné péče o děti do 10 let]]></description>
+            <pubDate>Fri, 8 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2010-2021%20-%20uzavreni%20skol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Návštěvy nemocnic</title>
+            <description><![CDATA[Nové opatření ukládá povinnost podrobit se před návštěvou zdravotnických zařízení a domovů sociálních služeb antigennímu testu na místě]]></description>
+            <pubDate>Fri, 8 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2011-2021%20-%20navstevy%20nemocnic.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Školy od 11. ledna</title>
+            <description><![CDATA[Umožňují se zkoušky na VŠ a VOŠ do 10 osob a individuální vysokoškolské konzultace]]></description>
+            <pubDate>Fri, 8 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2010-2021%20-%20uzavreni%20skol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Úprava pravidel pro Velkou Británii</title>
             <description><![CDATA[Cestující ze Spojeného království Velké Británie a Severního Irska musí mít negativní test před vstupem do ČR a následně i 5-7 den po vstupu]]></description>
             <pubDate>Tue, 5 Jan 2021 08:00:00 +0100</pubDate>
