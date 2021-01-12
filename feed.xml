@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Opatření pro krematoria</title>
+            <description><![CDATA[Krematoria mají jet na maximální výkon, bez ohledu na lokální emisní limity; zakazuje se dovoz těl ke kremaci]]></description>
+            <pubDate>Tue, 12 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%2012-2021%20-%20krematoria.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Prodloužení testování</title>
             <description><![CDATA[Dobrovolné antigenní testování obyvatelstva, které mělo probíhat 1 měsíc, se prodlužuje do odvolání]]></description>
             <pubDate>Fri, 8 Jan 2021 08:00:00 +0100</pubDate>
