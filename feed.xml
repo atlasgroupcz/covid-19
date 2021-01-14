@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Opatření pro očkování</title>
+            <description><![CDATA[Dvě opatření pro zdravotnická zařízení účastnící se očkovací kampaně]]></description>
+            <pubDate>Thu, 14 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Opatreni%20k%20ockovani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
             <title>Opatření pro krematoria</title>
             <description><![CDATA[Krematoria mají jet na maximální výkon, bez ohledu na lokální emisní limity; zakazuje se dovoz těl ke kremaci]]></description>
             <pubDate>Tue, 12 Jan 2021 08:00:00 +0100</pubDate>
