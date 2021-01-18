@@ -48,15 +48,6 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>JakNaCOVID.cz</title>
-            <description><![CDATA[Pomocník pro orientaci v systému všech dostupných kompenzačních opatření; "kalkulačka" toho, na co máte nárok]]></description>
-            <pubDate>Fri, 24 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://jaknacovid.cz/</link>
-            <author>v4 Legal</author>
-            <enclosure type="image/jpeg"
-                       url="https://jaknacovid.cz/images/logo.png"/>
-        </item>
-        <item>
             <title>Odpovědi AK Deloitte</title>
             <description><![CDATA[Odpovědi na nejčastější právní otázky z různých oblastí práva od advokátní kanceláře Deloitte]]></description>
             <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
@@ -111,33 +102,6 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Odpovědi Ministerstva zdravotnictví</title>
-            <description><![CDATA[Co dělat a jak se chránit před virem? Jaká mám práva a povinnosti? Otázky a odpovědi]]></description>
-            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
-            <link>https://koronavirus.mzcr.cz/category/otazky-a-odpovedi/</link>
-            <author>Ministerstvo zdravotnictví</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
-            <title>Online právní poradna Frank Bold</title>
-            <description><![CDATA[Odpovědi na stovky dotazů veřejnosti od týmu právníků z Frank Bold]]></description>
-            <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
-            <link>https://koronavirus.frankbold.org/</link>
-            <author>Frank Bold</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
-            <title>Rozcestník ÚOHS ke koronavirové krizi</title>
-            <description><![CDATA[Odkazy na opatření v oblastech veřejných zakázek, veřejných podpor a hospodářské soutěže]]></description>
-            <pubDate>Fri, 17 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://www.uohs.cz/cs/hospodarska-soutez/aktuality-z-hospodarske-souteze/2757-rozcestnik-uohs-ke-koronavirove-krizi.html</link>
-            <author>Úřad pro ochranu hospodářské soutěže</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
             <title>Rozcestník MMR k opatřením a pomoci</title>
             <description><![CDATA[Odkazy na všechna opatření a pomoc MMR při pandemii COVID-19]]></description>
             <pubDate>Fri, 17 Apr 2020 8:00:00 +0100</pubDate>
@@ -146,14 +110,5 @@
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
-        <item>
-            <title>Insolvence a exekuce v nouzovém stavu</title>
-            <description><![CDATA[Návod Ministerstva spravedlnosti jak dosáhnout odkladu exekuce či snížení splátek; včetně vzorů]]></description>
-            <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
-            <link>https://www.justice.cz/?clanek=jak-za-soucasne-situace-resit-exekuce-a-insolvenc-1</link>
-            <author>Ministerstvo spravedlnosti</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-    </channel>
+   </channel>
 </rss>
