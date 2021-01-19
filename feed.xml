@@ -8,7 +8,7 @@
             <pubDate>Tue, 19 Jan 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%2017-2021%20-%20zdravotni%20zpusobilost.pdf</link>
             <author>Vláda</author>
-            <enclosure type="image/png"
+            <enclosure type="image/jpeg"
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus14.jpg"/>
         </item>
         <item>
@@ -17,7 +17,7 @@
             <pubDate>Tue, 19 Jan 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%2016-2021%20-%20provozovny.pdf</link>
             <author>Vláda</author>
-            <enclosure type="image/png"
+            <enclosure type="image/jpeg"
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
         </item>
         <item>
