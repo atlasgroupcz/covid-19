@@ -3,7 +3,7 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Další výjimky pro provozovny</title>
+            <title>Pracovní lékařské prohlídky</title>
             <description><![CDATA[Vstupní lékařské prohlídky lze opět nahrazovat čestným prohlášením a pravidelné prohlídky jsou pozastaveny]]></description>
             <pubDate>Tue, 19 Jan 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%2017-2021%20-%20zdravotni%20zpusobilost.pdf</link>
