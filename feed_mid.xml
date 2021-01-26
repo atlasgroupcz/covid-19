@@ -8,8 +8,8 @@
             <pubDate>Thu, 14 Jan 2021 8:00:00 +0100</pubDate>
             <link>https://www.mzv.cz/jnp/cz/mapa_cestovatele.html</link>
             <author>Ministerstvo zahraničí</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
         </item>
         <item>
             <title>Protiepidemický systém (PES)</title>
@@ -26,8 +26,8 @@
             <pubDate>Mon, 1 Jun 2020 8:00:00 +0100</pubDate>
             <link>https://eur-lex.europa.eu/content/news/Covid19.html?locale=cs</link>
             <author>Eur-lex</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus-eu.jpg"/>
         </item>
         <item>
             <title>Portál Covid</title>
@@ -35,8 +35,8 @@
             <pubDate>Thu, 17 Dec 2020 8:00:00 +0100</pubDate>
             <link>https://covid.gov.cz/</link>
             <author>Veřejná správa</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus-covid-portal.jpg"/>
         </item>
         <item>
             <title>Regionální epidemiologická opatření</title>
