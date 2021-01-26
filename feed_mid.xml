@@ -12,15 +12,6 @@
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
         <item>
-            <title>Regionální epidemiologická opatření</title>
-            <description><![CDATA[Přehled okresů s platnými opatřeními a jejich shrnutí]]></description>
-            <pubDate>Tue, 29 Sep 2020 8:00:00 +0100</pubDate>
-            <link>https://onemocneni-aktualne.mzcr.cz/covid-19/stupne-pohotovosti</link>
-            <author>Ministerstvo zdravotnictví</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
-        </item>
-        <item>
             <title>Protiepidemický systém (PES)</title>
             <description><![CDATA[Popis systému opatření v závislosti na epidemiologické situaci]]></description>
             <pubDate>Fri, 13 Nov 2020 8:00:00 +0100</pubDate>
@@ -44,6 +35,15 @@
             <pubDate>Thu, 17 Dec 2020 8:00:00 +0100</pubDate>
             <link>https://covid.gov.cz/</link>
             <author>Veřejná správa</author>
+            <enclosure type="image/png"
+                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+        </item>
+        <item>
+            <title>Regionální epidemiologická opatření</title>
+            <description><![CDATA[Přehled okresů s platnými opatřeními a jejich shrnutí]]></description>
+            <pubDate>Tue, 29 Sep 2020 8:00:00 +0100</pubDate>
+            <link>https://onemocneni-aktualne.mzcr.cz/covid-19/stupne-pohotovosti</link>
+            <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/png"
                        url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
         </item>
