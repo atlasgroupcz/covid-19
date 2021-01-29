@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Volný pohyb</title>
+            <description><![CDATA[Od 30. 1. vláda důrazně doporučuje při styku s jinými osobami používat respirátor bez výdechového ventilu třídy FFP2 nebo KN95]]></description>
+            <pubDate>Fri, 29 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2032-2021%20-%20volny%20pohyb.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Provozovny</title>
+            <description><![CDATA[Od 30. 1. platí několik drobných změn, např. povinnost předložit důvod ubytování, povolení noční taxislužby, dopravně psychologických vyšetření...]]></description>
+            <pubDate>Fri, 29 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2031-2021%20-%20provozovny.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus16.jpg"/>
+        </item>
+        <item>
+            <title>Návštěvy v nemocnicích</title>
+            <description><![CDATA[Od 30. 1. platí až na výjimky zákaz návštěv nemocnic]]></description>
+            <pubDate>Fri, 29 Jan 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%2033-2021%20-%20zakaz%20navstev%20nemocnic.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus6.jpg"/>
+        </item>
+        <item>
             <title>Další výjimka</title>
             <description><![CDATA[Nově získaly výjimku ze zákazu provozovny péče o dítě do tří let věku v denním režimu]]></description>
             <pubDate>Fri, 22 Jan 2021 08:00:00 +0100</pubDate>
