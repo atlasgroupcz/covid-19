@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Vzdělávací akce a zkoušky</title>
+            <description><![CDATA[Mění se rozsah povolených vzdělávacích akcí a zkoušek]]></description>
+            <pubDate>Tue, 9 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb022-21.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus16.jpg"/>
+        </item>
+        <item>
             <title>Zpřísnění na hranicích</title>
             <description><![CDATA[Zavádí se nová kategorie zemí s velmi vysokým rizikem, kdy je třeba absolvovat test před i po příjezdu a v mezičase být v samoizolaci]]></description>
             <pubDate>Thu, 4 Feb 2021 08:00:00 +0100</pubDate>
