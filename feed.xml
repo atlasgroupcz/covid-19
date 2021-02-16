@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Úprava překračování hranic</title>
+            <description><![CDATA[Zpřesňují se podmínky pro vstup a následný pobyt některých kategorií osob, například profesionálních sportovců]]></description>
+            <pubDate>Mon, 15 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-omezeni-prekroceni-statni-hranice-Ceske-republiky-s-ucinnosti-od-15-2-2021-do-odvolani-s-prilohou.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Testování pokračuje</title>
+            <description><![CDATA[Pravidelná testování u poskytovatelů sociálních a zdravotních služeb mohou pokračovat i po skončení nouzového stavu]]></description>
+            <pubDate>Mon, 15 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-zmena-mimoradnych-opatreni-antigenni-testovani-ze-dne-20-11-2020.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Nouzový stav byl opět vyhlášen</title>
             <description><![CDATA[Nouzový stav spolu se všemi dosavadními krizovými opatřeními byl znovu vyhlášen, a to do konce února]]></description>
             <pubDate>Mon, 15 Feb 2021 08:00:00 +0100</pubDate>
