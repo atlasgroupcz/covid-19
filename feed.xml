@@ -3,12 +3,21 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Usnesení o zrušení nouzového stavu</title>
+            <description><![CDATA[Parlament se usnesl, že nouzový stav skončí účinností tzv. pandemického zákona, nejpozději k 27. únoru]]></description>
+            <pubDate>Tue, 23 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20o%20zru%C5%A1en%C3%AD%20nouzov%C3%A9ho%20stavu.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
             <title>Ústavní soud ke krizovým opatřením</title>
             <description><![CDATA[Podle Ústavního soudu je třeba krizová opatření lépe odůvodnit]]></description>
             <pubDate>Mon, 22 Feb 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Pl._US_106_20_vcetne_disentu.pdf</link>
             <author>Ústavní soud</author>
-            <enclosure type="image/jpeg"
+            <enclosure type="image/webp"
                        url="https://www.pravniprostor.cz/storage/app/media//optimized/original-size/posts/ustavnisoudii-f2b51e1d.webp"/>
         </item>
         <item>
