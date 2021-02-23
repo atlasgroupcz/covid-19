@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ústavní soud ke krizovým opatřením</title>
+            <description><![CDATA[Podle Ústavního soudu je třeba krizová opatření lépe odůvodnit]]></description>
+            <pubDate>Mon, 22 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Pl._US_106_20_vcetne_disentu.pdf</link>
+            <author>Ústavní soud</author>
+            <enclosure type="image/jpeg"
+                       url="https://www.pravniprostor.cz/storage/app/media//optimized/original-size/posts/ustavnisoudii-f2b51e1d.webp"/>
+        </item>
+        <item>
             <title>K poskytování sociálních služeb</title>
             <description><![CDATA[Poskytovatelé sociálních služeb mohou poskytovat sociální služby pouze v nezbytné míře s cílem zajištění ochrany života a zdraví osob]]></description>
             <pubDate>Tue, 16 Feb 2021 08:00:00 +0100</pubDate>
