@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nový nouzový stav</title>
+            <description><![CDATA[Spolu s novým 30 denním nouzovým stavem byla vyhlášena i sada opatření]]></description>
+            <pubDate>Sat, 27 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb039-21%20-%20nouzovy%20stav.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
+            <title>Pandemický zákon</title>
+            <description><![CDATA[Nová úprava pravomocí vydávat opatření v boji s pandemií]]></description>
+            <pubDate>Sat, 27 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Pandemicky%20zakon.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus16.jpg"/>
+        </item>
+        <item>
+            <title>Kompenzační zákon pro rok 2021</title>
+            <description><![CDATA[Nová úprava kompenzací za období od února 2021]]></description>
+            <pubDate>Sat, 27 Feb 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20o%20kompenzacnim%20bonusu%202021.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus8.jpg"/>
+        </item>
+        <item>
             <title>Zákaz vstupu do rizikových zemí</title>
             <description><![CDATA[Zakazují se cesty do Botswany, Brazílie, JAR, Keni, Malawi, Mosambiku, Tanzánie, Zambie a Zimbabwe]]></description>
             <pubDate>Thu, 25 Feb 2021 08:00:00 +0100</pubDate>
