@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zpříšnění stravování</title>
+            <description><![CDATA[Konzumace se zakazuje i v provozovnách zaměstnaneckého stravování (slouží jen pro prodej nebo podání pokrmů)]]></description>
+            <pubDate>Tue, 2 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%20116-2021%20-%20stravovani.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Nový nouzový stav</title>
             <description><![CDATA[Spolu s novým 30 denním nouzovým stavem byla vyhlášena i sada opatření]]></description>
             <pubDate>Sat, 27 Feb 2021 08:00:00 +0100</pubDate>
