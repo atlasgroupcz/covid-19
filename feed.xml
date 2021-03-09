@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování veřejných zaměstnanců</title>
+            <description><![CDATA[Veřejní zaměstnavatelé (úřady, školy apod.) s více než 50 zaměstnanci jsou také povinni provádět testování zaměstnanců]]></description>
+            <pubDate>Tue, 9 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-povinne-testovani-verejni-zamestnavatele-nad-50-osob.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Izolačka</title>
             <description><![CDATA[Od března do dubna přísluší zaměstnancům příspěvek ke karanténě 370 Kč, maximálně do 90% průměrného výdělku]]></description>
             <pubDate>Sun, 7 Mar 2021 08:00:00 +0100</pubDate>
