@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Otázky a odpovědi k testování</title>
+            <description><![CDATA[Jaká jsou aktuální pravidla povinného testování ve firmách, jaké důsledky mohou mít v pracovněprávních vztazích a co se stane, když zaměstnanec testování odmítne?]]></description>
+            <pubDate>Wed, 10 Mar 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/clanky/ostatni-pravo/otazky-odpovedi-povinne-testovani-zamestnancu-ve-firmach</link>
+            <author>JUDr. Klára Rücklová</author>
+            <enclosure type="image/webp"
+                       url="https://www.pravniprostor.cz/storage/app/media//optimized/original-size/posts/edited-images/new-koronavirus-test-covid-jpg.webp"/>
+        </item>
+        <item>
+            <title>Evidence provedených testů zaměstnanců</title>
+            <description><![CDATA[K otázkám ochrany osobních údajů v souvislosti s testováním zaměstnanců vydal ÚOOÚ stanovisko]]></description>
+            <pubDate>Wed, 10 Mar 2021 08:00:00 +0100</pubDate>
+            <link>https://www.uoou.cz/vismo/dokumenty2.asp?id_org=200144&id=48379</link>
+            <author>Úřad pro ochranu osobních údajů</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
             <title>Testování veřejných zaměstnanců</title>
             <description><![CDATA[Veřejní zaměstnavatelé (úřady, školy apod.) s více než 50 zaměstnanci jsou také povinni provádět testování zaměstnanců]]></description>
             <pubDate>Tue, 9 Mar 2021 08:00:00 +0100</pubDate>
