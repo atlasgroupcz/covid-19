@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Péče o děti starostů</title>
+            <description><![CDATA[I starostové a starostky získali právo na nezbytnou péči o děti]]></description>
+            <pubDate>Tue, 16 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb050-21%20-%20starostove%20a%20pece%20o%20deti.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Otázky a odpovědi k testování</title>
             <description><![CDATA[Jaká jsou aktuální pravidla povinného testování ve firmách, jaké důsledky mohou mít v pracovněprávních vztazích a co se stane, když zaměstnanec testování odmítne?]]></description>
             <pubDate>Wed, 10 Mar 2021 08:00:00 +0100</pubDate>
