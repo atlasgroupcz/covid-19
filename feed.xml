@@ -3,13 +3,22 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Trestání za nouzového stavu</title>
+            <description><![CDATA[Podle soudu nouzový stav zvyšuje trestnost pouze činů spáchaných ve věcné souvislosti s ním]]></description>
+            <pubDate>Wed, 17 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/15%20Tdo%20110_2021.pdf</link>
+            <author>Nejvyšší soud</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Péče o děti starostů</title>
             <description><![CDATA[I starostové a starostky získali právo na nezbytnou péči o děti]]></description>
             <pubDate>Tue, 16 Mar 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/sb050-21%20-%20starostove%20a%20pece%20o%20deti.pdf</link>
             <author>Vláda</author>
             <enclosure type="image/jpg"
-                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus8.jpg"/>
         </item>
         <item>
             <title>Otázky a odpovědi k testování</title>
