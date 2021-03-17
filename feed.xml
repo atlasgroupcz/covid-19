@@ -8,8 +8,8 @@
             <pubDate>Wed, 17 Mar 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/15%20Tdo%20110_2021.pdf</link>
             <author>Nejvyšší soud</author>
-            <enclosure type="image/jpg"
-                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+            <enclosure type="image/webp"
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-rozsudek-soud-kladivko-knihy-univerzal-jpg.webp"/>
         </item>
         <item>
             <title>Péče o děti starostů</title>
