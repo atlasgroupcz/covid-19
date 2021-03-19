@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Pohyb osob</title>
+            <description><![CDATA[Umožňuje se styk rodičů s nezletilými dětmi a volnočasové aktivity již nejsou omezeny na území obce]]></description>
+            <pubDate>Fri, 19 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%20134-2021%20-%20okresy.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
+        </item>
+        <item>
+            <title>Provozovny zůstanou zavřené</title>
+            <description><![CDATA[Uzavření provozoven zůstává stejné]]></description>
+            <pubDate>Fri, 19 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%20133-2021%20-%20provozovny.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Školy zůstanou zavřené</title>
+            <description><![CDATA[Uzavření škol se prodlužuje]]></description>
+            <pubDate>Fri, 19 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%20135-2021%20-%20prodlouzeni%20uzavreni%20skol.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Návštěvy nemocnic</title>
+            <description><![CDATA[Očkované osoby mohou navštěvovat nemocnice a zařízení sociálních služeb]]></description>
+            <pubDate>Fri, 19 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%20132-2021%20-%20navstevy%20nemocnic.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Vycházky</title>
+            <description><![CDATA[Omezení vycházek klientů zařízení sociálních služeb se nevztahuje na očkované osoby]]></description>
+            <pubDate>Fri, 19 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Usnesen%C3%AD%20vlady%20131-2021%20-%20socialni%20sluzby.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
             <title>Testování u malých zaměstnavatelů</title>
             <description><![CDATA[Od 26. 3. musí být otestováni také zaměstnanci zaměstnavatelů s 10-49 zaměstnanci, kteří docházejí na pracoviště]]></description>
             <pubDate>Thu, 18 Mar 2021 08:00:00 +0100</pubDate>
