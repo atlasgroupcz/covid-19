@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
-        
         <item>
             <title>Testování učitelů</title>
             <description><![CDATA[Zaměstnanci škol, školských zařízení a zařízení vykonávající nezbytnou péči o děti se musí také povinně testovat, dochází-li na pracoviště]]></description>
