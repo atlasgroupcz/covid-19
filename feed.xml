@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování mikropodnikatelů</title>
+            <description><![CDATA[OSVČ a zaměstnanci i těch nejmenších podnikatelů musí být od 6. dubna otestováni]]></description>
+            <pubDate>Tue, 23 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-k-narizeni-povinneho-testovani-zamestnancu-ze-dne-1-3-2021-s-ucinnosti-od-24-3-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>        
+        <item>
+            <title>Testování neziskovek</title>
+            <description><![CDATA[I zaměstnanci nestátních neziskových organizací musí být od 6. dubna otestováni]]></description>
+            <pubDate>Tue, 23 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-testovani-zamestnancu-nestatnich-neziskovych-organizaci.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Povinnosti samotestovatelů</title>
+            <description><![CDATA[Aktualizace a rozšíření působnosti opatření upravujícího samotestování]]></description>
+            <pubDate>Tue, 23 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-samotestovani-zamestnancu-a-OSVC-s-ucinnosti-od-28-3-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Pandemický zákon</title>
             <description><![CDATA[Článek o tom, co přináší nový pandemický zákon]]></description>
             <pubDate>Mon, 22 Mar 2021 08:00:00 +0100</pubDate>
