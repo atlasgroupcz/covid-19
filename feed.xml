@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování a DPH</title>
+            <description><![CDATA[Služby testování na COVID-19 jsou osvobozené od DPH]]></description>
+            <pubDate>Mon, 29 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/22527-INFORMACE_testovani_COVID_CISTOPIS.pdf</link>
+            <author>Ministerstvo financí</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
+            <title>Prodloužení nouzového stavu</title>
+            <description><![CDATA[Nouzový stav a všechna stávající opatření byly prodlouženy do 11. dubna]]></description>
+            <pubDate>Fri, 26 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/sb057-21%20-%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item> 
+        <item>
             <title>Testování mikropodnikatelů</title>
             <description><![CDATA[OSVČ a zaměstnanci i těch nejmenších podnikatelů musí být od 6. dubna otestováni]]></description>
             <pubDate>Tue, 23 Mar 2021 08:00:00 +0100</pubDate>
