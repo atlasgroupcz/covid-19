@@ -9,7 +9,7 @@
             <link>http://data.s3.atlascloud.cz/COVID/22527-INFORMACE_testovani_COVID_CISTOPIS.pdf</link>
             <author>Ministerstvo financí</author>
             <enclosure type="image/jpg"
-                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
         </item>
         <item>
             <title>Prodloužení nouzového stavu</title>
@@ -18,7 +18,7 @@
             <link>http://data.s3.atlascloud.cz/COVID/sb057-21%20-%20prodlouzeni%20nouzoveho%20stavu.pdf</link>
             <author>Vláda</author>
             <enclosure type="image/jpg"
-                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
         </item> 
         <item>
             <title>Testování mikropodnikatelů</title>
