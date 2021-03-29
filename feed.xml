@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Přeshraniční doprava</title>
+            <description><![CDATA[Ruší se zvláštní režim pro ridiče mezinárodní nákladní dopravy jedoucí do/z Německa]]></description>
+            <pubDate>Mon, 29 Mar 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-ochranneho-opatreni-k-omezeni-prekroceni-statni-hranice-CR-ze-dne-15-3-2021-s-ucinnosti-od-28-3-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Testování a DPH</title>
             <description><![CDATA[Služby testování na COVID-19 jsou osvobozené od DPH]]></description>
             <pubDate>Mon, 29 Mar 2021 08:00:00 +0100</pubDate>
