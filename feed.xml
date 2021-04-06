@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Návrat do země</title>
+            <description><![CDATA[Nově se upravuje návrat občanů zpět do ČR a to i v případě, že jsou covid pozitivní]]></description>
+            <pubDate>Tue, 6 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-%E2%80%93-omezeni-prekroceni-statni-hranice-Ceske-republiky-s-ucinnosti-od-5.-4.-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Prodloužení lex covid justice</title>
+            <description><![CDATA[Zákaz exekuce prodejem movitých věcí trvá do konce června, odkládá se také účinnost úpravy chráněných účtů]]></description>
+            <pubDate>Tue, 6 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zakon%20155-2021%20-%20prodlouzeni%20lex%20covid%20justice.pdf</link>
+            <author>Pralament</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
             <title>Zákaz cest do rizikových zemí</title>
             <description><![CDATA[Od 12. dubna se zakazuje vstup do několika afrických a jihoamerických zemí]]></description>
             <pubDate>Tue, 30 Mar 2021 08:00:00 +0100</pubDate>
