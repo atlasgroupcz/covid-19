@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Balík opatření pro školy</title>
+            <description><![CDATA[Spolu s rozvolňováním ve školství vyšly také nová opatření pro testování učitelů a žáků]]></description>
+            <pubDate>Wed, 7 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Bal%C3%ADk-skolskych-opatreni.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Návrat do země</title>
             <description><![CDATA[Nově se upravuje návrat občanů zpět do ČR a to i v případě, že jsou covid pozitivní]]></description>
             <pubDate>Tue, 6 Apr 2021 08:00:00 +0100</pubDate>
