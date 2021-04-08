@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Provozovny</title>
+            <description><![CDATA[Opatření upravující zákazy prodeje a služeb bylo přepracováno, nově zakazuje toliko přítomnost veřejnosti v provozovnách; mění se i další zákazy]]></description>
+            <pubDate>Thu, 8 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-omezen%C3%AD-obchodu-a-slu%C5%BEeb-s-%C3%BA%C4%8Dinnost%C3%AD-od-12.-4.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Intervaly očkování</title>
+            <description><![CDATA[Ministerstvo zdravotnictví stanovilo intervaly pro podání druhé dávky jednotlivých vakcín]]></description>
+            <pubDate>Thu, 8 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-interval-pro-pod%C3%A1n%C3%AD-druh%C3%A9-d%C3%A1vky-vakc%C3%ADny-proti-covid-19-s-%C3%BA%C4%8Dinnost%C3%AD-od-10.-4.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Aktualizované opatření o ochranných prostředcích</title>
+            <description><![CDATA[Opatření o povinnosti nosit respirátory nově zohledňuje i žáky při výuce]]></description>
+            <pubDate>Thu, 8 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-ochrana-d%C3%BDchac%C3%ADch-cest-s-%C3%BA%C4%8Dinnost%C3%AD-od-12.4.2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus1.jpg"/>
+        </item>
+        <item>
             <title>Balík opatření pro školy</title>
             <description><![CDATA[Spolu s rozvolňováním ve školství vyšly také nová opatření pro testování učitelů a žáků]]></description>
             <pubDate>Wed, 7 Apr 2021 08:00:00 +0100</pubDate>
