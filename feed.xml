@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Účastníci svateb a pohřbů</title>
+            <description><![CDATA[Omezení počtu účastníků vybraných akcí (svatba, registrace, pohřeb) na 15 se uplatní i pro vnější prostory]]></description>
+            <pubDate>Tue, 13 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-k-omezeni-obchodu-a-sluzeb-ze-dne-10-4-2021-s-ucinnosti-od-13-4-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus2.jpg"/>
+        </item>
+        <item>
+            <title>Testování žáků</title>
+            <description><![CDATA[Výjimku z povinného testování mohou dostat mentálně postižení a autisté, ti se však nesmí účastnit výuky]]></description>
+            <pubDate>Tue, 13 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-k-testovani-zaku-ve-skolach-ze-dne-6-4-2021-s-ucinnosti-od-13-4-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Konzultace a poradenství</title>
+            <description><![CDATA[Od 19. dubna mohou probíhat individuální poradenská setkání a skupinové konzultace až šesti žáků určitých ročníků]]></description>
+            <pubDate>Tue, 13 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-19-4-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Sociální služby</title>
+            <description><![CDATA[Opatření omezující poskytování sociálních služeb na nezbytné případy zůstává v platnosti i po skončení nouzového stavu]]></description>
+            <pubDate>Tue, 13 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradni-opatreni-omezeni-poskytovani-socialnich-sluzeb-s-ucinnosti-od-13-4-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus15.jpg"/>
+        </item>
+        <item>
             <title>Omezení provozu a hromadných akcí</title>
             <description><![CDATA[Soukromé nebo veřejné akce (nemají-li výjimku) mohou mít maximálně 2 účastníky]]></description>
             <pubDate>Mon, 12 Apr 2021 08:00:00 +0100</pubDate>
