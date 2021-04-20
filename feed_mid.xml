@@ -21,6 +21,15 @@
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
         </item>
         <item>
+            <title>Průvodce samotestováním ve firmách</title>
+            <description><![CDATA[Návod jak provádět testování přímo ve firmách od MPO]]></description>
+            <pubDate>Tue, 20 Apr 2021 8:00:00 +0100</pubDate>
+            <link>https://www.mpo.cz/cz/rozcestnik/informace-o-koronavirus/pruvodce-testovanim-ve-firmach--259808/</link>
+            <author>Ministerstvo průmyslu a obchodu</author>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Rozcestník EU k pandemii</title>
             <description><![CDATA[Seznam důležitých dokumentů týkajících se společné reakce EU na pandemii COVID-19]]></description>
             <pubDate>Mon, 1 Jun 2020 8:00:00 +0100</pubDate>
