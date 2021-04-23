@@ -12,6 +12,15 @@
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
         </item>
         <item>
+            <title>Školky Plzeňského kraje</title>
+            <description><![CDATA[Také školky Plzeňského kraje se otevřou bez povinného testování]]></description>
+            <pubDate>Fri, 23 Apr 2021 10:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Skolky%20Plzensky%20kraj.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Testování na vysokých školách</title>
             <description><![CDATA[Nové opatření o povinném testování studentů vysokých škol]]></description>
             <pubDate>Fri, 23 Apr 2021 08:00:00 +0100</pubDate>
