@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Systém balíčků</title>
+            <description><![CDATA[Vláda představila systém rozvolňování ve formě několika balíčků]]></description>
+            <pubDate>Fri, 23 Apr 2021 08:00:00 +0100</pubDate>
+            <link>https://www.vlada.cz/cz/epidemie-koronaviru/dulezite-informace/balicky-pro-navrat-zpet-do-normalniho-zivota-187921/</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
             <title>Účastníci svateb a pohřbů</title>
             <description><![CDATA[Omezení počtu účastníků vybraných akcí (svatba, registrace, pohřeb) na 15 se uplatní i pro vnější prostory]]></description>
             <pubDate>Tue, 13 Apr 2021 08:00:00 +0100</pubDate>
