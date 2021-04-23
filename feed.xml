@@ -12,6 +12,33 @@
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
         </item>
         <item>
+            <title>Testování na vysokých školách</title>
+            <description><![CDATA[Nové opatření o povinném testování studentů vysokých škol]]></description>
+            <pubDate>Fri, 23 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-6-4-2021-k-testovani-zaku-ve-skolach-s-ucinnosti-od-26-4-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Testování ve školkách</title>
+            <description><![CDATA[V Karlovarském a Královéhradeckém kraji nebude třeba testovat děti ve školkách]]></description>
+            <pubDate>Fri, 23 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-6-4-2021-k-testovani-zaku-ve-skolach-s-ucinnosti-od-26-4-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Rozvolňování ve školství</title>
+            <description><![CDATA[Otevírá se praktická výuka všech posledních ročníků vysokých škol a v Karlovarském a Královéhradeckém kraji se otevírají školky]]></description>
+            <pubDate>Fri, 23 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-26-4-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Účastníci svateb a pohřbů</title>
             <description><![CDATA[Omezení počtu účastníků vybraných akcí (svatba, registrace, pohřeb) na 15 se uplatní i pro vnější prostory]]></description>
             <pubDate>Tue, 13 Apr 2021 08:00:00 +0100</pubDate>
