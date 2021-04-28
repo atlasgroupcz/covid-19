@@ -3,12 +3,30 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ochrana dýchacích cest</title>
+            <description><![CDATA[Aktualizované opatření o ochraně dýchacích cest; žákům základních škol a nižších ročníků středních škol postačí rouška]]></description>
+            <pubDate>Wed, 28 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-ochrana-dychacich-cest-s-ucinnosti-od-3-5-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus4.jpg"/>
+        </item>
+        <item>
+            <title>Školy v bezpečných krajích</title>
+            <description><![CDATA[Od 3. května se mohou otevřít další třídy základních a středních škol v Karlovéhradeckém, Karlovarském a Plzeňském kraji]]></description>
+            <pubDate>Wed, 28 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Skoly%20KVK%20KHK%20PLK.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Překročení hranic</title>
             <description><![CDATA[Bylo aktualizováno opatření o překračování státních hranic; upravuje příjezd ze zemí s extrémním rizikem nákazy]]></description>
             <pubDate>Tue, 27 Apr 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-omezeni-prekroceni-statni-hranice-Ceske-republiky-s-ucinnosti-od-27-4-2021-do-odvolani.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
-            <enclosure type="image/webp" 
+            <enclosure type="image/jpg" 
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
         </item>
         <item>
@@ -26,7 +44,7 @@
             <pubDate>Mon, 26 Apr 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-obchodu-a-slu%C5%BEeb-s-%C3%BA%C4%8Dinnost%C3%AD-od-26.-4.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
-            <enclosure type="image/webp" 
+            <enclosure type="image/jpg" 
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
         </item>
         <item>
