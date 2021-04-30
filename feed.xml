@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Obchody a služby</title>
+            <description><![CDATA[Za dodržení hygienických podmínek se otevírají služby péče o tělo a o zvířata, také galerie, muzea a další]]></description>
+            <pubDate>Fri, 30 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-obchodu-a-sluzeb-s-ucinnosti-od-3-5-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Otevření škol v dalších krajích</title>
+            <description><![CDATA[V Praze a Karlovarském, Královéhradeckém, Libereckém, Pardubickém, Plzeňském a Středočeském kraji se otevírají další školy]]></description>
+            <pubDate>Fri, 30 Apr 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-3-5-2021-do-odvolani-1.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Ochrana dýchacích cest</title>
             <description><![CDATA[Aktualizované opatření o ochraně dýchacích cest; žákům základních škol a nižších ročníků středních škol postačí rouška]]></description>
             <pubDate>Wed, 28 Apr 2021 08:00:00 +0100</pubDate>
