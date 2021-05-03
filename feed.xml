@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování ve školách</title>
+            <description><![CDATA[S výjimkou žáků 2. stupně ZŠ a odpovídajících ročníků nižších gymnázií a konzervatoří se bude testovat již pouze 1x týdně]]></description>
+            <pubDate>Mon, 1 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-%E2%80%93-podm%C3%ADnky-testov%C3%A1n%C3%AD-d%C4%9Bt%C3%AD-%C5%BE%C3%A1k%C5%AF-a-student%C5%AF-s-%C3%BA%C4%8Dinnost%C3%AD-od-3.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Obchody a služby</title>
             <description><![CDATA[Za dodržení hygienických podmínek se otevírají služby péče o tělo a o zvířata, také galerie, muzea a další]]></description>
             <pubDate>Fri, 30 Apr 2021 08:00:00 +0100</pubDate>
