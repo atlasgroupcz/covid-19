@@ -3,9 +3,18 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Očkování a rizikové země</title>
+            <description><![CDATA[Očkované osoby (mající certifikát) nemusí při příjezdu z méně rizikových zemí podstupovat test a mohou se volně pohybovat]]></description>
+            <pubDate>Tue, 4 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8Cesk%C3%A9-republiky-s-%C3%BA%C4%8Dinnost%C3%AD-od-4.-5.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Testování ve školách</title>
             <description><![CDATA[S výjimkou žáků 2. stupně ZŠ a odpovídajících ročníků nižších gymnázií a konzervatoří se bude testovat již pouze 1x týdně]]></description>
-            <pubDate>Mon, 1 May 2021 08:00:00 +0100</pubDate>
+            <pubDate>Sat, 1 May 2021 08:00:00 +0100</pubDate>
             <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-%E2%80%93-podm%C3%ADnky-testov%C3%A1n%C3%AD-d%C4%9Bt%C3%AD-%C5%BE%C3%A1k%C5%AF-a-student%C5%AF-s-%C3%BA%C4%8Dinnost%C3%AD-od-3.-5.-2021.pdf</link>
             <author>Ministerstvo zdravotnictví</author>
             <enclosure type="image/jpg" 
