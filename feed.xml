@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Lázně a kosmetické služby</title>
+            <description><![CDATA[Úprava pravidel pro lázně a kadeřnictví, manikůry, solária a služby u nichž je porušována integrita kůže]]></description>
+            <pubDate>Wed, 12 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-6-5-2021-k-omezeni-obchodu-a-sluzeb-s-ucinnosti-od-11-5-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Návštěvy v nemocnicích</title>
+            <description><![CDATA[Úprava pravidel pro návštěvy zdravotnických zařízení, domovů pro seniory, domovy se zvláštním režimem apod.]]></description>
+            <pubDate>Wed, 12 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-n%C3%A1v%C5%A1t%C4%9Bvy-ve-zdravotnick%C3%BDch-za%C5%99%C3%ADzen%C3%ADch-a-za%C5%99%C3%ADzen%C3%ADch-soci%C3%A1ln%C3%ADch-slu%C5%BEeb-s-%C3%BA%C4%8Dinnost%C3%AD-od-17.-5.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus15.jpg"/>
+        </item>
+        <item>
+            <title>Opatření k testování zaměstnanců a OSVČ</title>
+            <description><![CDATA[Nejvyššímu správnímu soudu opět chybí u opatření k testování zaměstnanců řádné odůvodnění a proto jej zrušil]]></description>
+            <pubDate>Wed, 12 May 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/ustavni-pravo/zruseni-opatreni-k-testovani-zamestnancu</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-rozsudek-soud-kladivko-knihy-univerzal-jpg.webp"/>
+        </item>
+        <item>
             <title>Obchody a služby</title>
             <description><![CDATA[Pravidla pro otevření obchodů a služeb dle stávajícího opatření se budou vztahovat na všechny kraje stejně]]></description>
             <pubDate>Mon, 10 May 2021 08:00:00 +0100</pubDate>
