@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Rozvolnění testování</title>
+            <description><![CDATA[Na školách se bude testovat jen jednou týdně, s výjimkou některých škol a krajů]]></description>
+            <pubDate>Fri, 14 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-%E2%80%93-frekvence-testov%C3%A1n%C3%AD-d%C4%9Bt%C3%AD-%C5%BE%C3%A1k%C5%AF-a-student%C5%AF-s-%C3%BA%C4%8Dinnost%C3%AD-od-17.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Zrušení omezení sociálních služeb</title>
+            <description><![CDATA[Omezení sociálních služeb na nezbytné základní služby bylo zrušeno]]></description>
+            <pubDate>Fri, 14 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-poskytovatel%C3%A9-ter%C3%A9nn%C3%ADch-soci%C3%A1ln%C3%ADch-slu%C5%BEeb-s-%C3%BA%C4%8Dinnost%C3%AD-od-17.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus15.jpg"/>
+        </item>
+        <item>
+            <title>Zrušení omezení domovů</title>
+            <description><![CDATA[Omezení vycházek a povinnost vyčlenit prostory pro covidové klienty v domovech pro seniory aj. byly zrušeny]]></description>
+            <pubDate>Fri, 14 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zru%C5%A1en%C3%AD-mimo%C5%99%C3%A1dn%C3%BDch-opat%C5%99en%C3%AD-%C4%8D.-j.-MZDR-13719.2020-3.MIN_.KAN-a-MZDR-14599.2021-1.MIN_.KAN_.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus14.jpg"/>
+        </item>
+        <item>
             <title>Lázně a kosmetické služby</title>
             <description><![CDATA[Úprava pravidel pro lázně a kadeřnictví, manikůry, solária a služby u nichž je porušována integrita kůže]]></description>
             <pubDate>Wed, 12 May 2021 08:00:00 +0100</pubDate>
