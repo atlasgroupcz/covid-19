@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Venkovní aktivity</title>
+            <description><![CDATA[Otevírají se venkovní prostory provozoven (např. zahrádky) a povolují se vekovní akce pro testované, očkované nebo imunizované osoby]]></description>
+            <pubDate>Mon, 17 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-obchodu-a-slu%C5%BEeb-s-%C3%BA%C4%8Dinnost%C3%AD-od-17.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Otevírání škol</title>
+            <description><![CDATA[Další rozvolnění ve školství představuje zrušení rotační výuky na nižších stupních ZŠ, v bezpečných krajích také vyšších stupních]]></description>
+            <pubDate>Mon, 17 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-omezen%C3%AD-provozu-%C5%A1kol-a-%C5%A1kolsk%C3%BDch-za%C5%99%C3%ADzen%C3%AD-s-%C3%BA%C4%8Dinnost%C3%AD-od-17.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Pozitivní testy</title>
+            <description><![CDATA[Nové opatření upravující povinnosti pozitivně testovaných zaměstnanců a OSVČ]]></description>
+            <pubDate>Mon, 17 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-samotestov%C3%A1n%C3%AD-zam%C4%9Bstnanc%C5%AF-OSV%C4%8C-s-%C3%BA%C4%8Dinnost%C3%AD-od-15.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Příjezdy očkovaných</title>
             <description><![CDATA[Výjimka z omezení po příjezdu platí nově i pro osoby očkované v jiných zemích (Slovensko, Německo, Rakousko, Polsko, Maďarsko a Slovinsko)]]></description>
             <pubDate>Sat, 15 May 2021 08:00:00 +0100</pubDate>
