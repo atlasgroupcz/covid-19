@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Příjezdy očkovaných</title>
+            <description><![CDATA[Výjimka z omezení po příjezdu platí nově i pro osoby očkované v jiných zemích (Slovensko, Německo, Rakousko, Polsko, Maďarsko a Slovinsko)]]></description>
+            <pubDate>Sat, 15 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8Cesk%C3%A9-republiky-s-%C3%BA%C4%8Dinnost%C3%AD-od-15.-5.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Rozvolnění testování</title>
             <description><![CDATA[Na školách se bude testovat jen jednou týdně, s výjimkou některých škol a krajů]]></description>
             <pubDate>Fri, 14 May 2021 08:00:00 +0100</pubDate>
