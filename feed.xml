@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Výjimka pro sportovce</title>
+            <description><![CDATA[Výjimka z povinnosti nosit roušku či respirátor pro sportovce byla rozšířena na všechny cvičící osoby]]></description>
+            <pubDate>Tue, 18 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-k-ochrane-dychacich-cest-ze-dne-4-5-s-ucinnosti-od-18-5-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
+            <title>Prodloužení platnosti testů</title>
+            <description><![CDATA[Studenti vysokých škol mohou pro prezenční výuku dokládat až 3 dny (dříve 2 dny) starý test]]></description>
+            <pubDate>Tue, 18 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-k-testovani-studentu-vysokych-skol-ze-dne-19-4-2021-s-ucinnosti-od-18-5-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Venkovní aktivity</title>
             <description><![CDATA[Otevírají se venkovní prostory provozoven (např. zahrádky) a povolují se vekovní akce pro testované, očkované nebo imunizované osoby]]></description>
             <pubDate>Mon, 17 May 2021 08:00:00 +0100</pubDate>
