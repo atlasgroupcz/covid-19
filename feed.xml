@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>K omezení služeb</title>
+            <description><![CDATA[Podle soudu pandemický zákon umožňuje omezit činnost obchodní či výrobní provozovny, ale ne provozovny, v níž jsou poskytovány služby]]></description>
+            <pubDate>Mon, 24 May 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/spravni-pravo/omezeni-provozu-restauraci-kasin-je-nezakonne</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-spravedlnost-vahy-soud-judikatura-rozhodnuti-rozsudek-jpg.webp"/>
+        </item>
+        <item>
             <title>Oteření provozoven</title>
             <description><![CDATA[Od příštího týdne se povolují hromadné venkovní kulturní akce až pro 1000 lidí a lze plně využívat ubytovacích zařízení]]></description>
             <pubDate>Thu, 20 May 2021 08:00:00 +0100</pubDate>
