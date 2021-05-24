@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Délka imunizace</title>
+            <description><![CDATA[Doba, po kterou se osoba po prodělání COVID-19 považuje za imunní, byla prodloužena na 180 dní]]></description>
+            <pubDate>Mon, 24 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%BDch-opat%C5%99en%C3%AD-zm%C4%9Bna-lh%C5%AFty-pro-uzn%C3%A1v%C3%A1n%C3%AD-prod%C4%9Bl%C3%A1n%C3%AD-onemocn%C4%9Bn%C3%AD-covid-19-s-%C3%BA%C4%8Dinnost%C3%AD-od-24.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Školy</title>
+            <description><![CDATA[Další uvolnění se týká základních uměleckých škol, středních škol a středisek volného času]]></description>
+            <pubDate>Mon, 24 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-provoz-%C5%A1kol-a-%C5%A1kolsk%C3%BDch-za%C5%99%C3%ADzen%C3%AD-s-%C3%BA%C4%8Dinnost%C3%AD-od-24.-5.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Povolení cestování</title>
+            <description><![CDATA[Na seznamu zemí, do nichž je zakázáno cestovat, již nejsou Keňa a Nepál]]></description>
+            <pubDate>Mon, 24 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-narizeni-o-zakazu-vstupu-do-zemi-s-extremnim-rizikem-nakazy-onemocneni-covid-19-s-ucinnosti-od-22-5-do-3-6-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>K omezení služeb</title>
             <description><![CDATA[Podle soudu pandemický zákon umožňuje omezit činnost obchodní či výrobní provozovny, ale ne provozovny, v níž jsou poskytovány služby]]></description>
             <pubDate>Mon, 24 May 2021 08:00:00 +0100</pubDate>
