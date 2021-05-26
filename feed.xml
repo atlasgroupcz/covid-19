@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Podmínky pro ubytování</title>
+            <description><![CDATA[Přeformulování podmínek, komu lze poskytnout ubytování; bezpříznakové děti do 6 let lze ubytovat bez dalšího]]></description>
+            <pubDate>Wed, 26 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-19-5-2021-k-omezeni-obchodu-a-sluzeb-s-ucinnosti-od-25-5-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
+        </item>
+        <item>
             <title>Délka imunizace</title>
             <description><![CDATA[Doba, po kterou se osoba po prodělání COVID-19 považuje za imunní, byla prodloužena na 180 dní]]></description>
             <pubDate>Mon, 24 May 2021 08:00:00 +0100</pubDate>
