@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Otevření služeb</title>
+            <description><![CDATA[Nové opatření již neuzavírá provozovny služeb (např. restaurace), ale pouze stanoví hygienické podmínky jejich provozu]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/stravovaci-sluzby-0486.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Omezení testování</title>
+            <description><![CDATA[Zdarma se bude možné testovat pouze jednou týdně]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/testovani-obyvatel-0486.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Podmínky pro ubytování</title>
             <description><![CDATA[Přeformulování podmínek, komu lze poskytnout ubytování; bezpříznakové děti do 6 let lze ubytovat bez dalšího]]></description>
             <pubDate>Wed, 26 May 2021 08:00:00 +0100</pubDate>
