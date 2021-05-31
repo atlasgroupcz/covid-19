@@ -3,6 +3,60 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Změny v omezení provozu škol</title>
+            <description><![CDATA[Úpravy v omezeních provozu škol, školských zařízení a vysokých škol od 31. 5. 2021]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bny%20v%20omezen%C3%AD%20provozu%20%C5%A1kol.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Změny v testování žáků a studentů</title>
+            <description><![CDATA[Úpravy podmínek testování dětí, žáků a studentů od 31. 5. 2021]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Zm%C4%9Bny%20v%20testov%C3%A1n%C3%AD%20%C5%BE%C3%A1k%C5%AF%20a%20student%C5%AF.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Omezení cestování</title>
+            <description><![CDATA[Seznam zemí s nízkým, středním a vysokým rizikem nákazy aktuální od 31. 5. 2021]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Omezen%C3%AD%20cestov%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Testování obyvatel</title>
+            <description><![CDATA[Od 1. 6. 2021 dochází k úpravám podmínek testování obyvatel prostřednictvím POC antigenních i RT-PCR  testů.]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Testov%C3%A1n%C3%AD%20obyvatel.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Maloobchodní prodej a služby</title>
+            <description><![CDATA[Úpravy podmínek pro činnost provozoven stravovacích a dalších služeb a maloobchodního prodeje od 31. 5. 2021.]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Maloobchodn%C3%AD%20prodej%20a%20slu%C5%BEby.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Omezení překročení hranic</title>
+            <description><![CDATA[Změny v omezeních překročení státní hranice České republiky s účinností od 1. 6. 2021.]]></description>
+            <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Omezen%C3%AD%20p%C5%99ekro%C4%8Den%C3%AD%20hranic.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Otevření služeb</title>
             <description><![CDATA[Nové opatření již neuzavírá provozovny služeb (např. restaurace), ale pouze stanoví hygienické podmínky jejich provozu]]></description>
             <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
