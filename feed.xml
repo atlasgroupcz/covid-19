@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Maloobchodní prodej a služby</title>
+            <description><![CDATA[Změny v omezení maloobchodního prodeje a služeb od 1. 6. 2021 – dětské koutky]]></description>
+            <pubDate>Fri, 31 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Maloobchodni%20prodej%20a%20sluzby.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Ochrana dýchacích cest</title>
+            <description><![CDATA[Změna ve vymezení nutné ochrany dýchacích cest od 1. 6. 2021 – fotografování organizované školou]]></description>
+            <pubDate>Fri, 31 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ochrana%20dychacich%20cest.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Omezení provozu škol</title>
+            <description><![CDATA[Změna v omezeních provozu škol a vysokých škol od 1. 6. 2021 v případě zpěvu jako stěžejní součásti studia]]></description>
+            <pubDate>Fri, 31 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Omezeni%20provozu%20skol.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Očkování osob</title>
+            <description><![CDATA[Změna v plánu očkování osob od 1. 6. 2021 – certifikáty o očkování]]></description>
+            <pubDate>Fri, 31 May 2021 08:00:00 +0100</pubDate>
+            <link>http://data.s3.atlascloud.cz/COVID/Ockovani%20osob.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Změny v omezení provozu škol</title>
             <description><![CDATA[Úpravy v omezeních provozu škol, školských zařízení a vysokých škol od 31. 5. 2021]]></description>
             <pubDate>Fri, 28 May 2021 08:00:00 +0100</pubDate>
