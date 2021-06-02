@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nezákonnost plošného uzavření mateřských a základních škol</title>
+            <description><![CDATA[Nejvyšší správní soud vyslovil nezákonnost plošného uzavření mateřských a základních škol podle mimořádných opatření Ministerstva zdravotnictví z 12. 4. a 19. 4. 2021.]]></description>
+            <pubDate>Fri, 2 Jun 2021 08:00:00 +0100</pubDate>
+            <link>http://www.nssoud.cz/Nejvyssi-spravni-soud-vyslovil-nezakonnost-plosneho-uzavreni-materskych-a-zakladnich-skol-podle-mimoradnych-opatreni-Ministerstva-zdravotnictvi-z-12-4-a-19-4-2021/art/32889</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Maloobchodní prodej a služby</title>
             <description><![CDATA[Změny v omezení maloobchodního prodeje a služeb od 1. 6. 2021 – dětské koutky]]></description>
             <pubDate>Fri, 31 May 2021 08:00:00 +0100</pubDate>
