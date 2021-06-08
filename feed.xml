@@ -21,6 +21,15 @@
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
         </item>
         <item>
+            <title>Návštěvy nemocnic</title>
+            <description><![CDATA[K návštěvě nemocnice nebo sociálního zařízení nyní již postačí jakýkoliv test (např. z práce), dokládá se čestným prohlášením]]></description>
+            <pubDate>Tue, 8 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://www.mzcr.cz/wp-content/uploads/2021/06/Mimoradne-opatreni-navstevy-ve-zdravotnickych-zarizenich-a-zarizenich-socialnich-sluzeb-s-ucinnosti-od-8-6-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Omezení škol</title>
             <description><![CDATA[Nové opatření školy neuzavírá, pouze stanoví epidemiologická opatření jako maximální počet osob či povinné testy]]></description>
             <pubDate>Tue, 8 Jun 2021 08:00:00 +0100</pubDate>
