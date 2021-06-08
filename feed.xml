@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Podmínky provozu</title>
+            <description><![CDATA[Nově koncipovaná opatření pro prodejny zboží a služeb, nákupní centra a tržiště, ubytování, sport, společenské akce aj.]]></description>
+            <pubDate>Tue, 8 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://www.mzcr.cz/wp-content/uploads/2021/06/Mimoradne-opatreni-omezeni-maloobchodniho-prodeje-a-sluzeb-s-ucinnosti-od-8-6-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Roušky</title>
+            <description><![CDATA[Výjimku získaly předškolní děti a mimo Jihočeský, Liberecký a Zlínský kraj také v lavicích usazení žáci a např. v kancelářích usazení pracovníci]]></description>
+            <pubDate>Tue, 8 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://www.mzcr.cz/wp-content/uploads/2021/06/Mimoradne-opatreni-ochrana-dychacich-cest-s-ucinnosti-od-8-6-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
+            <title>Omezení škol</title>
+            <description><![CDATA[Nové opatření školy neuzavírá, pouze stanoví epidemiologická opatření jako maximální počet osob či povinné testy]]></description>
+            <pubDate>Tue, 8 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://www.mzcr.cz/wp-content/uploads/2021/06/Mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-8-6-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Nezákonnost plošného uzavření mateřských a základních škol</title>
             <description><![CDATA[Nejvyšší správní soud vyslovil nezákonnost plošného uzavření mateřských a základních škol podle mimořádných opatření MZd z 12. 4. a 19. 4. 2021.]]></description>
             <pubDate>Wed, 2 Jun 2021 08:00:00 +0100</pubDate>
