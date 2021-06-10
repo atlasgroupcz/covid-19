@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nezákonnost plošného uzavření sportovišť</title>
+            <description><![CDATA[Ani sportoviště nelze plošně uzavřít; vedle toho soud požaduje lepší odůvodnění uzavření koupališť a wellness zařízení]]></description>
+            <pubDate>Thu, 10 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/spravni-pravo/opatreni-pro-sportoviste-koupaliste-wellness-bylo-nezakonne</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-univerzal-judikatura-2-jpg.webp"/>
+        </item>
+        <item>
             <title>Podmínky provozu</title>
             <description><![CDATA[Nově koncipovaná opatření pro prodejny zboží a služeb, nákupní centra a tržiště, ubytování, sport, společenské akce aj.]]></description>
             <pubDate>Tue, 8 Jun 2021 08:00:00 +0100</pubDate>
