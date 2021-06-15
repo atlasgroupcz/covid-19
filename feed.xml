@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Karanténa po očkování</title>
+            <description><![CDATA[Karanténa bude nařizována i osobám po první dávce očkování]]></description>
+            <pubDate>Tue, 15 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-2-3-2021-k-narizeni-izolace-a-karanteny-s-ucinnosti-od-15-6-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Sjednocení pravidel</title>
+            <description><![CDATA[Pravidla pro nošení ochranných prostředků byla sjednocena pro všechny kraje]]></description>
+            <pubDate>Tue, 15 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-7-6-2021-k-ochrane-dychacich-cest-s-ucinnosti-od-15-6-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
+            <title>Testování vysokoškoláků</title>
+            <description><![CDATA[Výjimky z testování vysokoškoláků odpovídají výjimkám pro jiné případy povinného testování]]></description>
+            <pubDate>Tue, 15 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-2-3-2021-k-narizeni-izolace-a-karanteny-s-ucinnosti-od-15-6-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Kulturní akce</title>
             <description><![CDATA[Od pondělí se mírně uvolňují opatření pro kulturní akce; největší novinkou je povolení míst na stání]]></description>
             <pubDate>Mon, 14 Jun 2021 08:00:00 +0100</pubDate>
