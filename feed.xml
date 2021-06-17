@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Cestování</title>
+            <description><![CDATA[Nové, přepracované ochranné opatření o překračování státních hranic začne platit 21. 6. 2021]]></description>
+            <pubDate>Thu, 17 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8Cesk%C3%A9-republiky-s-%C3%BA%C4%8Dinnost%C3%AD-od-21.-6.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Karanténa po očkování</title>
             <description><![CDATA[Karanténa bude nařizována i osobám po první dávce očkování]]></description>
             <pubDate>Tue, 15 Jun 2021 08:00:00 +0100</pubDate>
