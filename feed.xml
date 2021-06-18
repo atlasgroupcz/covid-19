@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konec plošného testování</title>
+            <description><![CDATA[Pravidelné testování zaměstnanců, žáků a studentů skončí 1. června]]></description>
+            <pubDate>Fri, 18 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/konec%20plo%C5%A1n%C3%A9ho%20testov%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
             <title>Cestování</title>
             <description><![CDATA[Nové, přepracované ochranné opatření o překračování státních hranic začne platit 21. 6. 2021]]></description>
             <pubDate>Thu, 17 Jun 2021 08:00:00 +0100</pubDate>
