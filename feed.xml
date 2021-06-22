@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Certifikáty o očkování</title>
+            <description><![CDATA[Rozšiřuje se možnost doložit absolvování očkování proti onemocnění covid-19 také národním certifikátem členských států EU]]></description>
+            <pubDate>Tue, 22 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-7-6-2021-k-omezeni-maloobchodniho-prodeje-a-sluzeb-s-ucinnosti-od-22-6-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Certifikáty o očkování</title>
+            <description><![CDATA[Národní certifikáty členských států EU platí i pro školství]]></description>
+            <pubDate>Tue, 22 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-7-6-2021-k-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-22-6-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Konec plošného testování</title>
             <description><![CDATA[Pravidelné testování zaměstnanců, žáků a studentů skončí 1. července]]></description>
             <pubDate>Fri, 18 Jun 2021 08:00:00 +0100</pubDate>
