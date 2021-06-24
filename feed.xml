@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Nezákonnost plošného uzavření středních škol</title>
+            <description><![CDATA[K dřívějšímu rozhodnutí o nezákonnosti uzavření mateřských a základních škol soud judikoval též nezákonnost uzavření středních škol]]></description>
+            <pubDate>Thu, 24 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/spravni-pravo/plosne-uzavreni-strednich-skol-je-nezakonne</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-univerzal-judikatura-2-jpg.webp"/>
+        </item>
+        <item>
             <title>Certifikáty o očkování</title>
             <description><![CDATA[Rozšiřuje se možnost doložit absolvování očkování proti onemocnění covid-19 také národním certifikátem členských států EU]]></description>
             <pubDate>Tue, 22 Jun 2021 08:00:00 +0100</pubDate>
