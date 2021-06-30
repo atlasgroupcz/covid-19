@@ -3,6 +3,69 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Respirátory</title>
+            <description><![CDATA[Ve stanovených vnitřních prostorách je třeba nosit respirátor, v ostatních postačí rouška]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-ochrana-dychacich-cest-s-ucinnosti-od-1-7-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
+            <title>Testování po příjezdu</title>
+            <description><![CDATA[Nové opatření o překračování hranic mění na červenec režimy pro testování po příjezdu]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-omezeni-prekroceni-statni-hranice-Ceske-republiky-s-ucinnosti-od-1-7-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Zákaz cestování</title>
+            <description><![CDATA[Na seznam zakázaných zemí přibyla Namibie, Paraguay a Rusko, od 5.7. také Tunisko]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-narizeni-o-zakazu-vstupu-do-zemi-s-extremnim-rizikem-nakazy-onemocneni-covid-19-s-ucinnosti-od-1-do-31-7-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Screening mutací</title>
+            <description><![CDATA[Veškeré pozitivní vzorky je třeba přešněji určit, o jakou variantu se jedná]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-diskriminacni-RT-PCR-vysetreni-vzorku-s-ucinnosti-od-1-7-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
+            <title>Úprava vzdělávání</title>
+            <description><![CDATA[Opatření sjednocuje epidemiologická pravidla pro vzdělávací akce a zkoušky]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-1-7-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Zrušení dalších opatření</title>
+            <description><![CDATA[Zastavuje se testování zaměstnanců školek a ruší se vězeňská opatření]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-mimoradnych-opatreni-c-j-MZDR-162202020-5-MIN-KANze-dne-26-8-2020-c-j-MZDR-478282020-23-MIN-KAN-ze-dne-19-3-2021-a-c-j-MZDR-145982021-1-MIN-KAN-6-4-2021-s-ucinnosti-od-1-7-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+        </item>
+        <item>
+            <title>Vyčlenění lůžek</title>
+            <description><![CDATA[Ruší se covidová oddělení v nemocnicích]]></description>
+            <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-mimoradneho-opatreni-ze-dne-6-4-2021-k-vycleneni-luzek-v-nemocnicich-pro-pacienty-s-covid-19-s-ucinnosti-od-1-7-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus6.jpg"/>
+        </item>
+        <item>
             <title>Uvolnění pravidel</title>
             <description><![CDATA[Ruší se evidence zákazníků, zvyšuje se počet účastníků akcí a zákazníků na prodejní ploše; zakazuje se však tanec v restauracích, klubech či diskotékách]]></description>
             <pubDate>Mon, 28 Jun 2021 08:00:00 +0100</pubDate>
