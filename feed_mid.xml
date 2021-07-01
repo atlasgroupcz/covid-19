@@ -44,8 +44,8 @@
             <pubDate>Tue, 29 Sep 2020 8:00:00 +0100</pubDate>
             <link>https://onemocneni-aktualne.mzcr.cz/covid-19/stupne-pohotovosti</link>
             <author>Ministerstvo zdravotnictví</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Odpovědi AK Deloitte</title>
@@ -54,7 +54,7 @@
             <link>https://www2.deloitte.com/cz/cs/pages/legal/articles/nejcastejsi-otazky-v-souvslosti-s-pandemii-COVID-19.html</link>
             <author>Deloitte Legal</author>
             <enclosure type="image/jpeg"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Právo v roušce</title>
@@ -62,8 +62,8 @@
             <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
             <link>http://www.pravovrousce.cz</link>
             <author>SEDLAKOVA LEGAL a další</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Spojujeme Česko</title>
@@ -71,8 +71,8 @@
             <pubDate>Wed, 1 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://spojujemecesko.cz/</link>
             <author>Ministerstvo vnita</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Odpovědi Ministerstva financí</title>
@@ -80,8 +80,8 @@
             <pubDate>Mon, 30 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www.mfcr.cz/cs/o-ministerstvu/sluzby-verejnosti/komunikace-s-verejnosti/casto-kladene-otazky</link>
             <author>Ministerstvo financí</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Odpovědi MPSV pro zaměstnance</title>
@@ -89,8 +89,8 @@
             <pubDate>Tue, 31 Mar 2020 8:00:00 +0100</pubDate>
             <link>https://www.mpsv.cz/prava-zamestnancu</link>
             <author>Ministerstvo práce a sociálních věcí</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Program MPSV Antivirus</title>
@@ -98,8 +98,8 @@
             <pubDate>Mon, 6 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.mpsv.cz/antivirus</link>
             <author>Ministerstvo práce a sociálních věcí</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
         <item>
             <title>Rozcestník MMR k opatřením a pomoci</title>
@@ -107,8 +107,8 @@
             <pubDate>Fri, 17 Apr 2020 8:00:00 +0100</pubDate>
             <link>https://www.mmr.cz/cs/ministerstvo/vsechna-opatreni-a-pomoc-mmr-pri-pandemii-covid-19</link>
             <author>Ministerstvo pro místní rozvoj</author>
-            <enclosure type="image/png"
-                       url="https://res.cloudinary.com/dr346xlyd/image/upload/v1584035357/koronavirus_mxlthe.png"/>
+            <enclosure type="image/jpeg"
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
         </item>
    </channel>
 </rss>
