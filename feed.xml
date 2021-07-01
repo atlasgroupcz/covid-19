@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Prokazatelné protilátky</title>
+            <description><![CDATA[Mimořádná opatření by měla počítat také s možností prokázat hladinu protilátek laboratorně]]></description>
+            <pubDate>Thu, 1 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/obcanske-pravo/epidemiologicka-opatreni-prokazatelne-protilatky</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/1280x720/posts/edited-images/new-koronavirus-test-covid-jpg.webp"/>
+        </item>
+        <item>
+            <title>Nezákonnost povinného testování malých subjektů</title>
+            <description><![CDATA[Ministerstvo zdravotnictví nevysvětlilo, proč bylo v dubnu potřeba začít testovat i zaměstnance malých firem a živnostníky bez zaměstnanců]]></description>
+            <pubDate>Thu, 1 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/pracovni-pravo/nezakonnost-povinneho-testovani-malych-subjektu</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-univerzal-soud-jpg.webp"/>
+        </item>
+        <item>
             <title>Testování u přijímaček</title>
             <description><![CDATA[Testování se ruší i pro přijímací zkoušky na střední školy]]></description>
             <pubDate>Thu, 1 Jul 2021 08:00:00 +0100</pubDate>
