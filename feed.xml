@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování u přijímaček</title>
+            <description><![CDATA[Testování se ruší i pro přijímací zkoušky na střední školy]]></description>
+            <pubDate>Thu, 1 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-mimoradnych-opatreni-ze-dne-6-4-2021-k-testovani-u-prijimacich-zkouseka-a-ze-dne-27-5-2021-k-podminkam-testovani-deti-zaku-a-studentu.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Respirátory</title>
             <description><![CDATA[Ve stanovených vnitřních prostorách je třeba nosit respirátor, v ostatních postačí rouška]]></description>
             <pubDate>Wed, 30 Jun 2021 08:00:00 +0100</pubDate>
