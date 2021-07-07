@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Účinnost očkování</title>
+            <description><![CDATA[Osoba je plně očkovaná uplynutím již 14 dnů po poslední dávce vakcíny (dříve 22 dní)]]></description>
+            <pubDate>Wed, 7 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradnych-opatreni-v-nichz-se-stanovi-ockovani-jako-vyjimka-z-nekterych-povinnosti-s-ucinnosti-od-9-7-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Příjezdová opatření</title>
+            <description><![CDATA[Povinnost testování a příjezdového formuláře se vztahuje i na nízkorizikové země; upravuje se příchod do zaměstnání před otestováním]]></description>
+            <pubDate>Wed, 7 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-omezeni-prekroceni-statni-hranice-Ceske-republiky-s-ucinnosti-od-9-7-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Nejrizikovější státy</title>
+            <description><![CDATA[Cestování do zemí s extrémním rizikem nákazy již není zakázáno ale pouze "důrazně nedoporučeno"]]></description>
+            <pubDate>Wed, 7 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-vstup-do-zemi-s-extremnim-rizikem-nakazy-onemocneni-covid-19-s-ucinnosti-od-5-do-31-7-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Prokazatelné protilátky</title>
             <description><![CDATA[Mimořádná opatření by měla počítat také s možností prokázat hladinu protilátek laboratorně]]></description>
             <pubDate>Thu, 1 Jul 2021 08:00:00 +0100</pubDate>
