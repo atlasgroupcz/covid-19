@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Příjezdová opatření</title>
+            <description><![CDATA[Opatření o překračování hranic bylo před nabytím účinnosti ještě zaktualizováno; doplněny výjimky pro očkované osoby]]></description>
+            <pubDate>Fri, 9 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8CR-s-%C3%BA%C4%8Dinnost%C3%AD-od-9.-7.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Omezení stravovacích a ubytovacích služeb bylo nezákonné</title>
             <description><![CDATA[Pandemický zákon neumožňuje plošné omezení stravovacích a ubytovacích služeb]]></description>
             <pubDate>Wed, 7 Jul 2021 08:00:00 +0100</pubDate>
