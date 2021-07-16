@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Hromadné akce</title>
+            <description><![CDATA[Akce s předpokládanou účastí nad tisíc osob denně je třeba hlásit krajské hygienické stanici]]></description>
+            <pubDate>Fri, 16 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimo%C5%99%C3%A1dn%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-povinnost-ozn%C3%A1men%C3%AD-o-kon%C3%A1n%C3%AD-hromadn%C3%A9-akce-nad-1-000-osob-s-%C3%BA%C4%8Dinnost%C3%AD-od-19.-7.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+        </item>
+        <item>
             <title>Příjezdová opatření</title>
             <description><![CDATA[Opatření o překračování hranic bylo před nabytím účinnosti ještě zaktualizováno; doplněny výjimky pro očkované osoby]]></description>
             <pubDate>Fri, 9 Jul 2021 08:00:00 +0100</pubDate>
