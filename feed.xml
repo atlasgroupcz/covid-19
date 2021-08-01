@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ochrana dýchacích cest</title>
+            <description><![CDATA[Rouškové opatření na srpen]]></description>
+            <pubDate>Fri, 30 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-ochrana-dychacich-cest-s-ucinnosti-od-31-7-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
+            <title>Provozovny</title>
+            <description><![CDATA[Omezení provozů na srpen]]></description>
+            <pubDate>Fri, 30 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-maloobchodniho-prodeje-a-sluzeb-s-ucinnosti-od-1-8-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Hranice</title>
+            <description><![CDATA[Překračování hranic v srpnu]]></description>
+            <pubDate>Fri, 30 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochrann%C3%A9-opat%C5%99en%C3%AD-%E2%80%93-omezen%C3%AD-p%C5%99ekro%C4%8Den%C3%AD-st%C3%A1tn%C3%AD-hranice-%C4%8Cesk%C3%A9-republiky-s-%C3%BA%C4%8Dinnost%C3%AD-od-31.-7.-2021-do-odvol%C3%A1n%C3%AD.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Školy</title>
+            <description><![CDATA[Zmírnění opatření omezujícího maximální počet osob ve skupině]]></description>
+            <pubDate>Fri, 30 Jul 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-29-6-2021-k-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-1-8-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Nedostatky v odůvodnění</title>
             <description><![CDATA[Nejvyšší správní soud opět zrušil opatření ministerstva o ochraně dýchacích cest pro nedostatečné odůvodnění]]></description>
             <pubDate>Thu, 29 Jul 2021 08:00:00 +0100</pubDate>
