@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Kontroly na letištích</title>
+            <description><![CDATA[Provozovatelům veřejných mezinárodních letišť se nařizuje kontrolovat dodržení podmínek vstupu do země]]></description>
+            <pubDate>Wed, 1 Sep 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-narizeni-vsem-provozovatelum-verejnych-mezinarodnich-letist-v-CR-s-ucinnosti-od-1-9-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+         <item>
+            <title>Příjezd nezletilých dětí</title>
+            <description><![CDATA[Děti ze třetích zemí, které cestují se svým zákonným zástupcem, sdílejí jeho režim]]></description>
+            <pubDate>Wed, 1 Sep 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-stanoveni-podminek-pro-vstup-na-uzemi-CR-s-ucinnosti-od-1-9-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Černá listina zemí zrušena</title>
+            <description><![CDATA[Seznam zemí, do nichž ministerstvo důrazně nedoporučuje vstup, byl zrušen]]></description>
+            <pubDate>Wed, 1 Sep 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-ochranneho-opatreni-ze-dne-17-8-2021-ke-vstup-do-zemi-s-extremnim-rizikem-nakazy-onemocneni-covid-19-s-ucinnosti-od-1-9-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Opatření od září</title>
             <description><![CDATA[Počet osob u stolu v restauraci se zvyšuje na 6, mění se pravidla pro akce nad 3000 účastníků a pro odvětrávání]]></description>
             <pubDate>Fri, 27 Aug 2021 08:00:00 +0100</pubDate>
