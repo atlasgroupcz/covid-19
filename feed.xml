@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Příjezdy</title>
+            <description><![CDATA[Pro občany třetích zemí již nerozhoduje občanství, ale kde pobývali]]></description>
+            <pubDate>Mon, 13 Sep 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-ze-dne-26.-8.-2021-k-omezen%C3%AD-maloobchodn%C3%ADho-prodeje-slu%C5%BEeb-a-%C5%A1kol-s-%C3%BA%C4%8Dinnost%C3%AD-od-13.-9.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
+            <title>Tělesná výchova</title>
+            <description><![CDATA[Sportoviště a bazény mohou navštěvovat žáci v rámci tělesné výchovy i bez potvrzení o bezinfekčnosti]]></description>
+            <pubDate>Mon, 13 Sep 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zm%C4%9Bna-mimo%C5%99%C3%A1dn%C3%A9ho-opat%C5%99en%C3%AD-ze-dne-26.-8.-2021-k-omezen%C3%AD-maloobchodn%C3%ADho-prodeje-slu%C5%BEeb-a-%C5%A1kol-s-%C3%BA%C4%8Dinnost%C3%AD-od-13.-9.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+        </item>
+        <item>
             <title>Testování zdravotníků a seniorů</title>
             <description><![CDATA[Neočkovaní zaměstnanci a klienti pobytových zdravotních a sociálních služeb (např. domovy důchodců) se budou každý týden testovat]]></description>
             <pubDate>Wed, 1 Sep 2021 08:00:00 +0100</pubDate>
