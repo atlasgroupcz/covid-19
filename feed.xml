@@ -3,6 +3,24 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Kontroly bezinfekčnosti</title>
+            <description><![CDATA[V provozovnách maloobchodu a služeb se od listopadu bude kontrolovat bezinfekčnost klientů; platnost testů se zkracuje]]></description>
+            <pubDate>Fri, 22 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Provozovny%20od%201-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
+        </item>
+        <item>
+            <title>Ochrana dýchacích cest</title>
+            <description><![CDATA[Povinnost nosit respirátor se rozšiřuje na všechny vnitřní prostory, kde se setkávají lidé]]></description>
+            <pubDate>Fri, 22 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/D%C3%BDchac%C3%AD%20cesty%20od%2025-10-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
             <title>Hromadné akce</title>
             <description><![CDATA[Revize pravidel pro ubytování, sportovní a vzdělávací akce, pěvecké sbory, schůze a zasedání]]></description>
             <pubDate>Wed, 29 Sep 2021 08:00:00 +0100</pubDate>
