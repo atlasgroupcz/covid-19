@@ -21,6 +21,25 @@
                        url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
         </item>
         <item>
+            <title>Testování obyvatelstva</title>
+            <description><![CDATA[O bezplatné testování mohou požádat osoby do 18 let, osoby po první dávce očkování a neočkovaní ze zdravotních důvodů]]></description>
+            <pubDate>Fri, 22 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Testov%C3%A1n%C3%AD%20od%201-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+
+        <item>
+            <title>Pravidla pro karantény a izolace</title>
+            <description><![CDATA[Pravidla pro nařizování karantén a izolací bude namísto opatření ministerstva řešit metodický pokyn hlavní hygieničky]]></description>
+            <pubDate>Wed, 20 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-mimoradneho-opatreni-ze-dne-2-3-2021-o-narizovani-izolace-a-karanteny-s-ucinnosti-od-25-10-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus14.jpg"/>
+        </item>
+        <item>
             <title>Hromadné akce</title>
             <description><![CDATA[Revize pravidel pro ubytování, sportovní a vzdělávací akce, pěvecké sbory, schůze a zasedání]]></description>
             <pubDate>Wed, 29 Sep 2021 08:00:00 +0100</pubDate>
