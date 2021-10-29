@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ochrana dýchacích cest</title>
+            <description><![CDATA[Nové opatření již výčtem specifikuje prostory (obchody, školy, nemocnice...), kde je třeba mít respirátor]]></description>
+            <pubDate>Fri, 29 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-%E2%80%93-ochrana-dychacich-cest-s-ucinnosti-od-1.-11.-2021-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
+        <item>
+            <title>Preventivní testování ve školách</title>
+            <description><![CDATA[Opatření k preventivnímu testování žáků a studentů, které proběhne 1. a 8. listopadu]]></description>
+            <pubDate>Fri, 29 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-%E2%80%93-screeningove-testovani-ve-skolach-s-ucinnosti-od-1.-11.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Podmínky pro příjezd do ČR</title>
+            <description><![CDATA[Nové, aktualizované příjezdové opatření již nestanoví žádné podmínky pro děti do 12 let]]></description>
+            <pubDate>Wed, 27 Oct 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-stanoveni-podminek-pro-vstup-na-uzemi-CR-s-ucinnosti-od-27-10-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Kontroly bezinfekčnosti</title>
             <description><![CDATA[V provozovnách maloobchodu a služeb se od listopadu bude kontrolovat bezinfekčnost klientů; platnost testů se zkracuje]]></description>
             <pubDate>Fri, 22 Oct 2021 08:00:00 +0100</pubDate>
