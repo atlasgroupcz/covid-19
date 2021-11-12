@@ -2,6 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
+        
+        <item>
+            <title>Očkování cizinců</title>
+            <description><![CDATA[Od příštího týdne se mohou bezplatně očkovat i cizinci]]></description>
+            <pubDate>Fri, 12 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/pravidla-provadeni-ockovani-cizincu.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Diskriminační vyšetření</title>
+            <description><![CDATA[Došlo k prodloužení lhůty pro provedení laboratorního vyšetření odebraných vzorků za účelem stanovení varianty viru]]></description>
+            <pubDate>Fri, 12 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/diskriminacni-RT-PCR-vysetreni.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Testování zaměstnanců zdravotních a sociálních služeb</title>
+            <description><![CDATA[Testování se rozšiřuje jenak na dobrovolníky a osoby na praxi a jednak na poskytovatele krátkodobé lůžkové péče]]></description>
+            <pubDate>Fri, 12 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/testovani-v-zarizenich-socialni-pece.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus14.jpg"/>
+        </item>
         <item>
             <title>Omezení služeb</title>
             <description><![CDATA[Děti do 12 let nemusí prokazovat bezinfekčnost a platí nová omezení pro lyžaršké vleky a lanové dráhy]]></description>
