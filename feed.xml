@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Rakouský a bavorský model</title>
+            <description><![CDATA[Ústavní právníci k pravomocem vlády zavádět tzv. rakouský nebo bavorský model protiepidemických opatření]]></description>
+            <pubDate>Thu, 18 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/aktuality/pravnici-k-zavedeni-rakouskeho-modelu-je-potreba-vyhlasit-nouzovy-stav</link>
+            <author>ČTK</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-korona-covid-paragraf-mimoradna-opatreni-jpg.webp"/>
+        </item>
+        <item>
             <title>Další kola testování ve školách</title>
             <description><![CDATA[Preventivní screeningové testování proběhne opět 22. a 29. listopadu]]></description>
             <pubDate>Mon, 15 Nov 2021 08:00:00 +0100</pubDate>
