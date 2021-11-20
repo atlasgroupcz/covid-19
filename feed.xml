@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování obyvatelstva</title>
+            <description><![CDATA[K testování veřejnosti na žádost se již nebudou používat rychlé antigenní testy, ale pouze RT-PCR]]></description>
+            <pubDate>Fri, 18 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-testovani-obyvatel-na-pritomnost-viru-SARS-CoV-2-s-ucinnosti-od-22-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Návštěvy nemocnic a seniorů</title>
+            <description><![CDATA[Návštěva (byť očkovaná či testovaná) nesmí vykazovat příznaky onemocnění COVID-19]]></description>
+            <pubDate>Fri, 18 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-stanoveni-podminek-navstev-ve-zdravotnickych-zarizenich-a-v-zarizenich-socialnich-sluzeb-s-ucinnosti-od-22-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus2.jpg"/>
+        </item>
+        <item>
+            <title>Návštěvy věznic</title>
+            <description><![CDATA[Opět se omezují návštěvy osob ve vazbě, detenci nebo výkonu trestu]]></description>
+            <pubDate>Fri, 18 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-stanoveni-podminek-navstev-ve-vazebnich-veznicich-veznicich-v-ustavech-pro-vykon-zabezpecovaci-detence-a-v-zarizenich-pro-zajisteni-cizincu-s-ucinnosti-od-22-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
+            <title>Ubytování vysokoškoláků</title>
+            <description><![CDATA[Ubytovacím zařízením vysokých škol již nestačí rychlý antigenní test, musí požadovat alespoň PCR]]></description>
+            <pubDate>Fri, 18 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-27-10-2021-ke-screeningovemu-testovani-ve-skolach-s-ucinnosti-od-22-11-2021-1.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+        </item>
+        <item>
             <title>Rakouský a bavorský model</title>
             <description><![CDATA[Ústavní právníci k pravomocem vlády zavádět tzv. rakouský nebo bavorský model protiepidemických opatření]]></description>
             <pubDate>Thu, 18 Nov 2021 08:00:00 +0100</pubDate>
