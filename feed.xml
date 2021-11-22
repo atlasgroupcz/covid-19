@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování zaměstnanců</title>
+            <description><![CDATA[Povinné testování zaměstnanců je zpět]]></description>
+            <pubDate>Mon, 22 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-testovani-zamestnancu-a-osob-samostatne-vydelecne-cinnych-s-ucinnosti-od-22-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Omezení provozoven</title>
+            <description><![CDATA[Nové opatření zavádějící tzv. bavorský model: jen některé osoby se mohou prokazovat RT-PCR testem, ostatní pouze očkováním či prodělanou nemocí]]></description>
+            <pubDate>Mon, 22 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-omezeni-maloobchodniho-prodeje-zbozi-a-poskytovani-sluzeb-s-ucinnosti-od-22-11-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Testování ve školách</title>
+            <description><![CDATA[Screeningové testování ve školách bude probíhat každé pondělí]]></description>
+            <pubDate>Mon, 22 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-27-10-2021-ke-screeningovemu-testovani-ve-skolach-s-ucinnosti-od-22-11-a-od-6-12-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Testování obyvatelstva</title>
             <description><![CDATA[K testování veřejnosti na žádost se již nebudou používat rychlé antigenní testy, ale pouze RT-PCR]]></description>
             <pubDate>Fri, 18 Nov 2021 08:00:00 +0100</pubDate>
