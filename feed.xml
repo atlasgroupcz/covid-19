@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Doporučení pro služební úřady</title>
+            <description><![CDATA[Obecná protiepidemiologická doporučení pro ústřední orgány státní správy a samosprávu]]></description>
+            <pubDate>Tue, 23 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Doporu%C4%8Den%C3%AD%20pro%20slu%C5%BEebn%C3%AD%20%C3%BA%C5%99ady.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
             <title>Potvrzující test</title>
             <description><![CDATA[Osoby pozitivně testované se musí podrobit konfirmačnímu testu]]></description>
             <pubDate>Tue, 23 Nov 2021 08:00:00 +0100</pubDate>
