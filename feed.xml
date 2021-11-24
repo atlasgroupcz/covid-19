@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Zlínský kraj se uzavírá</title>
+            <description><![CDATA[Zlínský kraj kvůli zatížení svých nemocnic ohlásil, že minimálně na 14 dní omezí společenský život]]></description>
+            <pubDate>Wed, 24 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/aktuality/stat-zvazuje-povinne-ockovani-senioru-zlinsky-kraj-omezi-spolecensky-zivot</link>
+            <author>ČTK</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+        </item>
+        <item>
             <title>Doporučení pro služební úřady</title>
             <description><![CDATA[Obecná protiepidemiologická doporučení pro ústřední orgány státní správy a samosprávu]]></description>
             <pubDate>Tue, 23 Nov 2021 08:00:00 +0100</pubDate>
