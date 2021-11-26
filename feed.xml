@@ -3,13 +3,31 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
-            <title>Zlínský kraj se uzavírá</title>
-            <description><![CDATA[Zlínský kraj kvůli zatížení svých nemocnic ohlásil, že minimálně na 14 dní omezí společenský život]]></description>
-            <pubDate>Wed, 24 Nov 2021 08:00:00 +0100</pubDate>
-            <link>https://www.pravniprostor.cz/aktuality/stat-zvazuje-povinne-ockovani-senioru-zlinsky-kraj-omezi-spolecensky-zivot</link>
-            <author>ČTK</author>
+            <title>Nouzový stav</title>
+            <description><![CDATA[Vláda vyhlásila nouzový stav od 26. listopadu]]></description>
+            <pubDate>Fri, 26 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20434-2021%20-%20nouzovy%20stav.pdf</link>
+            <author>Vláda</author>
             <enclosure type="image/jpg" 
-                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
+        </item>
+        <item>
+            <title>Krizové opatření k nouzovému stavu</title>
+            <description><![CDATA[Omezení provozu a nové zákazy stanoví krizové opatření vlády]]></description>
+            <pubDate>Fri, 26 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20435-2021%20-%20omezeni%20provozoven.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Pracovní povinnost</title>
+            <description><![CDATA[Vláda stanoví pracovní povinnost některým lékařům a zdravotnickým pracovníkům]]></description>
+            <pubDate>Fri, 26 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20436-2021%20-%20pracovni%20povinnost%20lekaru.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus14.jpg"/>
         </item>
         <item>
             <title>Doporučení pro služební úřady</title>
