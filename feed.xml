@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Africká mutace</title>
+            <description><![CDATA[Zvýšená protiepidemická opatření platí po příjezdu z Jihoafrické republiky, Namibie, Lesotha, Svazijska, Zimbabwe, Botswany, Zambie nebo Mosambiku]]></description>
+            <pubDate>Sun, 29 Nov 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20438-2021%20-%20prijezd%20z%20Afriky.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Nouzový stav</title>
             <description><![CDATA[Vláda vyhlásila nouzový stav od 26. listopadu]]></description>
             <pubDate>Fri, 26 Nov 2021 08:00:00 +0100</pubDate>
