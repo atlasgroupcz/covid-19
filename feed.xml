@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Ochrana před Jihoafrickou mutací</title>
+            <description><![CDATA[Příjezd z vybraných afrických zemí bude omezen minimálně do 20.12.]]></description>
+            <pubDate>Tue, 7 Dec 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Usneseni%20vlady%20459-2021%20-%20prijezd%20z%20Afriky.pdf</link>
+            <author>Vláda</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Úřady práce</title>
             <description><![CDATA[Opatření ke zjednodušení vyplácení nepojistných sociálních dávek vyplácených úřady práce]]></description>
             <pubDate>Tue, 30 Nov 2021 08:00:00 +0100</pubDate>
