@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Aktualizace příjezdového opatření</title>
+            <description><![CDATA[Z důvodu vládních krizových opatření došlo k aktualizaci opatření ministerstva zdravotnictví]]></description>
+            <pubDate>Tue, 7 Dec 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Ochranne-opatreni-%E2%80%93-stanoveni-podminek-pro-vstup-na-uzemi-CR-s-ucinnosti-od-7.-12.-2021.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Ochrana před Jihoafrickou mutací</title>
             <description><![CDATA[Příjezd z vybraných afrických zemí bude omezen minimálně do 20.12.]]></description>
             <pubDate>Tue, 7 Dec 2021 08:00:00 +0100</pubDate>
