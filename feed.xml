@@ -3,6 +3,33 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Kompenzační bonus</title>
+            <description><![CDATA[Zákon č. 519/2021 Sb. stanoví pravidla pro vyplácení kompenzací v souvislosti s opatřeními]]></description>
+            <pubDate>Wed, 22 Dec 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zakon%20519-2021%20-%20kompenzacni%20bonus.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
+            <title>Izolačka</title>
+            <description><![CDATA[Zvyšuje se náhrada mzdy pro osoby v izolaci a karanténě od 23. prosince]]></description>
+            <pubDate>Wed, 22 Dec 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zakon%20518-2021%20-%20izolacka.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus2.jpg"/>
+        </item>
+        <item>
+            <title>Ošetřovné</title>
+            <description><![CDATA[Upravuje se výplata ošetřovného pro situace související s pandemií (např. uzavření škol)]]></description>
+            <pubDate>Wed, 22 Dec 2021 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zakon%20520-2021%20-%20osetrovne.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Testování zaměstnanců</title>
             <description><![CDATA[Aktualizace opatření pro testování zaměstnanců upravuje postupy po pozitivním nálezu]]></description>
             <pubDate>Tue, 14 Dec 2021 08:00:00 +0100</pubDate>
