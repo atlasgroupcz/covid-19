@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Testování zaměstnanců</title>
+            <description><![CDATA[Mimořádné opatření ministerstva zdravotnictví k preventivnímu testování zaměstnanců od 17. ledna]]></description>
+            <pubDate>Thu, 6 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-testovani-zamestnancu-a-dalsich-osob-s-ucinnosti-od-17-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Další změna pro provozovny</title>
             <description><![CDATA[Provozovatelé musí používat mobilní aplikaci čTečka ke kontrolám a již nemusí bránit shlukování zákazníků]]></description>
             <pubDate>Fri, 31 Dec 2021 08:00:00 +0100</pubDate>
