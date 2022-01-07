@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Otázky a odpovědi k testování</title>
+            <description><![CDATA[Ministerstvo průmyslu a obchodu připravilo několik odpovědí na otázky k testování zaměstnanců]]></description>
+            <pubDate>Fri, 7 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/TZ%20MPO_pravidla%20testov%C3%A1n%C3%AD%20zam%C4%9Bstnanc%C5%AF.docx</link>
+            <author>Ministerstvo průmyslu a obchodu</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
             <title>Testování zaměstnanců</title>
             <description><![CDATA[Mimořádné opatření ministerstva zdravotnictví k preventivnímu testování zaměstnanců od 17. ledna]]></description>
             <pubDate>Thu, 6 Jan 2022 08:00:00 +0100</pubDate>
