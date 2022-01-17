@@ -3,6 +3,51 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Podrobnější hlášení</title>
+            <description><![CDATA[Zaměstnavatelé budou zasílat hygieně při pozitivním testu zaměstnance více informací]]></description>
+            <pubDate>Fri, 14 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-5-1-2022-k-testovani-zamestnancu-a-dalsich-osob-s-ucinnosti-od-17-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
+            <title>Testování očkovaných</title>
+            <description><![CDATA[I očkovaní se mohou dobrovolně testovat až 5x měsíčně]]></description>
+            <pubDate>Fri, 14 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-18-11-2021-k-testovani-obyvatel-na-pritomnost-viru-SARS-CoV-2-s-ucinnosti-od-17-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Testování zdravotníků</title>
+            <description><![CDATA[Zvláštní opatření pro testování zaměstnanců poskytovatelů zdravotních a sociálních služeb]]></description>
+            <pubDate>Fri, 14 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-testovani-zamestnancu-u-poskytovatelu-zdravotnich-a-poskytovatelu-socialnich-sluzeb-s-ucinnosti-od-17-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus13.jpg"/>
+        </item>
+        <item>
+            <title>Organizátoři lyžáků</title>
+            <description><![CDATA[Změna opatření myslí na lyžařské kurzy organizované jinými než školskými (např. volnočasovými) zařízeními]]></description>
+            <pubDate>Fri, 14 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-29-12-2021-k-omezeni-maloobchodniho-prodeje-zbozi-sluzeb-a-poskytovani-sluzeb-s-ucinnosti-od-17-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus2.jpg"/>
+        </item>
+        <item>
+            <title>Testování učitelů s více úvazky</title>
+            <description><![CDATA[Změna opatření pro testování zaměstnanců škol řeší případy více zaměstnavatelů]]></description>
+            <pubDate>Fri, 14 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-23-12-2021-ke-screeningovemu-testovani-ve-skolach-s-ucinnosti-od-17-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
             <title>Otázky a odpovědi k testování</title>
             <description><![CDATA[Ministerstvo průmyslu a obchodu připravilo několik odpovědí na otázky k testování zaměstnanců]]></description>
             <pubDate>Fri, 7 Jan 2022 08:00:00 +0100</pubDate>
