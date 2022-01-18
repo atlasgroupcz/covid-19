@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Doporučení pro pracoviště</title>
+            <description><![CDATA[Ministerstvo průmyslu a obchodu připravilo seznam doporučení před nadcházející vlnou epidemie]]></description>
+            <pubDate>Tue, 18 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/0122_doporuceni_zamestnavatele.pdf</link>
+            <author>Ministerstvo průmyslu a obchodu</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
             <title>Podrobnější hlášení</title>
             <description><![CDATA[Zaměstnavatelé budou zasílat hygieně při pozitivním testu zaměstnance více informací]]></description>
             <pubDate>Fri, 14 Jan 2022 08:00:00 +0100</pubDate>
