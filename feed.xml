@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Platnost očkovacích certifikátů</title>
+            <description><![CDATA[Platnost očkovacích certifikátů se zkracuje na 270 dní]]></description>
+            <pubDate>Fri, 28 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-nekterych-mimoradnych-opatreni-v-souvislosti-ze-zmenou-doby-platnosti-ockovani-proti-nemoci-covid-19-s-ucinnosti-od-15-2-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus10.jpg"/>
+        </item>
+        <item>
+            <title>Testování zaměstnanců</title>
+            <description><![CDATA[Pokračuje testování ve zaměstnanců; nová výjimka pro osoby krátce po prodělání nemoci]]></description>
+            <pubDate>Fri, 28 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zmena-mimoradneho-opatreni-ze-dne-5-1-2022-k-testovani-zamestnancu-a-dalsich-osob-s-ucinnosti-od-31-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Testování ve školách</title>
+            <description><![CDATA[Pokračuje testování ve školách; nová výjimka pro osoby krátce po prodělání nemoci]]></description>
+            <pubDate>Fri, 28 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-screeningove-testovani-ve-skolach-s-ucinnosti-od-31-1-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus12.jpg"/>
+        </item>
+        <item>
+            <title>Návštěvy věznic</title>
+            <description><![CDATA[Aktualizace podmínek návštěv ve vazebních věznicích, věznicích, ústavech pro výkon zabezpečovací detence a zařízeních pro zajištění cizinců]]></description>
+            <pubDate>Fri, 28 Jan 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-stanoveni-podminek-navstev-ve-vazebnich-veznicich-veznicich-v-ustavech-pro-vykon-zabezpecovaci-detence-a-v-zarizenich-pro-zajisteni-cizincu-s-ucinnosti-od-27-1-do-13-2-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus21.jpg"/>
+        </item>
+        <item>
             <title>Doporučení pro pracoviště</title>
             <description><![CDATA[Ministerstvo průmyslu a obchodu připravilo seznam doporučení před nadcházející vlnou epidemie]]></description>
             <pubDate>Tue, 18 Jan 2022 08:00:00 +0100</pubDate>
