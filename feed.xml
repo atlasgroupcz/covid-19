@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Bezinfekčnost zákazníků</title>
+            <description><![CDATA[Soud zrušil část opatření, která požadovala po zákaznících některých služeb prokazování bezinfekčnosti]]></description>
+            <pubDate>Thu, 2 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://www.pravniprostor.cz/judikatura/ustavni-pravo/nejvyssi-spravni-soud-zrusil-s-odlozenou-ucinnosti-nektere-casti-aktualne-platneho-mimoradneho-opatreni-ministerstva-zdravotnictvi</link>
+            <author>Nejvyšší správní soud</author>
+            <enclosure type="image/webp" 
+                       url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-korona-covid-paragraf-mimoradna-opatreni-jpg.webp"/>
+        </item>
+        <item>
             <title>Platnost očkovacích certifikátů</title>
             <description><![CDATA[Platnost očkovacích certifikátů se zkracuje na 270 dní]]></description>
             <pubDate>Fri, 28 Jan 2022 08:00:00 +0100</pubDate>
