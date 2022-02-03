@@ -12,6 +12,15 @@
                        url="https://www.pravniprostor.cz/storage/app/media/optimized/original-size/posts/edited-images/new-korona-covid-paragraf-mimoradna-opatreni-jpg.webp"/>
         </item>
         <item>
+            <title>Pracovní karantény ve školství</title>
+            <description><![CDATA[Nezbytní zaměstnanci školských zařízení pro výkon ústavní nebo ochranné výchovy mohou na žádost jejího ředitele nastoupit tzv. pracovní karanténu]]></description>
+            <pubDate>Thu, 2 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-%E2%80%93-organizace-a-provadeni-pracovni-karanteny-ve-skolskych-zarizenich-pro-vykon-ustavni-vychovy-ochranne-vychovy-preventivne-vychovne-pece-s-ucinnosti-od-3.-2.-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus20.jpg"/>
+        </item>
+        <item>
             <title>Platnost očkovacích certifikátů</title>
             <description><![CDATA[Platnost očkovacích certifikátů se zkracuje na 270 dní]]></description>
             <pubDate>Fri, 28 Jan 2022 08:00:00 +0100</pubDate>
