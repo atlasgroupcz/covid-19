@@ -3,6 +3,42 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konec plošného testování</title>
+            <description><![CDATA[Plošené testování zaměstnanců, žáků, studentů atd. bude probíhat již pouze do 18. února]]></description>
+            <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-mimoradnych-opatreni-screeningove-testovani-ve-skolach-testovani-zamestnancu-a-dalsich-osob-s-ucinnosti-od-18.-2.-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus17.jpg"/>
+        </item>
+        <item>
+            <title>Provozovny</title>
+            <description><![CDATA[Ruší se omezení provozoven, zůstávají některá omezení pro hrodané akce (kulturní, sportovní, vzdělávací)]]></description>
+            <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-podminky-konani-hromadnych-akci-s-ucinnosti-od-10.-2.-2022-do-18.-2.-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Uvolnění pro hromadné akce</title>
+            <description><![CDATA[Hrodané akce bude možno pořádat pro větší počet účastníků od 19. února]]></description>
+            <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-podminky-konani-hromadnych-akci-s-ucinnosti-od-19.-2.-do-28.-2.-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus7.jpg"/>
+        </item>
+        <item>
+            <title>Testování zdravotníků</title>
+            <description><![CDATA[Aktualizace opatření po testování zaměstnanců poskytovatelů zdravotních a sociálních služeb]]></description>
+            <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-preventivni-testovani-zamestnancu-poskytovatelu-zdravotnich-a-socialnich-sluzeb-s-ucinnosti-od-19.-2.-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus14.jpg"/>
+        </item>
+        <item>
             <title>Bezinfekčnost zákazníků</title>
             <description><![CDATA[Soud zrušil část opatření, která požadovala po zákaznících některých služeb prokazování bezinfekčnosti]]></description>
             <pubDate>Thu, 2 Feb 2022 08:00:00 +0100</pubDate>
