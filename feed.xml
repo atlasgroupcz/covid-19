@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konec namátkových kontrol</title>
+            <description><![CDATA[Opatření ukládající mezinárodním letištím provádět namátkové kontroly splnění proticovidových opatření platí do pátku]]></description>
+            <pubDate>Thu, 17 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-OO-ze-dne-30-8-2021-k-narizeni-vsem-provozovatelum-verejnych-mezinarodnich-letist-v-CR.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus18.jpg"/>
+        </item>
+        <item>
             <title>Přepracované příjezdové opatření</title>
             <description><![CDATA[Pro stanovení povinností osobám přijíždějícím ze zahraničí je ode dneška rozhodné, zda přijíždějí ze země EU]]></description>
             <pubDate>Tue, 15 Feb 2022 08:00:00 +0100</pubDate>
