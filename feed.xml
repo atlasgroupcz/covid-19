@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konec pracovních karantén</title>
+            <description><![CDATA[Zrušení opatření je odůvodněno tím, že od 19. února nebude nařizována karanténa v případě rizikového kontaktu]]></description>
+            <pubDate>Fri, 18 Feb 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-mimoradneho-opatreni-%E2%80%93-organizace-a-provadeni-pracovni-karanteny-ve-skolskych-zarizenich-pro-vykon-ustavni-vychovy-ochranne-vychovy-preventivne-vychovne-pece-s-ucinnosti-od-18.-2.-2022-od-23.59-h.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
             <title>Konec namátkových kontrol</title>
             <description><![CDATA[Opatření ukládající mezinárodním letištím provádět namátkové kontroly splnění proticovidových opatření platí do pátku]]></description>
             <pubDate>Thu, 17 Feb 2022 08:00:00 +0100</pubDate>
