@@ -2,7 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
-        
+        <item>
+            <title>Respirátory</title>
+            <description><![CDATA[Ochrana dýchacích cest zůstává již jen v MHD a zdravotních a sociálních zařízeních]]></description>
+            <pubDate>Fri, 11 Mar 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Mimoradne-opatreni-ochrana-dychacich-cest-s-ucinnosti-od-14-3-2022-do-odvolani.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus9.jpg"/>
+        </item>
         <item>
             <title>Oznamování akcí</title>
             <description><![CDATA[Od března se již nemusí hromadné akce oznamovat krajským hygienickým stanicím]]></description>
