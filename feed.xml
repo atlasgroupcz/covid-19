@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konec dalších opatření</title>
+            <description><![CDATA[Končí omezený režim pro veřejné instituce a většina opatření ve zdravotnictví]]></description>
+            <pubDate>Tue, 22 Mar 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/Zruseni-nekolika-mimoradnych-opatreni-s-ucinnosti-od-23.-3.-2022.pdf</link>
+            <author>Ministerstvo zdravotnictví</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus3.jpg"/>
+        </item>
+        <item>
             <title>Opatření ve zdravotnictví</title>
             <description><![CDATA[Končí omezení návštěv a pravidelné testování zaměstnanců ve zdravotnických zařízeních a zařízeních sociální péče]]></description>
             <pubDate>Mon, 14 Mar 2022 08:00:00 +0100</pubDate>
