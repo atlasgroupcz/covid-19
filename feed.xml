@@ -3,6 +3,15 @@
     <channel>
         <atom:link rel="self" type="applicaion/rss+xml" href="http://www.pravniprostor.cz/rss"/>
         <item>
+            <title>Konec pandemické pohotovosti</title>
+            <description><![CDATA[Konec platnosti krizových opatření]]></description>
+            <pubDate>Thu, 5 May 2022 08:00:00 +0100</pubDate>
+            <link>https://data.s3.atlascloud.cz/COVID/sb056-22.pdf</link>
+            <author>Parlament</author>
+            <enclosure type="image/jpg" 
+                       url="https://codexis.s3-eu-west-1.amazonaws.com/cdxgreen/news/koronavirus19.jpg"/>
+        </item>
+        <item>
             <title>Respirátory v MHD</title>
             <description><![CDATA[Ruší se povinné nošení respirátorů ve veřejné hromadné dopravě]]></description>
             <pubDate>Thu, 14 Apr 2022 08:00:00 +0100</pubDate>
